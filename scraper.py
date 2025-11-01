@@ -9,8 +9,13 @@ import re
 load_dotenv()
 DATA_SOURCE = os.getenv("DATA_SOURCE")
 
+payload = {
+    "filter[collectionyear]": "2025",   # 2023-2024
+    "filter[instituteid]": "",  # All institutes
+    "list[limit]": 0,   # All records
 
-response = requests.get(DATA_SOURCE)
+}
+response = requests.post(DATA_SOURCE, data=payload)
 response.raise_for_status()
 
 soup = BeautifulSoup(response.content, "html.parser")
@@ -30,16 +35,12 @@ for item in soup_data:
         print(var)
         variable = var.text.strip()
         if variable == "Απόφοιτοι ΠΠΣ Ιδρύματος":
-            # graduates = var.find('div', class_='stats-item-variable-value').text.strip()
             graduates = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
         elif variable == "Εγγεγραμμένοι φοιτητές ΠΠΣ Ιδρύματος":
-            # registed_students = var.find('div', class_='stats-item-variable-value').text.strip()
             registed_students = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
         elif variable == "Εισαχθέντες φοιτητές ΠΠΣ Ιδρύματος":
-            # freshmen = var.find('div', class_='stats-item-variable-value').text.strip()
             freshmen = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
         elif variable == "Ενεργοί φοιτητές ΠΠΣ Ιδρύματος":
-            # active_students = var.find('div', class_='stats-item-variable-value').text.strip()
             active_students = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
 
     data.append({
