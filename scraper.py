@@ -39,7 +39,7 @@ def scrape_data(soup: BeautifulSoup):
             if variable == "Απόφοιτοι ΠΠΣ Ιδρύματος":
                 graduates = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
             elif variable == "Εγγεγραμμένοι φοιτητές ΠΠΣ Ιδρύματος":
-                registed = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
+                registered = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
             elif variable == "Εισαχθέντες φοιτητές ΠΠΣ Ιδρύματος":
                 freshmen = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
             elif variable == "Ενεργοί φοιτητές ΠΠΣ Ιδρύματος":
@@ -49,7 +49,7 @@ def scrape_data(soup: BeautifulSoup):
             'institution': institution.string[institution.end():].strip(),
             'established': established.string[established.end():],
             "graduates": graduates,
-            "registed": registed,
+            "registered": registered,
             "freshmen": freshmen,
             "active": active,
         })
