@@ -18,16 +18,37 @@ soup = BeautifulSoup(response.content, "html.parser")
 data = []
 soup_data = soup.find_all('div', class_='stats-item')
 for item in soup_data:
-    institution = item.find('div', class_='stats-item-title').text.strip()
+    institution = item  .find('div', class_='stats-item-title').text.strip()
     institution = re.search("^ΙΔΡΥΜΑ ::", institution)
-    # print(f"institution: {institution.string[institution.end():]}")
+    
     established = item.find('span', class_='stats-item-date').text.strip()
     established = re.search("Ημ/νία Ίδρυσης: ", established)
-    # print(f"established: {established.string[established.end():]}")
+    
+    variables = item.find_all('div', class_='stats-item-variable-title')
+    print(f"variables: {variables}")
+    for var in variables:
+        print(var)
+        variable = var.text.strip()
+        if variable == "Απόφοιτοι ΠΠΣ Ιδρύματος":
+            # graduates = var.find('div', class_='stats-item-variable-value').text.strip()
+            graduates = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
+        elif variable == "Εγγεγραμμένοι φοιτητές ΠΠΣ Ιδρύματος":
+            # registed_students = var.find('div', class_='stats-item-variable-value').text.strip()
+            registed_students = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
+        elif variable == "Εισαχθέντες φοιτητές ΠΠΣ Ιδρύματος":
+            # freshmen = var.find('div', class_='stats-item-variable-value').text.strip()
+            freshmen = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
+        elif variable == "Ενεργοί φοιτητές ΠΠΣ Ιδρύματος":
+            # active_students = var.find('div', class_='stats-item-variable-value').text.strip()
+            active_students = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
 
     data.append({
         'institution': institution.string[institution.end():],
-        'established': established.string[established.end():]
+        'established': established.string[established.end():],
+        "gradutes": graduates,
+        "registed_students": registed_students,
+        "freshmen": freshmen,
+        "active_students": active_students,
     })
 
 df = pd.DataFrame(data)
