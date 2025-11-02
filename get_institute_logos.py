@@ -1,12 +1,12 @@
 import os
 import requests
-from googlesearch import search
+import wikipediaapi
+from bs4 import BeautifulSoup
 
-# List of Greek universities
 universities = [
     "Athens School of Fine Arts",
     "Aristotle University of Thessaloniki",
-    "School of Pedagogical and Technological Education Greece",
+    "School of Pedagogical and Technological Education (ASPETE)",
     "Agricultural University of Athens",
     "Democritus University of Thrace",
     "International Hellenic University",
@@ -34,28 +34,41 @@ universities = [
     "Harokopio University of Athens"
 ]
 
-# Folder to save logos
 os.makedirs("logos", exist_ok=True)
 
-def download_image(url, filename):
-    try:
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
+# ✅ Add a proper User-Agent string
+USER_AGENT = "UniversityLogoFetcher/1.0 (https://github.com/floriandima; contact: florian@example.com)"
+
+wiki = wikipediaapi.Wikipedia(
+    user_agent=USER_AGENT,
+    language="en"
+)
+
+def get_logo_url(page_title):
+    page = wiki.page(page_title)
+    if not page.exists():
+        return None
+    response = requests.get(page.fullurl, headers={"User-Agent": USER_AGENT})
+    soup = BeautifulSoup(response.text, "html.parser")
+    infobox = soup.find("table", {"class": "infobox"})
+    if not infobox:
+        return None
+    img = infobox.find("img")
+    if img and "src" in img.attrs:
+        return "https:" + img["src"]
+    return None
+
+def download_logo(uni):
+    print(f"Searching logo for: {uni}")
+    logo_url = get_logo_url(uni)
+    if logo_url:
+        filename = os.path.join("logos", uni.replace(" ", "_") + ".png")
+        response = requests.get(logo_url, headers={"User-Agent": USER_AGENT})
         with open(filename, "wb") as f:
             f.write(response.content)
         print(f"Downloaded: {filename}")
-    except Exception as e:
-        print(f"Failed to download {filename}: {e}")
+    else:
+        print(f"No logo found for {uni}")
 
-for uni in universities:
-    query = f"{uni} logo site:.gr"
-    try:
-        # Get the first Google search result (usually an image)
-        for result in search(query, num_results=5):
-            if result.lower().endswith(('.png', '.jpg', '.jpeg', '.svg')):
-                filename = os.path.join("logos", f"{uni.replace(' ', '_')}{os.path.splitext(result)[1]}")
-                download_image(result, filename)
-                break
-    except Exception as e:
-        print(f"Error searching for {uni}: {e}")
-
+for u in universities:
+    download_logo(u)
