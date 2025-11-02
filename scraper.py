@@ -37,20 +37,20 @@ def scrape_data(soup: BeautifulSoup):
             print(var)
             variable = var.text.strip()
             if variable == "Απόφοιτοι ΠΠΣ Ιδρύματος":
-                graduates = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
+                graduate = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
             elif variable == "Εγγεγραμμένοι φοιτητές ΠΠΣ Ιδρύματος":
                 registered = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
             elif variable == "Εισαχθέντες φοιτητές ΠΠΣ Ιδρύματος":
-                freshmen = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
+                enrolled = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
             elif variable == "Ενεργοί φοιτητές ΠΠΣ Ιδρύματος":
                 active = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
 
         data.append({
             'institution': institution.string[institution.end():].strip(),
             'established': established.string[established.end():],
-            "graduates": int(graduates.replace('.', '')),
+            "graduate": int(graduate.replace('.', '')),
             "registered": int(registered.replace('.', '')),
-            "freshmen": int(freshmen.replace('.', '')),
+            "enrolled": int(enrolled.replace('.', '')),
             "active": int(active.replace('.', '')),
         })
 
