@@ -16,7 +16,7 @@ def save_to_csv(data: list[dict], filename: str):
     df = pd.DataFrame(data)
     df.to_csv(filename, index=False)
 
-def scrape_data(soup: BeautifulSoup):
+def scrape_data(soup: BeautifulSoup, filename: str):
     """Scrape data from the BeautifulSoup object and return a list of dictionaries.
     
     Args:
@@ -54,7 +54,7 @@ def scrape_data(soup: BeautifulSoup):
             "active": int(active.replace('.', '')),
         })
 
-        save_to_csv(data, f'hahe_{payload.get("filter[collectionyear]")}.csv')
+        save_to_csv(data, filename)
 
 
 load_dotenv()
@@ -74,4 +74,4 @@ for year in range(2020, 2026):
 
     soup = BeautifulSoup(response.content, "html.parser")
 
-    scrape_data(soup)
+    scrape_data(soup, f'hahe_{payload.get("filter[collectionyear]")}.csv')
