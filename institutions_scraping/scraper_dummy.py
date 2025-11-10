@@ -4,7 +4,17 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 import re
-from scraper import scrape_data, save_to_csv
+
+
+def save_to_csv(data: list[dict], filename: str):
+    """Save the list of dictionaries to a CSV file.
+    
+    Args:
+        data (list): List of dictionaries containing the scraped data.
+        filename (str): The name of the CSV file to save the data.
+    """
+    df = pd.DataFrame(data)
+    df.to_csv(filename, index=False)
 
 
 def map_programme(id: str) -> str:
@@ -43,23 +53,24 @@ def map_programme(id: str) -> str:
     return programmes_map.get(id, "Unknown programme")
 
 
-def scrape_data(soup: BeautifulSoup, filename: str):
+def scrape_data(soup: BeautifulSoup):
     """Scrape data from the BeautifulSoup object and return a list of dictionaries.
     
     Args:
         soup (BeautifulSoup): The BeautifulSoup object containing the HTML content.
     """
-    data = []
     soup_data = soup.find_all('div', class_='stats-item')
+    print(f"soup_data: {soup_data}")
     for item in soup_data:
-        institution = item.find('div', class_='top-item page-header').text.strip()
-        institution = re.search("^ΙΔΡΥΜΑ ::", institution)
+        print(f"item: {item}")
+        institution = item.find('div', class_='page-header').text.strip()
+        institution = re.search("^ ΙΔΡΥΜΑ ::", institution)
 
-        programme = item.find('div', class_='top-item page-header').text.strip()
-        programme = re.search("^ΠΠΣ ::", programme)
+        programme = item.find('div', class_='stats-item-title').text.strip()
+        programme = re.search("^ ΠΠΣ ::", programme)
         
         established = item.find('span', class_='stats-item-date').text.strip()
-        established = re.search("Ημ/νία Ίδρυσης: ", established)
+        established = re.search("^Ημ/νία Ίδρυσης: ", established)
         
         variables = item.find_all('div', class_='stats-item-variable-title')
         print(f"variables: {variables}")
@@ -75,15 +86,17 @@ def scrape_data(soup: BeautifulSoup, filename: str):
             elif variable == "Ενεργοί φοιτητές ΠΠΣ":
                 active = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
 
-        data.append({
-            'institution': institution.string[institution.end():].strip(),
+        return {
+            # 'institution': institution.string[institution.end():].strip(),
+            "institution": map_programme(payload.get("filter[instituteid]")),
+            'collection_year': payload.get("filter[collectionyear]"),
             'programme': programme.string[programme.end():].strip(),
             'established': established.string[established.end():],
             "graduate": int(graduate.replace('.', '')),
             "registered": int(registered.replace('.', '')),
             "enrolled": int(enrolled.replace('.', '')),
             "active": int(active.replace('.', '')),
-        })
+        }
 
 
 load_dotenv()
@@ -95,15 +108,18 @@ payload = {
     "list[limit]": 0,   # All records
 }
 
+data = []
 for year in range(2020, 2026):
     for inst_id in range(1, 29):
         payload["filter[instituteid]"] = str(inst_id)
         payload["filter[collectionyear]"] = str(year)
-
-        response = requests.post(DATA_SOURCE, data=payload)
+        print(f"payload: {payload}")
+        response = requests.post(DATA_SOURCE, data=payload, headers={"User-Agent": "Mozilla/5.0"})
+        print(response.content.decode(response.encoding or 'utf-8'))
         response.raise_for_status()
+        soup = BeautifulSoup(response.content.decode(response.encoding or 'utf-8'), "html.parser")
 
-        soup = BeautifulSoup(response.content, "html.parser")
 
-        scrape_data(soup, f"hahe_{payload.get('filter[instituteid]')}_{payload.get('filter[collectionyear]')}.csv")
+        data.append(scrape_data(soup))
+        save_to_csv(data, f"hahe_{payload.get('filter[instituteid]')}_{payload.get('filter[collectionyear]')}.csv")
         
