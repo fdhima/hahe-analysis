@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
+from mappers import ProgrammeMapper, InstituteMapper, AcademicYearMapper
 
 url = "https://www.ethaae.gr/el/dedomena-aei/foitites-aei"
 
@@ -65,60 +66,6 @@ def map_academic_year(year: str) -> str:
     return year_map.get(year, "Unknown academic year")
 
 
-class InstituteMapper:
-    """
-    A utility class to map institution IDs to their English names for Greek 
-    universities and academies, initializing the map upon object creation.
-    """
-    def __init__(self):
-        """
-        Initializes the institute_map dictionary as an instance attribute.
-        """
-        self._institute_map = {
-            # '': '- Select Institute -', 
-            '1': 'Athens School of Fine Arts',
-            '2': 'Aristotle University of Thessaloniki',
-            '36': 'School of Pedagogical and Technological Education (ASPETE)',
-            '3': 'Agricultural University of Athens',
-            '4': 'Democritus University of Thrace',
-            '131': 'International Hellenic University',
-            '5': 'National and Kapodistrian University of Athens',
-            '6': 'National Technical University of Athens',
-            '22': 'Hellenic Open University',
-            '130': 'Hellenic Mediterranean University',
-            '7': 'Ionian University',
-            '8': 'Athens University of Economics and Business',
-            '9': 'University of the Aegean',
-            '129': 'University of West Attica',
-            '10': 'University of Western Macedonia',
-            '11': 'University of Thessaly',
-            '12': 'University of Ioannina',
-            '13': 'University of Crete',
-            '14': 'University of Macedonia',
-            '15': 'University of Patras',
-            '16': 'University of Piraeus',
-            '17': 'University of Peloponnese',
-            '18': 'Panteion University of Social and Political Sciences',
-            '19': 'Technical University of Crete',
-            '39': 'Hellenic Army Academy',
-            '40': 'Hellenic Air Force Academy',
-            '41': 'Hellenic Naval Academy',
-            '20': 'Harokopio University'
-        }
-
-    def get_institute_map(self):
-        """
-        Returns the initialized dictionary mapping institution IDs to English names.
-        """
-        return self._institute_map
-    
-    def get_institutes_ids(self):
-        """
-        Returns a list of all institution IDs in the mapping.
-        """
-        return list(self._institute_map.keys())
-
-
 def scrape_data(soup: BeautifulSoup):
     """Scrape data from the BeautifulSoup object and return a list of dictionaries.
 
@@ -148,11 +95,13 @@ def scrape_data(soup: BeautifulSoup):
                 active = var.find_next_sibling('div', class_='stats-item-variable-value').text.strip()
 
         programme = programme.string[programme.end():].strip() if programme else "Unknown"
+        programme = re.sub(r"[\(\[].*?[\)\]]", "", programme).strip()
+        programme = programme.replace(" ΤΕ", "")
         scraped_data.append({
-            "institution": institute_mapper.get_institute_map().get(data.get("filter[instituteid]")) if data.get("filter[instituteid]") else "Unknown",
-            "academic_year": map_academic_year(data.get("filter[collectionyear]")),
-            "programme": programme.strip('"'),
-            'established': established.string[established.end():] if established else "Unknown",
+            "institution": InstituteMapper().get_map().get(data.get("filter[instituteid]")) if data.get("filter[instituteid]") else "Unknown",
+            "academic_year": AcademicYearMapper().map(data.get("filter[collectionyear]")),
+            "programme": ProgrammeMapper().map(programme.strip('"')),
+            "established": established.string[established.end():] if established else "Unknown",
             "graduate": int(graduate.replace('.', '')) if graduate != '--' else 0,
             "registered": int(registered.replace('.', '')) if registered != '--' else 0,
             "enrolled": int(enrolled.replace('.', '')) if enrolled != '--' else 0,
@@ -161,7 +110,7 @@ def scrape_data(soup: BeautifulSoup):
     return scraped_data
 
 collected_data = []
-print(InstituteMapper().get_institutes_ids())
+institude_mappper = InstituteMapper()
 for year in range(2022, 2026):    
     for inst_id in InstituteMapper().get_institutes_ids():
         data["filter[collectionyear]"] = str(year)
@@ -173,6 +122,5 @@ for year in range(2022, 2026):
         soup = BeautifulSoup(response.text, "html.parser")
 
         collected_data.append(scrape_data(soup))
-    print(collected_data)
 
 save_to_csv(collected_data, f"hahe_all_institutes_2022_2025.csv")
