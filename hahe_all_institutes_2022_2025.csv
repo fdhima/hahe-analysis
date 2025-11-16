@@ -14,7 +14,7 @@ Aristotle University of Thessaloniki,2020-2021,Journalism and Mass Media,27/07/1
 Aristotle University of Thessaloniki,2020-2021,Fine and Applied Arts,03/05/1984,114,1103,290,750
 Aristotle University of Thessaloniki,2020-2021,Introductory Direction of Muslim Studies,19/04/2016,21,242,62,242
 Aristotle University of Thessaloniki,2020-2021,Physical Education and Sports Science,01/09/1983,296,2414,315,1125
-Aristotle University of Thessaloniki,2020-2021,Unknown,08/02/1985,129,830,189,468
+Aristotle University of Thessaloniki,2020-2021,Physical Education and Sports Science,08/02/1985,129,830,189,468
 Aristotle University of Thessaloniki,2020-2021,Preschool Education Sciences,09/07/1983,195,1628,228,1110
 Aristotle University of Thessaloniki,2020-2021,Electrical and Computer Engineers,01/09/1976,242,2828,315,1807
 Aristotle University of Thessaloniki,2020-2021,Theater,03/05/1984,42,912,100,589
@@ -23,7 +23,7 @@ Aristotle University of Thessaloniki,2020-2021,Medicine,18/02/1942,321,2505,332,
 Aristotle University of Thessaloniki,2020-2021,History and Archaeology,12/03/2020,280,1947,235,1100
 Aristotle University of Thessaloniki,2020-2021,Italian Language and Literature,01/09/1960,85,949,78,395
 Aristotle University of Thessaloniki,2020-2021,Cinema,22/07/2004,75,898,112,623
-Aristotle University of Thessaloniki,2020-2021,Unknown,06/10/1994,120,2088,404,1201
+Aristotle University of Thessaloniki,2020-2021,Social Theology and Christian Culture,06/10/1994,120,2088,404,1201
 Aristotle University of Thessaloniki,2020-2021,Veterinary Medicine,17/10/1950,143,734,141,695
 Aristotle University of Thessaloniki,2020-2021,Mathematics,18/10/1928,241,2853,242,1174
 Aristotle University of Thessaloniki,2020-2021,Spatial Planning and Development Engineering,22/07/2004,101,766,133,624
@@ -52,13 +52,13 @@ Agricultural University of Athens,2020-2021,Natural Resources Utilization and Ag
 Agricultural University of Athens,2020-2021,Biotechnology,16/06/1989,72,919,144,733
 Agricultural University of Athens,2020-2021,Forestry and Natural Environment Management,29/01/2019,10,272,144,272
 Agricultural University of Athens,2020-2021,Agricultural Business Management and Supply Systems,29/01/2019,0,527,267,527
-Agricultural University of Athens,2020-2021,Unknown,16/06/1989,67,1139,140,822
+Agricultural University of Athens,2020-2021,Animal Production Science,16/06/1989,67,1139,140,822
 Agricultural University of Athens,2020-2021,Food Science and Human Nutrition,16/06/1989,84,924,144,710
 Agricultural University of Athens,2020-2021,Plant Production Science,28/03/1985,128,2091,215,1246
 Agricultural University of Athens,2020-2021,Regional and Economic Development,29/01/2019,0,312,196,312
-Agricultural University of Athens,2020-2021,Unknown,22/08/1994,20,646,0,353
-Agricultural University of Athens,2020-2021,Unknown,23/06/2005,65,1914,0,689
-Agricultural University of Athens,2020-2021,Unknown,05/06/2013,129,2105,0,630
+Agricultural University of Athens,2020-2021,Forestry and Natural Environment Management,22/08/1994,20,646,0,353
+Agricultural University of Athens,2020-2021,Supply Systems Management,23/06/2005,65,1914,0,689
+Agricultural University of Athens,2020-2021,"Management, Economy and Communication of Cultural and Tourist Units",05/06/2013,129,2105,0,630
 Democritus University of Thrace,2020-2021,Agricultural Development,06/09/1999,139,1124,190,806
 Democritus University of Thrace,2020-2021,Architectural Engineers,06/09/1999,116,619,93,539
 Democritus University of Thrace,2020-2021,"Language, Philology and Culture of Black Sea Countries",10/03/2000,58,815,151,326
@@ -101,8 +101,8 @@ International Hellenic University,2020-2021,Informatics and Electronic Systems E
 International Hellenic University,2020-2021,"Informatics, Computers and Telecommunications Engineering",07/05/2019,0,196,98,196
 International Hellenic University,2020-2021,Surveying and Geoinformatics Engineering,07/05/2019,0,188,102,188
 International Hellenic University,2020-2021,Mechanical Engineers,07/05/2019,7,228,109,228
-International Hellenic University,2020-2021,Unknown,07/05/2019,11,222,136,216
-International Hellenic University,2020-2021,Unknown,07/05/2019,92,340,275,339
+International Hellenic University,2020-2021,Nursing,07/05/2019,11,222,136,216
+International Hellenic University,2020-2021,Nursing,07/05/2019,92,340,275,339
 International Hellenic University,2020-2021,Economic Sciences,07/05/2019,0,482,333,478
 International Hellenic University,2020-2021,Business Organization and Management,07/05/2019,0,615,325,615
 International Hellenic University,2020-2021,Informatics,07/05/2019,0,372,273,372
@@ -110,43 +110,43 @@ International Hellenic University,2020-2021,Civil Engineers,07/05/2019,0,158,119
 International Hellenic University,2020-2021,Physics,07/05/2019,0,239,205,239
 International Hellenic University,2020-2021,Physiotherapy,07/05/2019,212,495,176,443
 International Hellenic University,2020-2021,Chemistry,07/05/2019,0,184,207,184
-International Hellenic University,2020-2021,Unknown,12/10/1984,79,593,0,324
-International Hellenic University,2020-2021,Unknown,17/09/2003,12,273,0,148
-International Hellenic University,2020-2021,Unknown,27/03/1984,12,805,0,376
-International Hellenic University,2020-2021,Unknown,23/06/2005,29,874,0,423
-International Hellenic University,2020-2021,Unknown,27/11/1985,45,956,0,513
-International Hellenic University,2020-2021,Unknown,03/06/2013,108,1331,0,642
-International Hellenic University,2020-2021,Unknown,27/11/1985,182,1770,0,495
-International Hellenic University,2020-2021,Unknown,24/11/1983,135,2741,0,896
-International Hellenic University,2020-2021,Unknown,17/09/2003,76,1280,1,566
-International Hellenic University,2020-2021,Unknown,03/06/2013,94,1036,0,575
-International Hellenic University,2020-2021,Unknown,12/03/2009,0,219,0,135
-International Hellenic University,2020-2021,Unknown,24/11/1983,134,1611,0,637
-International Hellenic University,2020-2021,Unknown,24/11/1983,57,1311,0,644
-International Hellenic University,2020-2021,Unknown,12/11/1984,30,574,0,308
-International Hellenic University,2020-2021,Unknown,03/06/2013,69,3369,0,2456
-International Hellenic University,2020-2021,Unknown,24/11/1983,66,1795,151,762
-International Hellenic University,2020-2021,Unknown,05/06/2013,176,2441,0,697
-International Hellenic University,2020-2021,Unknown,24/11/1983,5,393,0,369
-International Hellenic University,2020-2021,Unknown,09/03/1988,32,972,0,486
-International Hellenic University,2020-2021,Unknown,09/03/1988,76,1495,0,867
-International Hellenic University,2020-2021,Unknown,05/06/2013,119,1469,0,551
-International Hellenic University,2020-2021,Unknown,06/09/1999,117,1607,0,480
-International Hellenic University,2020-2021,Unknown,14/10/1976,86,1530,0,604
-International Hellenic University,2020-2021,Unknown,06/09/1999,59,1300,0,303
-International Hellenic University,2020-2021,Unknown,14/10/1976,46,1187,0,521
-International Hellenic University,2020-2021,Unknown,05/06/2013,58,1284,0,405
-International Hellenic University,2020-2021,Unknown,09/03/1988,49,838,0,394
-International Hellenic University,2020-2021,Unknown,28/09/1970,33,632,0,399
-International Hellenic University,2020-2021,Unknown,10/05/2007,38,237,0,205
-International Hellenic University,2020-2021,Unknown,12/03/2009,23,439,0,317
-International Hellenic University,2020-2021,Unknown,03/06/2013,87,950,0,450
-International Hellenic University,2020-2021,Unknown,05/06/2013,74,1351,0,313
-International Hellenic University,2020-2021,Unknown,27/11/1985,23,316,0,255
-International Hellenic University,2020-2021,Unknown,06/09/1999,15,1005,0,397
-International Hellenic University,2020-2021,Unknown,24/11/1983,29,1095,0,558
-International Hellenic University,2020-2021,Unknown,06/03/2013,132,2515,0,1007
-International Hellenic University,2020-2021,Unknown,24/11/1983,59,480,0,459
+International Hellenic University,2020-2021,Aesthetics and Cosmetology,12/10/1984,79,593,0,324
+International Hellenic University,2020-2021,Landscape Architecture,17/09/2003,12,273,0,148
+International Hellenic University,2020-2021,Library Science and Information Systems,27/03/1984,12,805,0,376
+International Hellenic University,2020-2021,Forestry and Natural Environment Management,23/06/2005,29,874,0,423
+International Hellenic University,2020-2021,Nutrition and Dietetics,27/11/1985,45,956,0,513
+International Hellenic University,2020-2021,Business Management,03/06/2013,108,1331,0,642
+International Hellenic University,2020-2021,Business Management,27/11/1985,182,1770,0,495
+International Hellenic University,2020-2021,Business Management,24/11/1983,135,2741,0,896
+International Hellenic University,2020-2021,Supply Systems Management,17/09/2003,76,1280,1,566
+International Hellenic University,2020-2021,Tourism Business and Hospitality Management,03/06/2013,94,1036,0,575
+International Hellenic University,2020-2021,"Interior Architecture, Decoration and Object Design",12/03/2009,0,219,0,135
+International Hellenic University,2020-2021,Electrical Engineers,24/11/1983,134,1611,0,637
+International Hellenic University,2020-2021,Electronic Engineers,24/11/1983,57,1311,0,644
+International Hellenic University,2020-2021,Medical Laboratories,12/11/1984,30,574,0,308
+International Hellenic University,2020-2021,Accounting and Finance,03/06/2013,69,3369,0,2456
+International Hellenic University,2020-2021,Accounting and Finance,24/11/1983,66,1795,151,762
+International Hellenic University,2020-2021,Accounting and Finance,05/06/2013,176,2441,0,697
+International Hellenic University,2020-2021,Midwifery,24/11/1983,5,393,0,369
+International Hellenic University,2020-2021,Automation Engineering,09/03/1988,32,972,0,486
+International Hellenic University,2020-2021,Informatics Engineering,09/03/1988,76,1495,0,867
+International Hellenic University,2020-2021,Informatics Engineering,05/06/2013,119,1469,0,551
+International Hellenic University,2020-2021,Informatics Engineering,06/09/1999,117,1607,0,480
+International Hellenic University,2020-2021,Oil and Natural Gas Technology Engineering,14/10/1976,86,1530,0,604
+International Hellenic University,2020-2021,Surveying and Geoinformatics Engineering,06/09/1999,59,1300,0,303
+International Hellenic University,2020-2021,Mechanical Engineers,14/10/1976,46,1187,0,521
+International Hellenic University,2020-2021,Mechanical Engineers,05/06/2013,58,1284,0,405
+International Hellenic University,2020-2021,Vehicle Mechanical Engineers,09/03/1988,49,838,0,394
+International Hellenic University,2020-2021,Nursing,28/09/1970,33,632,0,399
+International Hellenic University,2020-2021,Nursing,10/05/2007,38,237,0,205
+International Hellenic University,2020-2021,Oenology and Beverage Technology,12/03/2009,23,439,0,317
+International Hellenic University,2020-2021,Civil Engineers,03/06/2013,87,950,0,450
+International Hellenic University,2020-2021,Civil Engineers,05/06/2013,74,1351,0,313
+International Hellenic University,2020-2021,Preschool Education,27/11/1985,23,316,0,255
+International Hellenic University,2020-2021,Clothing Design and Technology,06/09/1999,15,1005,0,397
+International Hellenic University,2020-2021,Food Technology,24/11/1983,29,1095,0,558
+International Hellenic University,2020-2021,Agricultural Technologists,06/03/2013,132,2515,0,1007
+International Hellenic University,2020-2021,Physiotherapy,24/11/1983,59,480,0,459
 National and Kapodistrian University of Athens,2020-2021,Unknown,19/07/2019,0,23,23,23
 National and Kapodistrian University of Athens,2020-2021,English Language and Literature,23/06/1951,263,4551,273,1026
 National and Kapodistrian University of Athens,2020-2021,"Agricultural Development, Agrifood and Natural Resources Management",29/01/2019,0,150,105,150
@@ -165,9 +165,9 @@ National and Kapodistrian University of Athens,2020-2021,Theology,16/07/1982,136
 National and Kapodistrian University of Athens,2020-2021,Medicine,24/04/1837,363,3060,365,1979
 National and Kapodistrian University of Athens,2020-2021,Spanish Language and Literature,01/10/2009,80,839,96,466
 National and Kapodistrian University of Athens,2020-2021,History and Archaeology,24/04/1986,296,3749,290,1459
-National and Kapodistrian University of Athens,2020-2021,Unknown,05/03/1993,87,1291,142,549
+National and Kapodistrian University of Athens,2020-2021,History and Philosophy of Science,05/03/1993,87,1291,142,549
 National and Kapodistrian University of Athens,2020-2021,Italian Language and Literature,01/10/2009,66,876,81,481
-National and Kapodistrian University of Athens,2020-2021,Unknown,18/05/1977,166,3176,316,1340
+National and Kapodistrian University of Athens,2020-2021,Social Theology and Religious Studies,18/05/1977,166,3176,316,1340
 National and Kapodistrian University of Athens,2020-2021,Sociology,29/01/2019,0,254,116,254
 National and Kapodistrian University of Athens,2020-2021,Mathematics,04/06/1904,402,5652,315,1574
 National and Kapodistrian University of Athens,2020-2021,Music Studies,06/10/1989,53,1001,106,588
@@ -190,16 +190,16 @@ National and Kapodistrian University of Athens,2020-2021,Physics,23/03/1932,171,
 National and Kapodistrian University of Athens,2020-2021,Chemistry,27/04/1918,167,1816,175,690
 National and Kapodistrian University of Athens,2020-2021,Digital Arts and Cinema,29/01/2019,0,212,105,212
 National and Kapodistrian University of Athens,2020-2021,Psychology,03/06/2013,267,2597,251,2105
-National and Kapodistrian University of Athens,2020-2021,Unknown,01/09/2019,46,2839,0,627
-National and Kapodistrian University of Athens,2020-2021,Unknown,01/09/2019,228,2305,0,1011
-National and Kapodistrian University of Athens,2020-2021,Unknown,01/09/2019,55,1577,0,539
-National and Kapodistrian University of Athens,2020-2021,Unknown,01/09/2019,62,887,0,408
-National and Kapodistrian University of Athens,2020-2021,Unknown,01/09/2019,37,728,0,527
-National Technical University of Athens,2020-2021,Unknown,30/10/1917,87,1429,137,810
+National and Kapodistrian University of Athens,2020-2021,Electrical Engineers,01/09/2019,46,2839,0,627
+National and Kapodistrian University of Athens,2020-2021,Accounting and Finance,01/09/2019,228,2305,0,1011
+National and Kapodistrian University of Athens,2020-2021,Automation Engineering,01/09/2019,55,1577,0,539
+National and Kapodistrian University of Athens,2020-2021,Aircraft Technology Engineering,01/09/2019,62,887,0,408
+National and Kapodistrian University of Athens,2020-2021,Mechanical Engineers,01/09/2019,37,728,0,527
+National Technical University of Athens,2020-2021,Agricultural and Surveying Engineers - Geoinformatics Engineers,30/10/1917,87,1429,137,810
 National Technical University of Athens,2020-2021,Architectural Engineers,30/10/1917,178,1746,168,1212
 National Technical University of Athens,2020-2021,Applied Mathematics and Physical Sciences,01/09/1999,104,1794,199,1067
 National Technical University of Athens,2020-2021,Electrical and Computer Engineers,30/10/1917,352,4722,403,2643
-National Technical University of Athens,2020-2021,Unknown,13/08/1975,110,937,101,560
+National Technical University of Athens,2020-2021,Mining - Metallurgical Engineers,13/08/1975,110,937,101,560
 National Technical University of Athens,2020-2021,Mechanical Engineers,30/10/1917,167,3798,225,1387
 National Technical University of Athens,2020-2021,Naval Architects and Mechanical Engineers,27/08/1982,83,1338,123,762
 National Technical University of Athens,2020-2021,Civil Engineers,20/06/1887,160,2493,186,1341
@@ -223,21 +223,21 @@ Hellenic Mediterranean University,2020-2021,Accounting and Finance,07/05/2019,2,
 Hellenic Mediterranean University,2020-2021,Mechanical Engineers,01/07/2019,0,187,141,187
 Hellenic Mediterranean University,2020-2021,Music Technology and Acoustics,06/09/1999,0,255,144,255
 Hellenic Mediterranean University,2020-2021,Nursing,07/05/2019,0,314,187,314
-Hellenic Mediterranean University,2020-2021,Unknown,06/09/1999,57,803,0,314
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,35,837,0,608
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,67,1172,0,423
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,28,1084,0,505
-Hellenic Mediterranean University,2020-2021,Unknown,07/05/2019,32,1075,0,441
-Hellenic Mediterranean University,2020-2021,Unknown,24/11/1983,47,1147,0,422
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,103,777,0,419
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,130,3142,0,740
-Hellenic Mediterranean University,2020-2021,Unknown,06/09/1999,29,1319,0,401
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,94,1662,0,622
-Hellenic Mediterranean University,2020-2021,Unknown,06/09/1999,47,650,0,352
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,70,1341,0,465
-Hellenic Mediterranean University,2020-2021,Unknown,24/11/1983,185,551,0,405
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,2,0,0,0
-Hellenic Mediterranean University,2020-2021,Unknown,05/06/2013,74,1408,1,607
+Hellenic Mediterranean University,2020-2021,Nutrition and Dietetics,06/09/1999,57,803,0,314
+Hellenic Mediterranean University,2020-2021,Business Management,05/06/2013,35,837,0,608
+Hellenic Mediterranean University,2020-2021,Business Management,05/06/2013,67,1172,0,423
+Hellenic Mediterranean University,2020-2021,Tourism Business and Hospitality Management,05/06/2013,28,1084,0,505
+Hellenic Mediterranean University,2020-2021,Electrical Engineers,07/05/2019,32,1075,0,441
+Hellenic Mediterranean University,2020-2021,Electronic Engineers,24/11/1983,47,1147,0,422
+Hellenic Mediterranean University,2020-2021,Social Work,05/06/2013,103,777,0,419
+Hellenic Mediterranean University,2020-2021,Accounting and Finance,05/06/2013,130,3142,0,740
+Hellenic Mediterranean University,2020-2021,Music Technology and Acoustics Engineering,06/09/1999,29,1319,0,401
+Hellenic Mediterranean University,2020-2021,Informatics Engineering,05/06/2013,94,1662,0,622
+Hellenic Mediterranean University,2020-2021,Natural Resources and Environment Engineering,06/09/1999,47,650,0,352
+Hellenic Mediterranean University,2020-2021,Mechanical Engineers,05/06/2013,70,1341,0,465
+Hellenic Mediterranean University,2020-2021,Nursing,24/11/1983,185,551,0,405
+Hellenic Mediterranean University,2020-2021,Civil Construction Works,05/06/2013,2,0,0,0
+Hellenic Mediterranean University,2020-2021,Agricultural Technologists,05/06/2013,74,1408,1,607
 Ionian University,2020-2021,"Archival Science, Library Science and Museology",20/03/1984,93,834,136,451
 Ionian University,2020-2021,Food Science and Technology,01/10/2018,0,308,184,308
 Ionian University,2020-2021,History,20/03/1984,105,1131,180,650
@@ -248,13 +248,13 @@ Ionian University,2020-2021,Informatics,22/07/2004,39,980,169,710
 Ionian University,2020-2021,Sound and Image Arts,22/07/2004,41,952,102,626
 Ionian University,2020-2021,Tourism,01/10/2018,0,184,133,184
 Ionian University,2020-2021,Digital Media and Communication,01/10/2018,3,397,285,397
-Ionian University,2020-2021,Unknown,05/06/2013,58,722,0,390
-Ionian University,2020-2021,Unknown,05/06/2013,13,500,0,455
-Ionian University,2020-2021,Unknown,05/06/2013,9,340,0,37
-Ionian University,2020-2021,Unknown,20/06/2003,35,606,0,407
-Ionian University,2020-2021,Unknown,05/06/2013,27,608,0,326
-Ionian University,2020-2021,Unknown,05/06/2013,12,588,0,243
-Ionian University,2020-2021,Unknown,05/05/2014,33,787,0,555
+Ionian University,2020-2021,Business Management,05/06/2013,58,722,0,390
+Ionian University,2020-2021,Tourism Business and Hospitality Management,05/06/2013,13,500,0,455
+Ionian University,2020-2021,Conservation of Antiquities and Works of Art,05/06/2013,9,340,0,37
+Ionian University,2020-2021,Sound Technology and Musical Instruments,20/06/2003,35,606,0,407
+Ionian University,2020-2021,Food Technology,05/06/2013,27,608,0,326
+Ionian University,2020-2021,Natural Environment Technologies,05/06/2013,12,588,0,243
+Ionian University,2020-2021,Digital Media and Communication,05/05/2014,33,787,0,555
 Athens University of Economics and Business,2020-2021,International and European Economic Studies,01/09/1989,114,1569,178,866
 Athens University of Economics and Business,2020-2021,Administrative Science and Technology,01/09/2000,132,1453,203,1053
 Athens University of Economics and Business,2020-2021,Accounting and Finance,06/09/1999,247,1921,270,1303
@@ -280,7 +280,7 @@ University of the Aegean,2020-2021,Primary Education Pedagogy,20/03/1984,161,103
 University of the Aegean,2020-2021,Environment,20/03/1984,51,667,88,345
 University of the Aegean,2020-2021,Cultural Technology and Communication,10/03/2000,92,1050,146,582
 University of the Aegean,2020-2021,Statistics and Actuarial - Financial Mathematics,01/09/2018,95,963,178,639
-University of the Aegean,2020-2021,Unknown,04/11/1997,51,947,107,477
+University of the Aegean,2020-2021,Oceanography and Marine Biosciences,04/11/1997,51,947,107,477
 University of West Attica,2020-2021,Early Childhood Care and Education,02/03/2018,90,760,167,722
 University of West Attica,2020-2021,"Archival Science, Library Science and Information Systems",02/03/2018,47,784,138,676
 University of West Attica,2020-2021,Biomedical Sciences,02/03/2018,527,2342,417,2090
@@ -307,54 +307,54 @@ University of West Attica,2020-2021,Civil Engineers,02/03/2018,52,1604,291,1578
 University of West Attica,2020-2021,Conservation of Antiquities and Works of Art,02/03/2018,14,507,95,418
 University of West Attica,2020-2021,Physiotherapy,02/03/2018,68,977,209,888
 University of West Attica,2020-2021,Photography and Audiovisual Arts,01/09/2018,44,758,121,643
-University of West Attica,2020-2021,Unknown,03/02/2018,14,101,0,3
-University of West Attica,2020-2021,Unknown,24/11/1983,5,61,0,3
-University of West Attica,2020-2021,Unknown,24/11/1983,6,129,0,0
-University of West Attica,2020-2021,Unknown,27/11/1985,71,1292,0,10
-University of West Attica,2020-2021,Unknown,24/11/1983,31,260,0,0
-University of West Attica,2020-2021,Unknown,24/11/1983,20,194,0,1
-University of West Attica,2020-2021,Unknown,24/11/1983,35,666,0,12
-University of West Attica,2020-2021,Unknown,28/05/2013,28,1213,0,6
-University of West Attica,2020-2021,Unknown,24/11/1983,4,357,0,0
-University of West Attica,2020-2021,Unknown,24/11/1983,8,386,0,2
-University of West Attica,2020-2021,Unknown,24/11/1983,12,398,0,1
-University of West Attica,2020-2021,Unknown,24/11/1983,9,90,0,1
-University of West Attica,2020-2021,Unknown,24/11/1983,21,232,0,3
-University of West Attica,2020-2021,Unknown,24/11/1983,36,1744,0,54
-University of West Attica,2020-2021,Unknown,24/11/1983,30,694,0,29
-University of West Attica,2020-2021,Unknown,24/11/1973,20,1412,0,18
-University of West Attica,2020-2021,Unknown,24/11/1983,9,115,0,0
-University of West Attica,2020-2021,Unknown,24/11/1983,10,818,0,27
-University of West Attica,2020-2021,Unknown,24/11/1983,11,126,0,4
-University of West Attica,2020-2021,Unknown,24/11/1983,37,2093,0,6
-University of West Attica,2020-2021,Unknown,24/11/1983,2,75,0,3
-University of West Attica,2020-2021,Unknown,24/11/1983,27,298,0,18
-University of West Attica,2020-2021,Unknown,24/11/1983,2,224,0,1
-University of West Attica,2020-2021,Unknown,24/11/1983,10,114,0,9
-University of West Attica,2020-2021,Unknown,24/11/2018,39,941,0,11
-University of West Attica,2020-2021,Unknown,24/11/1983,39,585,0,56
-University of West Attica,2020-2021,Unknown,24/11/1983,16,241,0,8
-University of West Attica,2020-2021,Unknown,24/11/1983,43,1858,0,45
-University of West Attica,2020-2021,Unknown,24/11/1973,28,330,0,38
-University of West Attica,2020-2021,Unknown,24/11/1983,18,190,0,2
-University of West Attica,2020-2021,Unknown,27/11/1983,20,156,0,14
-University of West Attica,2020-2021,Unknown,24/11/1983,14,227,0,0
-University of West Attica,2020-2021,Unknown,24/11/1983,9,101,0,2
-University of West Attica,2020-2021,Unknown,24/11/1983,15,273,0,17
-University of West Attica,2020-2021,Unknown,14/09/2009,22,980,0,15
-University of West Attica,2020-2021,Unknown,24/11/1983,7,68,0,0
-University of West Attica,2020-2021,Unknown,24/11/1983,20,87,0,1
-University of West Attica,2020-2021,Unknown,24/11/1983,30,206,0,25
-University of West Attica,2020-2021,Unknown,07/03/1983,32,428,0,2
-University of West Attica,2020-2021,Unknown,24/11/1983,8,127,0,1
-University of West Attica,2020-2021,Unknown,01/10/1985,39,276,0,3
+University of West Attica,2020-2021,Aesthetics and Cosmetology,03/02/2018,14,101,0,3
+University of West Attica,2020-2021,Radiology and Radiotherapy,24/11/1983,5,61,0,3
+University of West Attica,2020-2021,"Archival Science, Library Science and Information Systems",24/11/1983,6,129,0,0
+University of West Attica,2020-2021,Automation,27/11/1985,71,1292,0,10
+University of West Attica,2020-2021,Graphic Design,24/11/1983,31,260,0,0
+University of West Attica,2020-2021,Public and Community Health,24/11/1983,20,194,0,1
+University of West Attica,2020-2021,Business Management,24/11/1983,35,666,0,12
+University of West Attica,2020-2021,Business Management,28/05/2013,28,1213,0,6
+University of West Attica,2020-2021,Tourism Management,24/11/1983,4,357,0,0
+University of West Attica,2020-2021,Tourism Business and Hospitality Management,24/11/1983,8,386,0,2
+University of West Attica,2020-2021,Commerce and Advertising,24/11/1983,12,398,0,1
+University of West Attica,2020-2021,Occupational Therapy,24/11/1983,9,90,0,1
+University of West Attica,2020-2021,"Interior Architecture, Decoration and Object Design",24/11/1983,21,232,0,3
+University of West Attica,2020-2021,Electrical Engineers,24/11/1983,36,1744,0,54
+University of West Attica,2020-2021,Electronic Engineers,24/11/1983,30,694,0,29
+University of West Attica,2020-2021,Electronic Engineers,24/11/1973,20,1412,0,18
+University of West Attica,2020-2021,Medical Laboratories,24/11/1983,9,115,0,0
+University of West Attica,2020-2021,Textile Engineering,24/11/1983,10,818,0,27
+University of West Attica,2020-2021,Social Work,24/11/1983,11,126,0,4
+University of West Attica,2020-2021,Accounting and Finance,24/11/1983,37,2093,0,6
+University of West Attica,2020-2021,Midwifery,24/11/1983,2,75,0,3
+University of West Attica,2020-2021,Biomedical Technology Engineering,24/11/1983,27,298,0,18
+University of West Attica,2020-2021,Energy Technology Engineering,24/11/1983,2,224,0,1
+University of West Attica,2020-2021,Energy Technology Engineering,24/11/1983,10,114,0,9
+University of West Attica,2020-2021,Electronic Computing Systems Engineering,24/11/2018,39,941,0,11
+University of West Attica,2020-2021,Informatics Engineering,24/11/1983,39,585,0,56
+University of West Attica,2020-2021,Surveying and Geoinformatics Engineering,24/11/1983,16,241,0,8
+University of West Attica,2020-2021,Mechanical Engineers,24/11/1983,43,1858,0,45
+University of West Attica,2020-2021,Naval Architects,24/11/1973,28,330,0,38
+University of West Attica,2020-2021,Nursing,24/11/1983,18,190,0,2
+University of West Attica,2020-2021,Dental Technology,27/11/1983,20,156,0,14
+University of West Attica,2020-2021,Oenology and Beverage Technology,24/11/1983,14,227,0,0
+University of West Attica,2020-2021,Optics and Optometry,24/11/1983,9,101,0,2
+University of West Attica,2020-2021,Civil Engineers,24/11/1983,15,273,0,17
+University of West Attica,2020-2021,Civil Engineers,14/09/2009,22,980,0,15
+University of West Attica,2020-2021,Preschool Education,24/11/1983,7,68,0,0
+University of West Attica,2020-2021,Conservation of Antiquities and Works of Art,24/11/1983,20,87,0,1
+University of West Attica,2020-2021,Graphic Arts Technology,24/11/1983,30,206,0,25
+University of West Attica,2020-2021,Food Technology,07/03/1983,32,428,0,2
+University of West Attica,2020-2021,Physiotherapy,24/11/1983,8,127,0,1
+University of West Attica,2020-2021,Photography and Audiovisual Arts,01/10/1985,39,276,0,3
 University of Western Macedonia,2020-2021,Agriculture,07/05/2019,0,436,267,436
 University of Western Macedonia,2020-2021,International and European Economic Studies,07/05/2019,0,502,318,502
 University of Western Macedonia,2020-2021,Administrative Science and Technology,07/05/2019,0,634,352,634
 University of Western Macedonia,2020-2021,Fine and Applied Arts,31/08/2006,53,512,86,430
 University of Western Macedonia,2020-2021,Communication and Digital Media,07/05/2019,0,462,250,460
 University of Western Macedonia,2020-2021,Occupational Therapy,07/05/2019,0,179,121,179
-University of Western Macedonia,2020-2021,Unknown,02/08/2005,47,800,162,702
+University of Western Macedonia,2020-2021,Electrical and Computer Engineers,02/08/2005,47,800,162,702
 University of Western Macedonia,2020-2021,Accounting and Finance,07/05/2019,23,571,423,571
 University of Western Macedonia,2020-2021,Mathematics,07/05/2019,0,140,92,140
 University of Western Macedonia,2020-2021,Midwifery,07/05/2019,55,428,243,428
@@ -368,21 +368,21 @@ University of Western Macedonia,2020-2021,Kindergarten Pedagogy,02/04/1993,117,5
 University of Western Macedonia,2020-2021,Regional and Cross-Border Development,07/05/2019,0,553,304,553
 University of Western Macedonia,2020-2021,Informatics,07/05/2019,2,312,239,310
 University of Western Macedonia,2020-2021,Statistics and Insurance Science,07/05/2019,0,453,276,453
-University of Western Macedonia,2020-2021,Unknown,07/05/2019,12,449,102,449
+University of Western Macedonia,2020-2021,Chemical Engineers,07/05/2019,12,449,102,449
 University of Western Macedonia,2020-2021,Psychology,07/05/2019,0,231,155,231
-University of Western Macedonia,2020-2021,Unknown,12/01/1996,42,1863,0,519
-University of Western Macedonia,2020-2021,Unknown,23/05/1995,2,1363,0,144
-University of Western Macedonia,2020-2021,Unknown,05/06/2013,84,1958,0,1100
-University of Western Macedonia,2020-2021,Unknown,05/06/2013,106,2233,0,805
-University of Western Macedonia,2020-2021,Unknown,14/10/1976,62,2036,0,514
-University of Western Macedonia,2020-2021,Unknown,07/05/2019,130,1175,0,1063
-University of Western Macedonia,2020-2021,Unknown,12/03/2009,17,282,0,199
-University of Western Macedonia,2020-2021,Unknown,06/09/1999,25,1524,0,510
-University of Western Macedonia,2020-2021,Unknown,05/06/2013,52,1655,0,510
-University of Western Macedonia,2020-2021,Unknown,07/05/2019,64,1305,0,418
-University of Western Macedonia,2020-2021,Unknown,24/11/1983,98,1559,0,486
-University of Western Macedonia,2020-2021,Unknown,05/06/2013,72,3495,0,600
-University of Western Macedonia,2020-2021,Unknown,06/09/1999,58,2465,0,613
+University of Western Macedonia,2020-2021,Industrial Design,12/01/1996,42,1863,0,519
+University of Western Macedonia,2020-2021,International Trade,23/05/1995,2,1363,0,144
+University of Western Macedonia,2020-2021,Business Management,05/06/2013,84,1958,0,1100
+University of Western Macedonia,2020-2021,Business Management,05/06/2013,106,2233,0,805
+University of Western Macedonia,2020-2021,Electrical Engineers,14/10/1976,62,2036,0,514
+University of Western Macedonia,2020-2021,Accounting and Finance,07/05/2019,130,1175,0,1063
+University of Western Macedonia,2020-2021,Midwifery,12/03/2009,17,282,0,199
+University of Western Macedonia,2020-2021,Anti-Pollution Engineering,06/09/1999,25,1524,0,510
+University of Western Macedonia,2020-2021,Geoenvironmental Technology Engineering,05/06/2013,52,1655,0,510
+University of Western Macedonia,2020-2021,Informatics Engineering,07/05/2019,64,1305,0,418
+University of Western Macedonia,2020-2021,Mechanical Engineers,24/11/1983,98,1559,0,486
+University of Western Macedonia,2020-2021,Agricultural Technologists,05/06/2013,72,3495,0,600
+University of Western Macedonia,2020-2021,Digital Media and Communication,06/09/1999,58,2465,0,613
 University of Thessaly,2020-2021,Architectural Engineers,06/09/1999,111,842,134,770
 University of Thessaly,2020-2021,Biochemistry and Biotechnology,10/03/2000,94,720,125,518
 University of Thessaly,2020-2021,Agriculture - Agricultural Technology,29/01/2019,0,340,181,340
@@ -410,7 +410,7 @@ University of Thessaly,2020-2021,Primary Education Pedagogy,31/05/1985,191,879,1
 University of Thessaly,2020-2021,Special Education Pedagogy,28/04/1993,149,624,132,506
 University of Thessaly,2020-2021,Preschool Education Pedagogy,20/03/1984,160,861,185,702
 University of Thessaly,2020-2021,Environment,29/01/2019,0,329,172,329
-University of Thessaly,2020-2021,Unknown,05/06/2013,43,845,175,729
+University of Thessaly,2020-2021,Informatics and Telecommunications,05/06/2013,43,845,175,729
 University of Thessaly,2020-2021,Informatics with Applications in Biomedicine,02/03/2004,96,992,188,733
 University of Thessaly,2020-2021,Civil Engineers,28/04/1993,55,669,101,540
 University of Thessaly,2020-2021,Culture and Creative Media and Industries,29/01/2019,0,183,97,183
@@ -418,29 +418,29 @@ University of Thessaly,2020-2021,Energy Systems,29/01/2019,0,306,164,306
 University of Thessaly,2020-2021,Physics,29/01/2019,0,163,109,163
 University of Thessaly,2020-2021,Physiotherapy,29/01/2019,10,302,205,302
 University of Thessaly,2020-2021,Digital Systems,29/01/2019,0,568,310,568
-University of Thessaly,2020-2021,Unknown,23/06/2005,6,447,0,98
-University of Thessaly,2020-2021,Unknown,03/10/2009,77,420,0,263
-University of Thessaly,2020-2021,Unknown,03/06/2013,139,2794,0,1117
-University of Thessaly,2020-2021,Unknown,24/11/1983,66,1165,0,419
-University of Thessaly,2020-2021,Unknown,22/08/1994,43,1210,0,309
-University of Thessaly,2020-2021,Unknown,24/11/1983,63,637,0,243
-University of Thessaly,2020-2021,Unknown,01/09/2013,181,1454,0,671
-University of Thessaly,2020-2021,Unknown,01/09/2013,112,2120,0,894
-University of Thessaly,2020-2021,Unknown,01/09/2000,110,1754,0,428
-University of Thessaly,2020-2021,Unknown,24/11/1983,85,1348,0,478
-University of Thessaly,2020-2021,Unknown,24/11/1983,69,684,0,407
-University of Thessaly,2020-2021,Unknown,22/10/1994,62,853,0,308
-University of Thessaly,2020-2021,Unknown,27/11/1985,85,1371,0,330
-University of Thessaly,2020-2021,Unknown,01/09/2013,24,511,0,189
-University of Thessaly,2020-2021,Unknown,06/09/1999,29,751,0,377
-University of Thessaly,2020-2021,Unknown,01/09/2005,66,696,0,397
-University of Thessaly,2020-2021,Unknown,03/06/2013,135,3244,0,828
-University of Thessaly,2020-2021,Unknown,22/08/1994,39,701,0,304
+University of Thessaly,2020-2021,Forestry and Natural Environment Management,23/06/2005,6,447,0,98
+University of Thessaly,2020-2021,Nutrition and Dietetics,03/10/2009,77,420,0,263
+University of Thessaly,2020-2021,Business Management,03/06/2013,139,2794,0,1117
+University of Thessaly,2020-2021,Electrical Engineers,24/11/1983,66,1165,0,419
+University of Thessaly,2020-2021,Electronic Engineers,22/08/1994,43,1210,0,309
+University of Thessaly,2020-2021,Medical Laboratories,24/11/1983,63,637,0,243
+University of Thessaly,2020-2021,Accounting and Finance,01/09/2013,181,1454,0,671
+University of Thessaly,2020-2021,Informatics Engineering,01/09/2013,112,2120,0,894
+University of Thessaly,2020-2021,Informatics Engineering,01/09/2000,110,1754,0,428
+University of Thessaly,2020-2021,Mechanical Engineers,24/11/1983,85,1348,0,478
+University of Thessaly,2020-2021,Nursing,24/11/1983,69,684,0,407
+University of Thessaly,2020-2021,Nursing,22/10/1994,62,853,0,308
+University of Thessaly,2020-2021,Civil Engineers,27/11/1985,85,1371,0,330
+University of Thessaly,2020-2021,Civil Engineers,01/09/2013,24,511,0,189
+University of Thessaly,2020-2021,Wood and Furniture Design and Technology,06/09/1999,29,751,0,377
+University of Thessaly,2020-2021,Food Technology,01/09/2005,66,696,0,397
+University of Thessaly,2020-2021,Agricultural Technologists,03/06/2013,135,3244,0,828
+University of Thessaly,2020-2021,Physiotherapy,22/08/1994,39,701,0,304
 University of Ioannina,2020-2021,Early Childhood Care and Education,01/10/2018,58,254,132,254
 University of Ioannina,2020-2021,Architectural Engineers,02/10/2009,9,259,64,259
 University of Ioannina,2020-2021,Biological Applications and Technologies,06/09/1999,92,831,125,624
 University of Ioannina,2020-2021,Agriculture,01/10/2018,22,365,240,365
-University of Ioannina,2020-2021,Unknown,11/05/2016,67,835,81,517
+University of Ioannina,2020-2021,Fine Arts and Art Sciences,11/05/2016,67,835,81,517
 University of Ioannina,2020-2021,Medicine,22/07/1977,215,1211,167,894
 University of Ioannina,2020-2021,History and Archaeology,18/10/1984,319,1801,274,969
 University of Ioannina,2020-2021,Accounting and Finance,01/09/2018,31,435,265,435
@@ -460,17 +460,17 @@ University of Ioannina,2020-2021,"Philosophy, Pedagogy and Psychology",18/10/198
 University of Ioannina,2020-2021,Physics,12/12/1970,109,1663,164,751
 University of Ioannina,2020-2021,Chemistry,06/10/1976,156,1049,153,648
 University of Ioannina,2020-2021,Psychology,03/08/2018,174,750,108,735
-University of Ioannina,2020-2021,Unknown,06/09/1999,52,922,0,258
-University of Ioannina,2020-2021,Unknown,27/11/1996,9,300,0,141
-University of Ioannina,2020-2021,Unknown,06/09/1999,33,862,0,315
-University of Ioannina,2020-2021,Unknown,03/06/2013,74,1312,0,571
-University of Ioannina,2020-2021,Unknown,06/09/1999,39,393,0,266
-University of Ioannina,2020-2021,Unknown,26/05/1998,46,1540,0,486
-University of Ioannina,2020-2021,Unknown,24/10/1984,67,562,0,182
-University of Ioannina,2020-2021,Unknown,24/10/1984,49,150,0,83
-University of Ioannina,2020-2021,Unknown,25/07/2013,57,1035,0,435
+University of Ioannina,2020-2021,Business Management,06/09/1999,52,922,0,258
+University of Ioannina,2020-2021,Tourism Business and Hospitality Management,27/11/1996,9,300,0,141
+University of Ioannina,2020-2021,Folk and Traditional Music,06/09/1999,33,862,0,315
+University of Ioannina,2020-2021,Accounting and Finance,03/06/2013,74,1312,0,571
+University of Ioannina,2020-2021,Speech Therapy,06/09/1999,39,393,0,266
+University of Ioannina,2020-2021,Informatics Engineering,26/05/1998,46,1540,0,486
+University of Ioannina,2020-2021,Nursing,24/10/1984,67,562,0,182
+University of Ioannina,2020-2021,Preschool Education,24/10/1984,49,150,0,83
+University of Ioannina,2020-2021,Agricultural Technologists,25/07/2013,57,1035,0,435
 University of Crete,2020-2021,Biology,10/09/1976,89,700,123,574
-University of Crete,2020-2021,Unknown,01/09/2000,58,940,110,568
+University of Crete,2020-2021,Materials Science and Engineering,01/09/2000,58,940,110,568
 University of Crete,2020-2021,Computer Science,15/04/1983,114,1471,199,999
 University of Crete,2020-2021,Applied Mathematics,06/09/1999,60,1161,170,772
 University of Crete,2020-2021,Medicine,10/09/1976,134,1022,128,898
@@ -534,18 +534,18 @@ University of Patras,2020-2021,Physics,24/05/1967,118,1324,226,819
 University of Patras,2020-2021,Physiotherapy,07/05/2019,41,379,248,372
 University of Patras,2020-2021,Chemistry,24/05/1967,128,1220,208,851
 University of Patras,2020-2021,Chemical Engineers,20/09/1977,91,1045,181,768
-University of Patras,2020-2021,Unknown,05/06/2013,99,1880,0,619
-University of Patras,2020-2021,Unknown,05/06/2013,162,3405,0,900
-University of Patras,2020-2021,Unknown,05/06/2013,75,1699,0,593
-University of Patras,2020-2021,Unknown,24/11/1983,7,344,0,146
-University of Patras,2020-2021,Unknown,05/06/2013,143,1638,0,508
-University of Patras,2020-2021,Unknown,24/11/1983,115,586,0,586
-University of Patras,2020-2021,Unknown,24/11/1983,66,749,0,318
-University of Patras,2020-2021,Unknown,19/10/2006,0,240,0,99
-University of Patras,2020-2021,Unknown,05/06/2013,24,1002,0,352
-University of Patras,2020-2021,Unknown,05/06/2013,46,626,0,451
-University of Patras,2020-2021,Unknown,24/11/1983,9,722,0,248
-University of Patras,2020-2021,Unknown,05/06/2013,39,616,0,434
+University of Patras,2020-2021,Business Management,05/06/2013,99,1880,0,619
+University of Patras,2020-2021,Business Management,05/06/2013,162,3405,0,900
+University of Patras,2020-2021,"Management, Economy and Communication of Cultural and Tourist Units",05/06/2013,75,1699,0,593
+University of Patras,2020-2021,Social Work,24/11/1983,7,344,0,146
+University of Patras,2020-2021,Accounting and Finance,05/06/2013,143,1638,0,508
+University of Patras,2020-2021,Speech Therapy,24/11/1983,115,586,0,586
+University of Patras,2020-2021,Nursing,24/11/1983,66,749,0,318
+University of Patras,2020-2021,Optics and Optometry,19/10/2006,0,240,0,99
+University of Patras,2020-2021,Fisheries and Aquaculture Technology,05/06/2013,24,1002,0,352
+University of Patras,2020-2021,Agricultural Technologists,05/06/2013,46,626,0,451
+University of Patras,2020-2021,Tourism Businesses,24/11/1983,9,722,0,248
+University of Patras,2020-2021,Physiotherapy,05/06/2013,39,616,0,434
 University of Piraeus,2020-2021,Industrial Management and Technology,01/09/1991,81,1235,150,601
 University of Piraeus,2020-2021,International and European Studies,01/09/2000,299,755,161,725
 University of Piraeus,2020-2021,Shipping Studies,01/09/1990,334,2151,290,1430
@@ -578,17 +578,17 @@ University of Peloponnese,2020-2021,Civil Engineers,07/05/2019,2,222,138,222
 University of Peloponnese,2020-2021,Philology,05/05/2003,94,691,211,556
 University of Peloponnese,2020-2021,Physiotherapy,07/05/2019,0,122,108,122
 University of Peloponnese,2020-2021,Digital Systems,07/05/2019,0,254,263,254
-University of Peloponnese,2020-2021,Unknown,05/06/2013,38,990,0,448
-University of Peloponnese,2020-2021,Unknown,05/06/2013,57,1656,0,590
-University of Peloponnese,2020-2021,Unknown,05/06/2013,49,730,0,464
-University of Peloponnese,2020-2021,Unknown,12/03/2009,0,170,0,143
-University of Peloponnese,2020-2021,Unknown,05/06/2013,89,1324,0,594
-University of Peloponnese,2020-2021,Unknown,05/06/2013,48,936,0,369
-University of Peloponnese,2020-2021,Unknown,05/06/2013,104,1269,0,574
-University of Peloponnese,2020-2021,Unknown,05/06/2013,45,888,0,388
-University of Peloponnese,2020-2021,Unknown,09/02/2009,0,0,0,0
-University of Peloponnese,2020-2021,Unknown,05/06/2013,39,539,0,539
-University of Peloponnese,2020-2021,Unknown,30/04/2014,33,1058,0,500
+University of Peloponnese,2020-2021,Health Units and Welfare Management,05/06/2013,38,990,0,448
+University of Peloponnese,2020-2021,Electrical Engineers,05/06/2013,57,1656,0,590
+University of Peloponnese,2020-2021,Accounting and Finance,05/06/2013,49,730,0,464
+University of Peloponnese,2020-2021,Speech Therapy,12/03/2009,0,170,0,143
+University of Peloponnese,2020-2021,Informatics Engineering,05/06/2013,89,1324,0,594
+University of Peloponnese,2020-2021,Informatics Engineering,05/06/2013,48,936,0,369
+University of Peloponnese,2020-2021,Mechanical Engineers,05/06/2013,104,1269,0,574
+University of Peloponnese,2020-2021,Civil Engineers,05/06/2013,45,888,0,388
+University of Peloponnese,2020-2021,Food Technology,09/02/2009,0,0,0,0
+University of Peloponnese,2020-2021,Agricultural Technologists,05/06/2013,39,539,0,539
+University of Peloponnese,2020-2021,Local Government,30/04/2014,33,1058,0,500
 Panteion University of Social and Political Sciences,2020-2021,Public Administration,07/11/1963,223,3812,343,1677
 Panteion University of Social and Political Sciences,2020-2021,International and European Studies,23/06/1997,215,2449,208,959
 Panteion University of Social and Political Sciences,2020-2021,"Communication, Media and Culture",16/06/1989,183,1415,220,930
@@ -602,7 +602,7 @@ Technical University of Crete,2020-2021,Architectural Engineers,22/07/2004,76,10
 Technical University of Crete,2020-2021,Electrical and Computer Engineers,01/03/1983,89,1583,164,1142
 Technical University of Crete,2020-2021,Mineral Resources Engineering,01/03/1983,43,1037,115,689
 Technical University of Crete,2020-2021,Production and Management Engineering,01/03/1983,100,1647,177,1186
-Technical University of Crete,2020-2021,Unknown,22/06/1995,51,1005,133,807
+Technical University of Crete,2020-2021,Chemical Engineers and Environmental Engineers,22/06/1995,51,1005,133,807
 Hellenic Army Academy,2020-2021,Military Sciences,21/12/1828,230,776,199,776
 Hellenic Air Force Academy,2020-2021,Aviation Sciences,07/10/2003,59,302,81,302
 Hellenic Naval Academy,2020-2021,Naval Sciences,07/10/2003,43,137,45,137
@@ -626,7 +626,7 @@ Aristotle University of Thessaloniki,2021-2022,Journalism and Mass Media,27/07/1
 Aristotle University of Thessaloniki,2021-2022,Fine and Applied Arts,03/05/1984,92,1133,138,753
 Aristotle University of Thessaloniki,2021-2022,Introductory Direction of Muslim Studies,19/04/2016,14,253,36,253
 Aristotle University of Thessaloniki,2021-2022,Physical Education and Sports Science,01/09/1983,251,2384,249,1099
-Aristotle University of Thessaloniki,2021-2022,Unknown,08/02/1985,96,884,183,495
+Aristotle University of Thessaloniki,2021-2022,Physical Education and Sports Science,08/02/1985,96,884,183,495
 Aristotle University of Thessaloniki,2021-2022,Preschool Education Sciences,09/07/1983,292,1520,254,994
 Aristotle University of Thessaloniki,2021-2022,Electrical and Computer Engineers,01/09/1976,237,2855,301,1778
 Aristotle University of Thessaloniki,2021-2022,Theater,03/05/1984,50,930,101,583
@@ -635,7 +635,7 @@ Aristotle University of Thessaloniki,2021-2022,Medicine,18/02/1942,298,2558,357,
 Aristotle University of Thessaloniki,2021-2022,History and Archaeology,12/03/2020,236,1932,196,1062
 Aristotle University of Thessaloniki,2021-2022,Italian Language and Literature,01/09/1960,36,946,44,366
 Aristotle University of Thessaloniki,2021-2022,Cinema,22/07/2004,64,937,112,623
-Aristotle University of Thessaloniki,2021-2022,Unknown,06/10/1994,108,1970,68,719
+Aristotle University of Thessaloniki,2021-2022,Social Theology and Christian Culture,06/10/1994,108,1970,68,719
 Aristotle University of Thessaloniki,2021-2022,Veterinary Medicine,17/10/1950,110,1056,175,710
 Aristotle University of Thessaloniki,2021-2022,Mathematics,18/10/1928,147,2879,150,1138
 Aristotle University of Thessaloniki,2021-2022,Spatial Planning and Development Engineering,22/07/2004,87,776,96,608
@@ -664,13 +664,13 @@ Agricultural University of Athens,2021-2022,Natural Resources Utilization and Ag
 Agricultural University of Athens,2021-2022,Biotechnology,16/06/1989,101,974,147,747
 Agricultural University of Athens,2021-2022,Forestry and Natural Environment Management,29/01/2019,3,284,37,284
 Agricultural University of Athens,2021-2022,Agricultural Business Management and Supply Systems,29/01/2019,0,476,103,476
-Agricultural University of Athens,2021-2022,Unknown,16/06/1989,62,1205,74,792
+Agricultural University of Athens,2021-2022,Animal Production Science,16/06/1989,62,1205,74,792
 Agricultural University of Athens,2021-2022,Food Science and Human Nutrition,16/06/1989,95,981,131,718
 Agricultural University of Athens,2021-2022,Plant Production Science,28/03/1985,179,2198,222,1236
 Agricultural University of Athens,2021-2022,Regional and Economic Development,29/01/2019,0,293,12,293
-Agricultural University of Athens,2021-2022,Unknown,22/08/1994,23,588,0,240
-Agricultural University of Athens,2021-2022,Unknown,23/06/2005,182,1769,0,650
-Agricultural University of Athens,2021-2022,Unknown,05/06/2013,53,1973,0,392
+Agricultural University of Athens,2021-2022,Forestry and Natural Environment Management,22/08/1994,23,588,0,240
+Agricultural University of Athens,2021-2022,Supply Systems Management,23/06/2005,182,1769,0,650
+Agricultural University of Athens,2021-2022,"Management, Economy and Communication of Cultural and Tourist Units",05/06/2013,53,1973,0,392
 Democritus University of Thrace,2021-2022,Agricultural Development,06/09/1999,130,1033,55,695
 Democritus University of Thrace,2021-2022,Architectural Engineers,06/09/1999,73,695,40,578
 Democritus University of Thrace,2021-2022,"Language, Philology and Culture of Black Sea Countries",10/03/2000,68,790,73,245
@@ -713,8 +713,8 @@ International Hellenic University,2021-2022,Informatics and Electronic Systems E
 International Hellenic University,2021-2022,"Informatics, Computers and Telecommunications Engineering",07/05/2019,0,241,269,241
 International Hellenic University,2021-2022,Surveying and Geoinformatics Engineering,07/05/2019,0,181,17,181
 International Hellenic University,2021-2022,Mechanical Engineers,07/05/2019,7,311,84,310
-International Hellenic University,2021-2022,Unknown,07/05/2019,11,125,40,124
-International Hellenic University,2021-2022,Unknown,07/05/2019,93,470,261,469
+International Hellenic University,2021-2022,Nursing,07/05/2019,11,125,40,124
+International Hellenic University,2021-2022,Nursing,07/05/2019,93,470,261,469
 International Hellenic University,2021-2022,Economic Sciences,07/05/2019,0,740,334,736
 International Hellenic University,2021-2022,Business Organization and Management,07/05/2019,69,838,396,838
 International Hellenic University,2021-2022,Informatics,07/05/2019,0,562,186,562
@@ -722,43 +722,43 @@ International Hellenic University,2021-2022,Civil Engineers,07/05/2019,0,174,53,
 International Hellenic University,2021-2022,Physics,07/05/2019,0,258,28,258
 International Hellenic University,2021-2022,Physiotherapy,07/05/2019,114,197,563,197
 International Hellenic University,2021-2022,Chemistry,07/05/2019,0,340,111,340
-International Hellenic University,2021-2022,Unknown,12/10/1984,79,593,0,324
-International Hellenic University,2021-2022,Unknown,17/09/2003,9,258,0,132
-International Hellenic University,2021-2022,Unknown,27/03/1984,10,534,0,177
-International Hellenic University,2021-2022,Unknown,23/06/2005,38,820,0,318
-International Hellenic University,2021-2022,Unknown,27/11/1985,84,783,0,352
-International Hellenic University,2021-2022,Unknown,03/06/2013,97,1163,0,529
-International Hellenic University,2021-2022,Unknown,27/11/1985,79,2201,2201,669
-International Hellenic University,2021-2022,Unknown,24/11/1983,135,2478,0,297
-International Hellenic University,2021-2022,Unknown,17/09/2003,60,1203,0,439
-International Hellenic University,2021-2022,Unknown,03/06/2013,50,818,0,447
-International Hellenic University,2021-2022,Unknown,12/03/2009,5,210,0,127
-International Hellenic University,2021-2022,Unknown,24/11/1983,60,1472,0,451
-International Hellenic University,2021-2022,Unknown,24/11/1983,44,1239,0,481
-International Hellenic University,2021-2022,Unknown,12/11/1984,37,600,0,251
-International Hellenic University,2021-2022,Unknown,03/06/2013,69,1553,0,512
-International Hellenic University,2021-2022,Unknown,24/11/1983,122,1932,0,631
-International Hellenic University,2021-2022,Unknown,05/06/2013,200,2426,0,577
-International Hellenic University,2021-2022,Unknown,24/11/1983,15,412,0,248
-International Hellenic University,2021-2022,Unknown,09/03/1988,51,967,0,369
-International Hellenic University,2021-2022,Unknown,09/03/1988,60,1403,0,658
-International Hellenic University,2021-2022,Unknown,05/06/2013,43,1343,0,428
-International Hellenic University,2021-2022,Unknown,06/09/1999,84,1507,0,356
-International Hellenic University,2021-2022,Unknown,14/10/1976,86,1471,0,485
-International Hellenic University,2021-2022,Unknown,06/09/1999,58,1270,0,242
-International Hellenic University,2021-2022,Unknown,14/10/1976,82,1143,0,410
-International Hellenic University,2021-2022,Unknown,05/06/2013,84,1130,0,307
-International Hellenic University,2021-2022,Unknown,09/03/1988,69,851,0,300
-International Hellenic University,2021-2022,Unknown,28/09/1970,43,495,0,266
-International Hellenic University,2021-2022,Unknown,10/05/2007,42,308,0,210
-International Hellenic University,2021-2022,Unknown,12/03/2009,51,468,0,254
-International Hellenic University,2021-2022,Unknown,03/06/2013,84,664,0,316
-International Hellenic University,2021-2022,Unknown,05/06/2013,38,1269,0,235
-International Hellenic University,2021-2022,Unknown,27/11/1985,15,253,0,178
-International Hellenic University,2021-2022,Unknown,06/09/1999,71,946,0,287
-International Hellenic University,2021-2022,Unknown,24/11/1983,29,1017,0,414
-International Hellenic University,2021-2022,Unknown,06/03/2013,173,2216,0,831
-International Hellenic University,2021-2022,Unknown,24/11/1983,79,307,2,252
+International Hellenic University,2021-2022,Aesthetics and Cosmetology,12/10/1984,79,593,0,324
+International Hellenic University,2021-2022,Landscape Architecture,17/09/2003,9,258,0,132
+International Hellenic University,2021-2022,Library Science and Information Systems,27/03/1984,10,534,0,177
+International Hellenic University,2021-2022,Forestry and Natural Environment Management,23/06/2005,38,820,0,318
+International Hellenic University,2021-2022,Nutrition and Dietetics,27/11/1985,84,783,0,352
+International Hellenic University,2021-2022,Business Management,03/06/2013,97,1163,0,529
+International Hellenic University,2021-2022,Business Management,27/11/1985,79,2201,2201,669
+International Hellenic University,2021-2022,Business Management,24/11/1983,135,2478,0,297
+International Hellenic University,2021-2022,Supply Systems Management,17/09/2003,60,1203,0,439
+International Hellenic University,2021-2022,Tourism Business and Hospitality Management,03/06/2013,50,818,0,447
+International Hellenic University,2021-2022,"Interior Architecture, Decoration and Object Design",12/03/2009,5,210,0,127
+International Hellenic University,2021-2022,Electrical Engineers,24/11/1983,60,1472,0,451
+International Hellenic University,2021-2022,Electronic Engineers,24/11/1983,44,1239,0,481
+International Hellenic University,2021-2022,Medical Laboratories,12/11/1984,37,600,0,251
+International Hellenic University,2021-2022,Accounting and Finance,03/06/2013,69,1553,0,512
+International Hellenic University,2021-2022,Accounting and Finance,24/11/1983,122,1932,0,631
+International Hellenic University,2021-2022,Accounting and Finance,05/06/2013,200,2426,0,577
+International Hellenic University,2021-2022,Midwifery,24/11/1983,15,412,0,248
+International Hellenic University,2021-2022,Automation Engineering,09/03/1988,51,967,0,369
+International Hellenic University,2021-2022,Informatics Engineering,09/03/1988,60,1403,0,658
+International Hellenic University,2021-2022,Informatics Engineering,05/06/2013,43,1343,0,428
+International Hellenic University,2021-2022,Informatics Engineering,06/09/1999,84,1507,0,356
+International Hellenic University,2021-2022,Oil and Natural Gas Technology Engineering,14/10/1976,86,1471,0,485
+International Hellenic University,2021-2022,Surveying and Geoinformatics Engineering,06/09/1999,58,1270,0,242
+International Hellenic University,2021-2022,Mechanical Engineers,14/10/1976,82,1143,0,410
+International Hellenic University,2021-2022,Mechanical Engineers,05/06/2013,84,1130,0,307
+International Hellenic University,2021-2022,Vehicle Mechanical Engineers,09/03/1988,69,851,0,300
+International Hellenic University,2021-2022,Nursing,28/09/1970,43,495,0,266
+International Hellenic University,2021-2022,Nursing,10/05/2007,42,308,0,210
+International Hellenic University,2021-2022,Oenology and Beverage Technology,12/03/2009,51,468,0,254
+International Hellenic University,2021-2022,Civil Engineers,03/06/2013,84,664,0,316
+International Hellenic University,2021-2022,Civil Engineers,05/06/2013,38,1269,0,235
+International Hellenic University,2021-2022,Preschool Education,27/11/1985,15,253,0,178
+International Hellenic University,2021-2022,Clothing Design and Technology,06/09/1999,71,946,0,287
+International Hellenic University,2021-2022,Food Technology,24/11/1983,29,1017,0,414
+International Hellenic University,2021-2022,Agricultural Technologists,06/03/2013,173,2216,0,831
+International Hellenic University,2021-2022,Physiotherapy,24/11/1983,79,307,2,252
 National and Kapodistrian University of Athens,2021-2022,Unknown,19/07/2019,0,38,32,38
 National and Kapodistrian University of Athens,2021-2022,English Language and Literature,23/06/1951,214,4735,255,1186
 National and Kapodistrian University of Athens,2021-2022,"Agricultural Development, Agrifood and Natural Resources Management",29/01/2019,0,206,85,206
@@ -777,9 +777,9 @@ National and Kapodistrian University of Athens,2021-2022,Theology,16/07/1982,191
 National and Kapodistrian University of Athens,2021-2022,Medicine,24/04/1837,369,3020,336,1930
 National and Kapodistrian University of Athens,2021-2022,Spanish Language and Literature,01/10/2009,53,1257,208,648
 National and Kapodistrian University of Athens,2021-2022,History and Archaeology,24/04/1986,243,3961,267,1494
-National and Kapodistrian University of Athens,2021-2022,Unknown,05/03/1993,77,1469,144,586
+National and Kapodistrian University of Athens,2021-2022,History and Philosophy of Science,05/03/1993,77,1469,144,586
 National and Kapodistrian University of Athens,2021-2022,Italian Language and Literature,01/10/2009,46,878,50,449
-National and Kapodistrian University of Athens,2021-2022,Unknown,18/05/1977,151,3159,176,1246
+National and Kapodistrian University of Athens,2021-2022,Social Theology and Religious Studies,18/05/1977,151,3159,176,1246
 National and Kapodistrian University of Athens,2021-2022,Sociology,29/01/2019,0,476,110,476
 National and Kapodistrian University of Athens,2021-2022,Mathematics,04/06/1904,323,6069,273,1619
 National and Kapodistrian University of Athens,2021-2022,Music Studies,06/10/1989,37,1023,98,585
@@ -802,16 +802,16 @@ National and Kapodistrian University of Athens,2021-2022,Physics,23/03/1932,237,
 National and Kapodistrian University of Athens,2021-2022,Chemistry,27/04/1918,154,1806,170,688
 National and Kapodistrian University of Athens,2021-2022,Digital Arts and Cinema,29/01/2019,0,281,105,281
 National and Kapodistrian University of Athens,2021-2022,Psychology,03/06/2013,772,2084,304,1616
-National and Kapodistrian University of Athens,2021-2022,Unknown,01/09/2019,127,2864,0,608
-National and Kapodistrian University of Athens,2021-2022,Unknown,01/09/2019,168,2133,0,754
-National and Kapodistrian University of Athens,2021-2022,Unknown,01/09/2019,56,1659,0,468
-National and Kapodistrian University of Athens,2021-2022,Unknown,01/09/2019,71,1240,0,396
-National and Kapodistrian University of Athens,2021-2022,Unknown,01/09/2019,89,742,0,378
-National Technical University of Athens,2021-2022,Unknown,30/10/1917,93,1426,91,768
+National and Kapodistrian University of Athens,2021-2022,Electrical Engineers,01/09/2019,127,2864,0,608
+National and Kapodistrian University of Athens,2021-2022,Accounting and Finance,01/09/2019,168,2133,0,754
+National and Kapodistrian University of Athens,2021-2022,Automation Engineering,01/09/2019,56,1659,0,468
+National and Kapodistrian University of Athens,2021-2022,Aircraft Technology Engineering,01/09/2019,71,1240,0,396
+National and Kapodistrian University of Athens,2021-2022,Mechanical Engineers,01/09/2019,89,742,0,378
+National Technical University of Athens,2021-2022,Agricultural and Surveying Engineers - Geoinformatics Engineers,30/10/1917,93,1426,91,768
 National Technical University of Athens,2021-2022,Architectural Engineers,30/10/1917,157,1764,177,1205
 National Technical University of Athens,2021-2022,Applied Mathematics and Physical Sciences,01/09/1999,90,1851,151,1082
 National Technical University of Athens,2021-2022,Electrical and Computer Engineers,30/10/1917,320,4822,430,2641
-National Technical University of Athens,2021-2022,Unknown,13/08/1975,90,952,99,555
+National Technical University of Athens,2021-2022,Mining - Metallurgical Engineers,13/08/1975,90,952,99,555
 National Technical University of Athens,2021-2022,Mechanical Engineers,30/10/1917,168,3839,222,1393
 National Technical University of Athens,2021-2022,Naval Architects and Mechanical Engineers,27/08/1982,156,1394,134,792
 National Technical University of Athens,2021-2022,Civil Engineers,20/06/1887,158,2514,199,1344
@@ -835,20 +835,20 @@ Hellenic Mediterranean University,2021-2022,Accounting and Finance,07/05/2019,0,
 Hellenic Mediterranean University,2021-2022,Mechanical Engineers,01/07/2019,0,240,83,240
 Hellenic Mediterranean University,2021-2022,Music Technology and Acoustics,06/09/1999,0,297,58,297
 Hellenic Mediterranean University,2021-2022,Nursing,07/05/2019,0,433,184,433
-Hellenic Mediterranean University,2021-2022,Unknown,06/09/1999,96,732,0,230
-Hellenic Mediterranean University,2021-2022,Unknown,05/06/2013,153,778,0,471
-Hellenic Mediterranean University,2021-2022,Unknown,05/06/2013,67,1102,0,322
-Hellenic Mediterranean University,2021-2022,Unknown,05/06/2013,46,1039,0,400
-Hellenic Mediterranean University,2021-2022,Unknown,07/05/2019,46,730,0,221
-Hellenic Mediterranean University,2021-2022,Unknown,24/11/1983,37,599,0,333
-Hellenic Mediterranean University,2021-2022,Unknown,05/06/2013,151,635,0,266
-Hellenic Mediterranean University,2021-2022,Unknown,05/06/2013,166,2982,0,560
-Hellenic Mediterranean University,2021-2022,Unknown,06/09/1999,34,1289,1,298
-Hellenic Mediterranean University,2021-2022,Unknown,05/06/2013,76,1583,0,485
-Hellenic Mediterranean University,2021-2022,Unknown,06/09/1999,47,605,0,250
-Hellenic Mediterranean University,2021-2022,Unknown,05/06/2013,53,1278,0,351
-Hellenic Mediterranean University,2021-2022,Unknown,24/11/1983,110,440,0,272
-Hellenic Mediterranean University,2021-2022,Unknown,05/06/2013,46,1350,0,443
+Hellenic Mediterranean University,2021-2022,Nutrition and Dietetics,06/09/1999,96,732,0,230
+Hellenic Mediterranean University,2021-2022,Business Management,05/06/2013,153,778,0,471
+Hellenic Mediterranean University,2021-2022,Business Management,05/06/2013,67,1102,0,322
+Hellenic Mediterranean University,2021-2022,Tourism Business and Hospitality Management,05/06/2013,46,1039,0,400
+Hellenic Mediterranean University,2021-2022,Electrical Engineers,07/05/2019,46,730,0,221
+Hellenic Mediterranean University,2021-2022,Electronic Engineers,24/11/1983,37,599,0,333
+Hellenic Mediterranean University,2021-2022,Social Work,05/06/2013,151,635,0,266
+Hellenic Mediterranean University,2021-2022,Accounting and Finance,05/06/2013,166,2982,0,560
+Hellenic Mediterranean University,2021-2022,Music Technology and Acoustics Engineering,06/09/1999,34,1289,1,298
+Hellenic Mediterranean University,2021-2022,Informatics Engineering,05/06/2013,76,1583,0,485
+Hellenic Mediterranean University,2021-2022,Natural Resources and Environment Engineering,06/09/1999,47,605,0,250
+Hellenic Mediterranean University,2021-2022,Mechanical Engineers,05/06/2013,53,1278,0,351
+Hellenic Mediterranean University,2021-2022,Nursing,24/11/1983,110,440,0,272
+Hellenic Mediterranean University,2021-2022,Agricultural Technologists,05/06/2013,46,1350,0,443
 Ionian University,2021-2022,"Archival Science, Library Science and Museology",20/03/1984,54,842,36,383
 Ionian University,2021-2022,Food Science and Technology,01/10/2018,0,304,31,304
 Ionian University,2021-2022,History,20/03/1984,88,1526,40,1018
@@ -859,13 +859,13 @@ Ionian University,2021-2022,Informatics,22/07/2004,69,1076,197,738
 Ionian University,2021-2022,Sound and Image Arts,22/07/2004,54,997,997,647
 Ionian University,2021-2022,Tourism,01/10/2018,0,554,103,554
 Ionian University,2021-2022,Digital Media and Communication,01/10/2018,24,664,270,664
-Ionian University,2021-2022,Unknown,05/06/2013,39,662,0,283
-Ionian University,2021-2022,Unknown,05/06/2013,29,464,0,349
-Ionian University,2021-2022,Unknown,05/06/2013,6,336,0,23
-Ionian University,2021-2022,Unknown,20/06/2003,52,583,0,309
-Ionian University,2021-2022,Unknown,05/06/2013,27,581,0,255
-Ionian University,2021-2022,Unknown,05/06/2013,4,575,0,176
-Ionian University,2021-2022,Unknown,05/05/2014,23,1196,0,420
+Ionian University,2021-2022,Business Management,05/06/2013,39,662,0,283
+Ionian University,2021-2022,Tourism Business and Hospitality Management,05/06/2013,29,464,0,349
+Ionian University,2021-2022,Conservation of Antiquities and Works of Art,05/06/2013,6,336,0,23
+Ionian University,2021-2022,Sound Technology and Musical Instruments,20/06/2003,52,583,0,309
+Ionian University,2021-2022,Food Technology,05/06/2013,27,581,0,255
+Ionian University,2021-2022,Natural Environment Technologies,05/06/2013,4,575,0,176
+Ionian University,2021-2022,Digital Media and Communication,05/05/2014,23,1196,0,420
 Athens University of Economics and Business,2021-2022,International and European Economic Studies,01/09/1989,107,1537,155,832
 Athens University of Economics and Business,2021-2022,Administrative Science and Technology,01/09/2000,163,1406,194,983
 Athens University of Economics and Business,2021-2022,Accounting and Finance,06/09/1999,174,1839,252,1218
@@ -891,7 +891,7 @@ University of the Aegean,2021-2022,Primary Education Pedagogy,20/03/1984,162,113
 University of the Aegean,2021-2022,Environment,20/03/1984,50,734,24,288
 University of the Aegean,2021-2022,Cultural Technology and Communication,10/03/2000,71,1115,157,626
 University of the Aegean,2021-2022,Statistics and Actuarial - Financial Mathematics,01/09/2018,103,913,114,561
-University of the Aegean,2021-2022,Unknown,04/11/1997,61,929,50,415
+University of the Aegean,2021-2022,Oceanography and Marine Biosciences,04/11/1997,61,929,50,415
 University of West Attica,2021-2022,Early Childhood Care and Education,02/03/2018,199,721,176,661
 University of West Attica,2021-2022,"Archival Science, Library Science and Information Systems",02/03/2018,45,848,126,683
 University of West Attica,2021-2022,Biomedical Sciences,02/03/2018,459,2224,405,1873
@@ -918,54 +918,54 @@ University of West Attica,2021-2022,Civil Engineers,02/03/2018,75,1700,223,1559
 University of West Attica,2021-2022,Conservation of Antiquities and Works of Art,02/03/2018,31,543,75,419
 University of West Attica,2021-2022,Physiotherapy,02/03/2018,185,960,201,849
 University of West Attica,2021-2022,Photography and Audiovisual Arts,01/09/2018,44,839,132,662
-University of West Attica,2021-2022,Unknown,03/02/2018,7,91,0,0
-University of West Attica,2021-2022,Unknown,24/11/1983,4,57,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,4,129,0,0
-University of West Attica,2021-2022,Unknown,27/11/1985,65,1227,0,6
-University of West Attica,2021-2022,Unknown,24/11/1983,31,227,0,0
-University of West Attica,2021-2022,Unknown,24/11/1983,8,186,0,0
-University of West Attica,2021-2022,Unknown,24/11/1983,26,651,0,4
-University of West Attica,2021-2022,Unknown,28/05/2013,25,1194,0,2
-University of West Attica,2021-2022,Unknown,24/11/1983,9,347,0,0
-University of West Attica,2021-2022,Unknown,24/11/1983,7,382,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,11,389,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,4,86,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,9,224,0,3
-University of West Attica,2021-2022,Unknown,24/11/1983,23,1738,0,38
-University of West Attica,2021-2022,Unknown,24/11/1983,24,665,0,15
-University of West Attica,2021-2022,Unknown,24/11/1973,12,1404,0,7
-University of West Attica,2021-2022,Unknown,24/11/1983,4,111,0,0
-University of West Attica,2021-2022,Unknown,24/11/1983,15,804,0,12
-University of West Attica,2021-2022,Unknown,24/11/1983,11,116,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,43,2048,0,4
-University of West Attica,2021-2022,Unknown,24/11/1983,2,73,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,22,274,0,3
-University of West Attica,2021-2022,Unknown,24/11/1983,4,220,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,8,115,0,6
-University of West Attica,2021-2022,Unknown,24/11/2018,16,926,0,3
-University of West Attica,2021-2022,Unknown,24/11/1983,22,568,0,33
-University of West Attica,2021-2022,Unknown,24/11/1983,14,227,0,2
-University of West Attica,2021-2022,Unknown,24/11/1983,51,1799,0,23
-University of West Attica,2021-2022,Unknown,24/11/1973,22,308,0,15
-University of West Attica,2021-2022,Unknown,24/11/1983,11,179,0,2
-University of West Attica,2021-2022,Unknown,27/11/1983,9,144,0,4
-University of West Attica,2021-2022,Unknown,24/11/1983,4,225,0,0
-University of West Attica,2021-2022,Unknown,24/11/1983,5,97,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,12,261,0,7
-University of West Attica,2021-2022,Unknown,14/09/2009,24,962,0,6
-University of West Attica,2021-2022,Unknown,24/11/1983,7,63,0,0
-University of West Attica,2021-2022,Unknown,24/11/1983,8,79,0,0
-University of West Attica,2021-2022,Unknown,24/11/1983,10,196,0,10
-University of West Attica,2021-2022,Unknown,07/03/1983,16,412,0,1
-University of West Attica,2021-2022,Unknown,24/11/1983,10,117,0,0
-University of West Attica,2021-2022,Unknown,01/10/1985,9,266,0,2
+University of West Attica,2021-2022,Aesthetics and Cosmetology,03/02/2018,7,91,0,0
+University of West Attica,2021-2022,Radiology and Radiotherapy,24/11/1983,4,57,0,1
+University of West Attica,2021-2022,"Archival Science, Library Science and Information Systems",24/11/1983,4,129,0,0
+University of West Attica,2021-2022,Automation,27/11/1985,65,1227,0,6
+University of West Attica,2021-2022,Graphic Design,24/11/1983,31,227,0,0
+University of West Attica,2021-2022,Public and Community Health,24/11/1983,8,186,0,0
+University of West Attica,2021-2022,Business Management,24/11/1983,26,651,0,4
+University of West Attica,2021-2022,Business Management,28/05/2013,25,1194,0,2
+University of West Attica,2021-2022,Tourism Management,24/11/1983,9,347,0,0
+University of West Attica,2021-2022,Tourism Business and Hospitality Management,24/11/1983,7,382,0,1
+University of West Attica,2021-2022,Commerce and Advertising,24/11/1983,11,389,0,1
+University of West Attica,2021-2022,Occupational Therapy,24/11/1983,4,86,0,1
+University of West Attica,2021-2022,"Interior Architecture, Decoration and Object Design",24/11/1983,9,224,0,3
+University of West Attica,2021-2022,Electrical Engineers,24/11/1983,23,1738,0,38
+University of West Attica,2021-2022,Electronic Engineers,24/11/1983,24,665,0,15
+University of West Attica,2021-2022,Electronic Engineers,24/11/1973,12,1404,0,7
+University of West Attica,2021-2022,Medical Laboratories,24/11/1983,4,111,0,0
+University of West Attica,2021-2022,Textile Engineering,24/11/1983,15,804,0,12
+University of West Attica,2021-2022,Social Work,24/11/1983,11,116,0,1
+University of West Attica,2021-2022,Accounting and Finance,24/11/1983,43,2048,0,4
+University of West Attica,2021-2022,Midwifery,24/11/1983,2,73,0,1
+University of West Attica,2021-2022,Biomedical Technology Engineering,24/11/1983,22,274,0,3
+University of West Attica,2021-2022,Energy Technology Engineering,24/11/1983,4,220,0,1
+University of West Attica,2021-2022,Energy Technology Engineering,24/11/1983,8,115,0,6
+University of West Attica,2021-2022,Electronic Computing Systems Engineering,24/11/2018,16,926,0,3
+University of West Attica,2021-2022,Informatics Engineering,24/11/1983,22,568,0,33
+University of West Attica,2021-2022,Surveying and Geoinformatics Engineering,24/11/1983,14,227,0,2
+University of West Attica,2021-2022,Mechanical Engineers,24/11/1983,51,1799,0,23
+University of West Attica,2021-2022,Naval Architects,24/11/1973,22,308,0,15
+University of West Attica,2021-2022,Nursing,24/11/1983,11,179,0,2
+University of West Attica,2021-2022,Dental Technology,27/11/1983,9,144,0,4
+University of West Attica,2021-2022,Oenology and Beverage Technology,24/11/1983,4,225,0,0
+University of West Attica,2021-2022,Optics and Optometry,24/11/1983,5,97,0,1
+University of West Attica,2021-2022,Civil Engineers,24/11/1983,12,261,0,7
+University of West Attica,2021-2022,Civil Engineers,14/09/2009,24,962,0,6
+University of West Attica,2021-2022,Preschool Education,24/11/1983,7,63,0,0
+University of West Attica,2021-2022,Conservation of Antiquities and Works of Art,24/11/1983,8,79,0,0
+University of West Attica,2021-2022,Graphic Arts Technology,24/11/1983,10,196,0,10
+University of West Attica,2021-2022,Food Technology,07/03/1983,16,412,0,1
+University of West Attica,2021-2022,Physiotherapy,24/11/1983,10,117,0,0
+University of West Attica,2021-2022,Photography and Audiovisual Arts,01/10/1985,9,266,0,2
 University of Western Macedonia,2021-2022,Agriculture,07/05/2019,0,437,56,437
 University of Western Macedonia,2021-2022,International and European Economic Studies,07/05/2019,0,609,142,609
 University of Western Macedonia,2021-2022,Administrative Science and Technology,07/05/2019,0,740,93,740
 University of Western Macedonia,2021-2022,Fine and Applied Arts,31/08/2006,46,536,116,469
 University of Western Macedonia,2021-2022,Communication and Digital Media,07/05/2019,11,557,115,555
 University of Western Macedonia,2021-2022,Occupational Therapy,07/05/2019,0,276,112,276
-University of Western Macedonia,2021-2022,Unknown,02/08/2005,39,749,100,611
+University of Western Macedonia,2021-2022,Electrical and Computer Engineers,02/08/2005,39,749,100,611
 University of Western Macedonia,2021-2022,Accounting and Finance,07/05/2019,0,636,75,636
 University of Western Macedonia,2021-2022,Mathematics,07/05/2019,0,137,22,137
 University of Western Macedonia,2021-2022,Midwifery,07/05/2019,54,494,241,494
@@ -979,21 +979,21 @@ University of Western Macedonia,2021-2022,Kindergarten Pedagogy,02/04/1993,91,63
 University of Western Macedonia,2021-2022,Regional and Cross-Border Development,07/05/2019,0,557,43,557
 University of Western Macedonia,2021-2022,Informatics,07/05/2019,3,472,246,472
 University of Western Macedonia,2021-2022,Statistics and Insurance Science,07/05/2019,0,472,25,472
-University of Western Macedonia,2021-2022,Unknown,07/05/2019,13,663,93,663
+University of Western Macedonia,2021-2022,Chemical Engineers,07/05/2019,13,663,93,663
 University of Western Macedonia,2021-2022,Psychology,07/05/2019,0,359,147,359
-University of Western Macedonia,2021-2022,Unknown,12/01/1996,63,1746,0,340
-University of Western Macedonia,2021-2022,Unknown,23/05/1995,7,1344,0,130
-University of Western Macedonia,2021-2022,Unknown,05/06/2013,82,2535,0,1540
-University of Western Macedonia,2021-2022,Unknown,05/06/2013,120,2344,0,916
-University of Western Macedonia,2021-2022,Unknown,14/10/1976,68,1800,0,328
-University of Western Macedonia,2021-2022,Unknown,07/05/2019,118,2694,0,638
-University of Western Macedonia,2021-2022,Unknown,12/03/2009,28,280,0,204
-University of Western Macedonia,2021-2022,Unknown,06/09/1999,45,2739,0,553
-University of Western Macedonia,2021-2022,Unknown,05/06/2013,57,1504,0,313
-University of Western Macedonia,2021-2022,Unknown,07/05/2019,54,1243,0,306
-University of Western Macedonia,2021-2022,Unknown,24/11/1983,105,1349,0,382
-University of Western Macedonia,2021-2022,Unknown,05/06/2013,118,3348,0,409
-University of Western Macedonia,2021-2022,Unknown,06/09/1999,76,2432,0,501
+University of Western Macedonia,2021-2022,Industrial Design,12/01/1996,63,1746,0,340
+University of Western Macedonia,2021-2022,International Trade,23/05/1995,7,1344,0,130
+University of Western Macedonia,2021-2022,Business Management,05/06/2013,82,2535,0,1540
+University of Western Macedonia,2021-2022,Business Management,05/06/2013,120,2344,0,916
+University of Western Macedonia,2021-2022,Electrical Engineers,14/10/1976,68,1800,0,328
+University of Western Macedonia,2021-2022,Accounting and Finance,07/05/2019,118,2694,0,638
+University of Western Macedonia,2021-2022,Midwifery,12/03/2009,28,280,0,204
+University of Western Macedonia,2021-2022,Anti-Pollution Engineering,06/09/1999,45,2739,0,553
+University of Western Macedonia,2021-2022,Geoenvironmental Technology Engineering,05/06/2013,57,1504,0,313
+University of Western Macedonia,2021-2022,Informatics Engineering,07/05/2019,54,1243,0,306
+University of Western Macedonia,2021-2022,Mechanical Engineers,24/11/1983,105,1349,0,382
+University of Western Macedonia,2021-2022,Agricultural Technologists,05/06/2013,118,3348,0,409
+University of Western Macedonia,2021-2022,Digital Media and Communication,06/09/1999,76,2432,0,501
 University of Thessaly,2021-2022,Architectural Engineers,06/09/1999,110,844,120,757
 University of Thessaly,2021-2022,Biochemistry and Biotechnology,10/03/2000,123,695,123,480
 University of Thessaly,2021-2022,Agriculture - Agricultural Technology,29/01/2019,13,383,86,383
@@ -1021,7 +1021,7 @@ University of Thessaly,2021-2022,Primary Education Pedagogy,31/05/1985,210,857,1
 University of Thessaly,2021-2022,Special Education Pedagogy,28/04/1993,170,579,127,455
 University of Thessaly,2021-2022,Preschool Education Pedagogy,20/03/1984,191,847,197,680
 University of Thessaly,2021-2022,Environment,29/01/2019,1,326,28,326
-University of Thessaly,2021-2022,Unknown,05/06/2013,71,904,165,747
+University of Thessaly,2021-2022,Informatics and Telecommunications,05/06/2013,71,904,165,747
 University of Thessaly,2021-2022,Informatics with Applications in Biomedicine,02/03/2004,126,1015,189,749
 University of Thessaly,2021-2022,Civil Engineers,28/04/1993,85,653,91,516
 University of Thessaly,2021-2022,Culture and Creative Media and Industries,29/01/2019,0,265,95,265
@@ -1029,29 +1029,29 @@ University of Thessaly,2021-2022,Energy Systems,29/01/2019,0,320,26,320
 University of Thessaly,2021-2022,Physics,29/01/2019,0,151,22,151
 University of Thessaly,2021-2022,Physiotherapy,29/01/2019,44,378,149,378
 University of Thessaly,2021-2022,Digital Systems,29/01/2019,5,855,317,855
-University of Thessaly,2021-2022,Unknown,23/06/2005,3,441,0,95
-University of Thessaly,2021-2022,Unknown,03/10/2009,93,294,0,132
-University of Thessaly,2021-2022,Unknown,03/06/2013,256,2499,0,713
-University of Thessaly,2021-2022,Unknown,24/11/1983,165,993,0,225
-University of Thessaly,2021-2022,Unknown,22/08/1994,61,1140,0,232
-University of Thessaly,2021-2022,Unknown,24/11/1983,126,510,0,108
-University of Thessaly,2021-2022,Unknown,01/09/2013,189,1249,0,447
-University of Thessaly,2021-2022,Unknown,01/09/2013,202,1902,0,625
-University of Thessaly,2021-2022,Unknown,01/09/2000,153,1599,0,301
-University of Thessaly,2021-2022,Unknown,24/11/1983,209,1126,0,252
-University of Thessaly,2021-2022,Unknown,24/11/1983,104,497,0,211
-University of Thessaly,2021-2022,Unknown,22/10/1994,88,737,0,171
-University of Thessaly,2021-2022,Unknown,27/11/1985,90,1276,0,199
-University of Thessaly,2021-2022,Unknown,01/09/2013,75,435,0,95
-University of Thessaly,2021-2022,Unknown,06/09/1999,41,705,0,262
-University of Thessaly,2021-2022,Unknown,01/09/2005,132,557,0,252
-University of Thessaly,2021-2022,Unknown,03/06/2013,181,3042,0,589
-University of Thessaly,2021-2022,Unknown,22/08/1994,60,597,0,181
+University of Thessaly,2021-2022,Forestry and Natural Environment Management,23/06/2005,3,441,0,95
+University of Thessaly,2021-2022,Nutrition and Dietetics,03/10/2009,93,294,0,132
+University of Thessaly,2021-2022,Business Management,03/06/2013,256,2499,0,713
+University of Thessaly,2021-2022,Electrical Engineers,24/11/1983,165,993,0,225
+University of Thessaly,2021-2022,Electronic Engineers,22/08/1994,61,1140,0,232
+University of Thessaly,2021-2022,Medical Laboratories,24/11/1983,126,510,0,108
+University of Thessaly,2021-2022,Accounting and Finance,01/09/2013,189,1249,0,447
+University of Thessaly,2021-2022,Informatics Engineering,01/09/2013,202,1902,0,625
+University of Thessaly,2021-2022,Informatics Engineering,01/09/2000,153,1599,0,301
+University of Thessaly,2021-2022,Mechanical Engineers,24/11/1983,209,1126,0,252
+University of Thessaly,2021-2022,Nursing,24/11/1983,104,497,0,211
+University of Thessaly,2021-2022,Nursing,22/10/1994,88,737,0,171
+University of Thessaly,2021-2022,Civil Engineers,27/11/1985,90,1276,0,199
+University of Thessaly,2021-2022,Civil Engineers,01/09/2013,75,435,0,95
+University of Thessaly,2021-2022,Wood and Furniture Design and Technology,06/09/1999,41,705,0,262
+University of Thessaly,2021-2022,Food Technology,01/09/2005,132,557,0,252
+University of Thessaly,2021-2022,Agricultural Technologists,03/06/2013,181,3042,0,589
+University of Thessaly,2021-2022,Physiotherapy,22/08/1994,60,597,0,181
 University of Ioannina,2021-2022,Early Childhood Care and Education,01/10/2018,31,453,186,453
 University of Ioannina,2021-2022,Architectural Engineers,02/10/2009,16,289,52,289
 University of Ioannina,2021-2022,Biological Applications and Technologies,06/09/1999,92,949,125,720
 University of Ioannina,2021-2022,Agriculture,01/10/2018,37,376,44,376
-University of Ioannina,2021-2022,Unknown,11/05/2016,51,834,67,478
+University of Ioannina,2021-2022,Fine Arts and Art Sciences,11/05/2016,51,834,67,478
 University of Ioannina,2021-2022,Medicine,22/07/1977,126,1228,248,894
 University of Ioannina,2021-2022,History and Archaeology,18/10/1984,200,1961,161,1127
 University of Ioannina,2021-2022,Accounting and Finance,01/09/2018,28,448,186,448
@@ -1071,17 +1071,17 @@ University of Ioannina,2021-2022,"Philosophy, Pedagogy and Psychology",18/10/198
 University of Ioannina,2021-2022,Physics,12/12/1970,105,1704,174,776
 University of Ioannina,2021-2022,Chemistry,06/10/1976,180,989,151,571
 University of Ioannina,2021-2022,Psychology,03/08/2018,348,486,136,472
-University of Ioannina,2021-2022,Unknown,06/09/1999,106,742,0,215
-University of Ioannina,2021-2022,Unknown,27/11/1996,21,235,0,125
-University of Ioannina,2021-2022,Unknown,06/09/1999,26,812,0,235
-University of Ioannina,2021-2022,Unknown,03/06/2013,62,1155,0,386
-University of Ioannina,2021-2022,Unknown,06/09/1999,39,238,0,85
-University of Ioannina,2021-2022,Unknown,26/05/1998,47,1479,0,333
-University of Ioannina,2021-2022,Unknown,24/10/1984,59,397,0,105
-University of Ioannina,2021-2022,Unknown,24/10/1984,26,165,0,113
-University of Ioannina,2021-2022,Unknown,25/07/2013,54,966,0,242
+University of Ioannina,2021-2022,Business Management,06/09/1999,106,742,0,215
+University of Ioannina,2021-2022,Tourism Business and Hospitality Management,27/11/1996,21,235,0,125
+University of Ioannina,2021-2022,Folk and Traditional Music,06/09/1999,26,812,0,235
+University of Ioannina,2021-2022,Accounting and Finance,03/06/2013,62,1155,0,386
+University of Ioannina,2021-2022,Speech Therapy,06/09/1999,39,238,0,85
+University of Ioannina,2021-2022,Informatics Engineering,26/05/1998,47,1479,0,333
+University of Ioannina,2021-2022,Nursing,24/10/1984,59,397,0,105
+University of Ioannina,2021-2022,Preschool Education,24/10/1984,26,165,0,113
+University of Ioannina,2021-2022,Agricultural Technologists,25/07/2013,54,966,0,242
 University of Crete,2021-2022,Biology,10/09/1976,79,689,121,547
-University of Crete,2021-2022,Unknown,01/09/2000,68,873,24,466
+University of Crete,2021-2022,Materials Science and Engineering,01/09/2000,68,873,24,466
 University of Crete,2021-2022,Computer Science,15/04/1983,101,1518,207,998
 University of Crete,2021-2022,Applied Mathematics,06/09/1999,70,1088,32,625
 University of Crete,2021-2022,Medicine,10/09/1976,156,1008,132,873
@@ -1145,18 +1145,18 @@ University of Patras,2021-2022,Physics,24/05/1967,140,1445,206,822
 University of Patras,2021-2022,Physiotherapy,07/05/2019,40,539,267,511
 University of Patras,2021-2022,Chemistry,24/05/1967,177,1111,210,751
 University of Patras,2021-2022,Chemical Engineers,20/09/1977,98,1092,172,788
-University of Patras,2021-2022,Unknown,05/06/2013,109,1679,0,463
-University of Patras,2021-2022,Unknown,05/06/2013,173,3223,0,682
-University of Patras,2021-2022,Unknown,05/06/2013,76,1633,0,472
-University of Patras,2021-2022,Unknown,24/11/1983,53,291,0,93
-University of Patras,2021-2022,Unknown,05/06/2013,128,1650,0,368
-University of Patras,2021-2022,Unknown,24/11/1983,56,466,0,232
-University of Patras,2021-2022,Unknown,24/11/1983,59,725,0,302
-University of Patras,2021-2022,Unknown,19/10/2006,17,206,0,65
-University of Patras,2021-2022,Unknown,05/06/2013,17,979,0,268
-University of Patras,2021-2022,Unknown,05/06/2013,66,515,0,297
-University of Patras,2021-2022,Unknown,24/11/1983,15,702,0,231
-University of Patras,2021-2022,Unknown,05/06/2013,62,409,0,235
+University of Patras,2021-2022,Business Management,05/06/2013,109,1679,0,463
+University of Patras,2021-2022,Business Management,05/06/2013,173,3223,0,682
+University of Patras,2021-2022,"Management, Economy and Communication of Cultural and Tourist Units",05/06/2013,76,1633,0,472
+University of Patras,2021-2022,Social Work,24/11/1983,53,291,0,93
+University of Patras,2021-2022,Accounting and Finance,05/06/2013,128,1650,0,368
+University of Patras,2021-2022,Speech Therapy,24/11/1983,56,466,0,232
+University of Patras,2021-2022,Nursing,24/11/1983,59,725,0,302
+University of Patras,2021-2022,Optics and Optometry,19/10/2006,17,206,0,65
+University of Patras,2021-2022,Fisheries and Aquaculture Technology,05/06/2013,17,979,0,268
+University of Patras,2021-2022,Agricultural Technologists,05/06/2013,66,515,0,297
+University of Patras,2021-2022,Tourism Businesses,24/11/1983,15,702,0,231
+University of Patras,2021-2022,Physiotherapy,05/06/2013,62,409,0,235
 University of Piraeus,2021-2022,Industrial Management and Technology,01/09/1991,119,1253,167,712
 University of Piraeus,2021-2022,International and European Studies,01/09/2000,190,720,171,183
 University of Piraeus,2021-2022,Shipping Studies,01/09/1990,227,1876,276,1185
@@ -1189,17 +1189,17 @@ University of Peloponnese,2021-2022,Civil Engineers,07/05/2019,5,311,145,311
 University of Peloponnese,2021-2022,Philology,05/05/2003,79,646,58,502
 University of Peloponnese,2021-2022,Physiotherapy,07/05/2019,0,209,87,209
 University of Peloponnese,2021-2022,Digital Systems,07/05/2019,0,379,148,379
-University of Peloponnese,2021-2022,Unknown,05/06/2013,70,843,0,325
-University of Peloponnese,2021-2022,Unknown,05/06/2013,88,1557,0,447
-University of Peloponnese,2021-2022,Unknown,05/06/2013,53,578,0,283
-University of Peloponnese,2021-2022,Unknown,12/03/2009,9,160,0,135
-University of Peloponnese,2021-2022,Unknown,05/06/2013,83,1231,0,447
-University of Peloponnese,2021-2022,Unknown,05/06/2013,68,887,0,278
-University of Peloponnese,2021-2022,Unknown,05/06/2013,91,1266,0,432
-University of Peloponnese,2021-2022,Unknown,05/06/2013,63,812,0,304
-University of Peloponnese,2021-2022,Unknown,09/02/2009,53,710,0,339
-University of Peloponnese,2021-2022,Unknown,05/06/2013,135,943,0,431
-University of Peloponnese,2021-2022,Unknown,30/04/2014,55,998,0,385
+University of Peloponnese,2021-2022,Health Units and Welfare Management,05/06/2013,70,843,0,325
+University of Peloponnese,2021-2022,Electrical Engineers,05/06/2013,88,1557,0,447
+University of Peloponnese,2021-2022,Accounting and Finance,05/06/2013,53,578,0,283
+University of Peloponnese,2021-2022,Speech Therapy,12/03/2009,9,160,0,135
+University of Peloponnese,2021-2022,Informatics Engineering,05/06/2013,83,1231,0,447
+University of Peloponnese,2021-2022,Informatics Engineering,05/06/2013,68,887,0,278
+University of Peloponnese,2021-2022,Mechanical Engineers,05/06/2013,91,1266,0,432
+University of Peloponnese,2021-2022,Civil Engineers,05/06/2013,63,812,0,304
+University of Peloponnese,2021-2022,Food Technology,09/02/2009,53,710,0,339
+University of Peloponnese,2021-2022,Agricultural Technologists,05/06/2013,135,943,0,431
+University of Peloponnese,2021-2022,Local Government,30/04/2014,55,998,0,385
 Panteion University of Social and Political Sciences,2021-2022,Public Administration,07/11/1963,268,3869,354,1694
 Panteion University of Social and Political Sciences,2021-2022,International and European Studies,23/06/1997,175,2415,226,922
 Panteion University of Social and Political Sciences,2021-2022,"Communication, Media and Culture",16/06/1989,160,1331,221,852
@@ -1213,7 +1213,7 @@ Technical University of Crete,2021-2022,Architectural Engineers,22/07/2004,75,10
 Technical University of Crete,2021-2022,Electrical and Computer Engineers,01/03/1983,92,1621,166,1114
 Technical University of Crete,2021-2022,Mineral Resources Engineering,01/03/1983,30,1016,28,616
 Technical University of Crete,2021-2022,Production and Management Engineering,01/03/1983,137,1613,127,1083
-Technical University of Crete,2021-2022,Unknown,22/06/1995,63,1031,106,785
+Technical University of Crete,2021-2022,Chemical Engineers and Environmental Engineers,22/06/1995,63,1031,106,785
 Hellenic Army Academy,2021-2022,Military Sciences,21/12/1828,166,783,241,783
 Hellenic Air Force Academy,2021-2022,Aviation Sciences,07/10/2003,67,329,207,329
 Hellenic Naval Academy,2021-2022,Naval Sciences,07/10/2003,38,159,68,159
@@ -1237,7 +1237,7 @@ Aristotle University of Thessaloniki,2022-2023,Journalism and Mass Media,27/07/1
 Aristotle University of Thessaloniki,2022-2023,Fine and Applied Arts,03/05/1984,104,1137,116,743
 Aristotle University of Thessaloniki,2022-2023,Introductory Direction of Muslim Studies,19/04/2016,25,236,13,226
 Aristotle University of Thessaloniki,2022-2023,Physical Education and Sports Science,01/09/1983,224,2413,253,1100
-Aristotle University of Thessaloniki,2022-2023,Unknown,08/02/1985,118,887,140,498
+Aristotle University of Thessaloniki,2022-2023,Physical Education and Sports Science,08/02/1985,118,887,140,498
 Aristotle University of Thessaloniki,2022-2023,Preschool Education Sciences,09/07/1983,261,1483,236,935
 Aristotle University of Thessaloniki,2022-2023,Electrical and Computer Engineers,01/09/1976,263,2851,285,1726
 Aristotle University of Thessaloniki,2022-2023,Theater,03/05/1984,52,949,90,582
@@ -1246,7 +1246,7 @@ Aristotle University of Thessaloniki,2022-2023,Medicine,18/02/1942,337,2557,335,
 Aristotle University of Thessaloniki,2022-2023,History and Archaeology,12/03/2020,209,1845,136,932
 Aristotle University of Thessaloniki,2022-2023,Italian Language and Literature,01/09/1960,41,920,20,308
 Aristotle University of Thessaloniki,2022-2023,Cinema,22/07/2004,63,963,112,615
-Aristotle University of Thessaloniki,2022-2023,Unknown,06/10/1994,104,1831,55,545
+Aristotle University of Thessaloniki,2022-2023,Social Theology and Christian Culture,06/10/1994,104,1831,55,545
 Aristotle University of Thessaloniki,2022-2023,Veterinary Medicine,17/10/1950,96,1086,141,742
 Aristotle University of Thessaloniki,2022-2023,Mathematics,18/10/1928,134,2858,127,1064
 Aristotle University of Thessaloniki,2022-2023,Spatial Planning and Development Engineering,22/07/2004,83,776,104,588
@@ -1275,13 +1275,13 @@ Agricultural University of Athens,2022-2023,Natural Resources Utilization and Ag
 Agricultural University of Athens,2022-2023,Biotechnology,16/06/1989,70,1028,146,773
 Agricultural University of Athens,2022-2023,Forestry and Natural Environment Management,29/01/2019,15,321,44,321
 Agricultural University of Athens,2022-2023,Agricultural Business Management and Supply Systems,29/01/2019,0,710,118,710
-Agricultural University of Athens,2022-2023,Unknown,16/06/1989,92,1159,86,721
+Agricultural University of Athens,2022-2023,Animal Production Science,16/06/1989,92,1159,86,721
 Agricultural University of Athens,2022-2023,Food Science and Human Nutrition,16/06/1989,76,982,123,699
 Agricultural University of Athens,2022-2023,Plant Production Science,28/03/1985,144,2200,235,1237
 Agricultural University of Athens,2022-2023,Regional and Economic Development,29/01/2019,4,344,25,344
-Agricultural University of Athens,2022-2023,Unknown,22/08/1994,38,543,0,162
-Agricultural University of Athens,2022-2023,Unknown,23/06/2005,194,1581,0,403
-Agricultural University of Athens,2022-2023,Unknown,05/06/2013,100,1888,0,248
+Agricultural University of Athens,2022-2023,Forestry and Natural Environment Management,22/08/1994,38,543,0,162
+Agricultural University of Athens,2022-2023,Supply Systems Management,23/06/2005,194,1581,0,403
+Agricultural University of Athens,2022-2023,"Management, Economy and Communication of Cultural and Tourist Units",05/06/2013,100,1888,0,248
 Democritus University of Thrace,2022-2023,Agricultural Development,06/09/1999,91,1023,35,680
 Democritus University of Thrace,2022-2023,Architectural Engineers,06/09/1999,107,639,94,539
 Democritus University of Thrace,2022-2023,"Language, Philology and Culture of Black Sea Countries",10/03/2000,75,1788,48,1246
@@ -1324,8 +1324,8 @@ International Hellenic University,2022-2023,Informatics and Electronic Systems E
 International Hellenic University,2022-2023,"Informatics, Computers and Telecommunications Engineering",07/05/2019,0,339,173,339
 International Hellenic University,2022-2023,Surveying and Geoinformatics Engineering,07/05/2019,0,190,11,190
 International Hellenic University,2022-2023,Mechanical Engineers,07/05/2019,7,408,128,407
-International Hellenic University,2022-2023,Unknown,07/05/2019,35,125,33,125
-International Hellenic University,2022-2023,Unknown,07/05/2019,148,556,261,552
+International Hellenic University,2022-2023,Nursing,07/05/2019,35,125,33,125
+International Hellenic University,2022-2023,Nursing,07/05/2019,148,556,261,552
 International Hellenic University,2022-2023,Economic Sciences,07/05/2019,6,992,280,987
 International Hellenic University,2022-2023,Business Organization and Management,07/05/2019,61,1104,256,1097
 International Hellenic University,2022-2023,Informatics,07/05/2019,3,951,223,951
@@ -1333,43 +1333,43 @@ International Hellenic University,2022-2023,Civil Engineers,07/05/2019,0,207,46,
 International Hellenic University,2022-2023,Physics,07/05/2019,0,282,25,282
 International Hellenic University,2022-2023,Physiotherapy,07/05/2019,109,777,312,777
 International Hellenic University,2022-2023,Chemistry,07/05/2019,0,440,182,440
-International Hellenic University,2022-2023,Unknown,12/10/1984,135,549,0,258
-International Hellenic University,2022-2023,Unknown,17/09/2003,21,249,0,121
-International Hellenic University,2022-2023,Unknown,27/03/1984,27,488,0,113
-International Hellenic University,2022-2023,Unknown,23/06/2005,43,793,0,212
-International Hellenic University,2022-2023,Unknown,27/11/1985,57,590,0,138
-International Hellenic University,2022-2023,Unknown,03/06/2013,7,1091,0,390
-International Hellenic University,2022-2023,Unknown,27/11/1985,102,2111,0,448
-International Hellenic University,2022-2023,Unknown,24/11/1983,108,2437,0,161
-International Hellenic University,2022-2023,Unknown,17/09/2003,103,1101,0,273
-International Hellenic University,2022-2023,Unknown,03/06/2013,5,796,0,343
-International Hellenic University,2022-2023,Unknown,12/03/2009,18,168,0,55
-International Hellenic University,2022-2023,Unknown,24/11/1983,109,1408,0,279
-International Hellenic University,2022-2023,Unknown,24/11/1983,53,1177,0,330
-International Hellenic University,2022-2023,Unknown,12/11/1984,69,573,0,277
-International Hellenic University,2022-2023,Unknown,03/06/2013,107,1113,0,276
-International Hellenic University,2022-2023,Unknown,24/11/1983,85,1682,0,366
-International Hellenic University,2022-2023,Unknown,05/06/2013,190,2021,0,252
-International Hellenic University,2022-2023,Unknown,24/11/1983,55,684,0,374
-International Hellenic University,2022-2023,Unknown,09/03/1988,59,833,0,249
-International Hellenic University,2022-2023,Unknown,09/03/1988,56,1334,0,466
-International Hellenic University,2022-2023,Unknown,05/06/2013,77,1204,0,258
-International Hellenic University,2022-2023,Unknown,06/09/1999,74,1423,0,228
-International Hellenic University,2022-2023,Unknown,14/10/1976,142,1201,0,129
-International Hellenic University,2022-2023,Unknown,06/09/1999,41,1217,0,146
-International Hellenic University,2022-2023,Unknown,14/10/1976,149,914,0,105
-International Hellenic University,2022-2023,Unknown,05/06/2013,68,1125,0,165
-International Hellenic University,2022-2023,Unknown,09/03/1988,54,715,0,175
-International Hellenic University,2022-2023,Unknown,28/09/1970,27,364,0,72
-International Hellenic University,2022-2023,Unknown,10/05/2007,34,266,0,134
-International Hellenic University,2022-2023,Unknown,12/03/2009,95,318,0,84
-International Hellenic University,2022-2023,Unknown,03/06/2013,62,474,0,136
-International Hellenic University,2022-2023,Unknown,05/06/2013,24,1211,0,136
-International Hellenic University,2022-2023,Unknown,27/11/1985,20,137,0,59
-International Hellenic University,2022-2023,Unknown,06/09/1999,37,944,0,201
-International Hellenic University,2022-2023,Unknown,24/11/1983,61,949,0,259
-International Hellenic University,2022-2023,Unknown,06/03/2013,179,2017,0,444
-International Hellenic University,2022-2023,Unknown,24/11/1983,28,477,0,111
+International Hellenic University,2022-2023,Aesthetics and Cosmetology,12/10/1984,135,549,0,258
+International Hellenic University,2022-2023,Landscape Architecture,17/09/2003,21,249,0,121
+International Hellenic University,2022-2023,Library Science and Information Systems,27/03/1984,27,488,0,113
+International Hellenic University,2022-2023,Forestry and Natural Environment Management,23/06/2005,43,793,0,212
+International Hellenic University,2022-2023,Nutrition and Dietetics,27/11/1985,57,590,0,138
+International Hellenic University,2022-2023,Business Management,03/06/2013,7,1091,0,390
+International Hellenic University,2022-2023,Business Management,27/11/1985,102,2111,0,448
+International Hellenic University,2022-2023,Business Management,24/11/1983,108,2437,0,161
+International Hellenic University,2022-2023,Supply Systems Management,17/09/2003,103,1101,0,273
+International Hellenic University,2022-2023,Tourism Business and Hospitality Management,03/06/2013,5,796,0,343
+International Hellenic University,2022-2023,"Interior Architecture, Decoration and Object Design",12/03/2009,18,168,0,55
+International Hellenic University,2022-2023,Electrical Engineers,24/11/1983,109,1408,0,279
+International Hellenic University,2022-2023,Electronic Engineers,24/11/1983,53,1177,0,330
+International Hellenic University,2022-2023,Medical Laboratories,12/11/1984,69,573,0,277
+International Hellenic University,2022-2023,Accounting and Finance,03/06/2013,107,1113,0,276
+International Hellenic University,2022-2023,Accounting and Finance,24/11/1983,85,1682,0,366
+International Hellenic University,2022-2023,Accounting and Finance,05/06/2013,190,2021,0,252
+International Hellenic University,2022-2023,Midwifery,24/11/1983,55,684,0,374
+International Hellenic University,2022-2023,Automation Engineering,09/03/1988,59,833,0,249
+International Hellenic University,2022-2023,Informatics Engineering,09/03/1988,56,1334,0,466
+International Hellenic University,2022-2023,Informatics Engineering,05/06/2013,77,1204,0,258
+International Hellenic University,2022-2023,Informatics Engineering,06/09/1999,74,1423,0,228
+International Hellenic University,2022-2023,Oil and Natural Gas Technology Engineering,14/10/1976,142,1201,0,129
+International Hellenic University,2022-2023,Surveying and Geoinformatics Engineering,06/09/1999,41,1217,0,146
+International Hellenic University,2022-2023,Mechanical Engineers,14/10/1976,149,914,0,105
+International Hellenic University,2022-2023,Mechanical Engineers,05/06/2013,68,1125,0,165
+International Hellenic University,2022-2023,Vehicle Mechanical Engineers,09/03/1988,54,715,0,175
+International Hellenic University,2022-2023,Nursing,28/09/1970,27,364,0,72
+International Hellenic University,2022-2023,Nursing,10/05/2007,34,266,0,134
+International Hellenic University,2022-2023,Oenology and Beverage Technology,12/03/2009,95,318,0,84
+International Hellenic University,2022-2023,Civil Engineers,03/06/2013,62,474,0,136
+International Hellenic University,2022-2023,Civil Engineers,05/06/2013,24,1211,0,136
+International Hellenic University,2022-2023,Preschool Education,27/11/1985,20,137,0,59
+International Hellenic University,2022-2023,Clothing Design and Technology,06/09/1999,37,944,0,201
+International Hellenic University,2022-2023,Food Technology,24/11/1983,61,949,0,259
+International Hellenic University,2022-2023,Agricultural Technologists,06/03/2013,179,2017,0,444
+International Hellenic University,2022-2023,Physiotherapy,24/11/1983,28,477,0,111
 National and Kapodistrian University of Athens,2022-2023,Unknown,19/07/2019,0,50,53,50
 National and Kapodistrian University of Athens,2022-2023,English Language and Literature,23/06/1951,223,4519,267,977
 National and Kapodistrian University of Athens,2022-2023,"Agricultural Development, Agrifood and Natural Resources Management",29/01/2019,2,275,69,275
@@ -1389,9 +1389,9 @@ National and Kapodistrian University of Athens,2022-2023,Medicine,24/04/1837,348
 National and Kapodistrian University of Athens,2022-2023,Unknown,01/09/2022,0,38,38,38
 National and Kapodistrian University of Athens,2022-2023,Spanish Language and Literature,01/10/2009,66,891,51,416
 National and Kapodistrian University of Athens,2022-2023,History and Archaeology,24/04/1986,272,3934,281,1481
-National and Kapodistrian University of Athens,2022-2023,Unknown,05/03/1993,69,1418,133,597
+National and Kapodistrian University of Athens,2022-2023,History and Philosophy of Science,05/03/1993,69,1418,133,597
 National and Kapodistrian University of Athens,2022-2023,Italian Language and Literature,01/10/2009,87,817,31,358
-National and Kapodistrian University of Athens,2022-2023,Unknown,18/05/1977,114,3124,112,1129
+National and Kapodistrian University of Athens,2022-2023,Social Theology and Religious Studies,18/05/1977,114,3124,112,1129
 National and Kapodistrian University of Athens,2022-2023,Sociology,29/01/2019,17,450,110,450
 National and Kapodistrian University of Athens,2022-2023,Mathematics,04/06/1904,194,4821,221,1499
 National and Kapodistrian University of Athens,2022-2023,Music Studies,06/10/1989,45,1047,72,594
@@ -1414,16 +1414,16 @@ National and Kapodistrian University of Athens,2022-2023,Physics,23/03/1932,172,
 National and Kapodistrian University of Athens,2022-2023,Chemistry,27/04/1918,128,1791,149,666
 National and Kapodistrian University of Athens,2022-2023,Digital Arts and Cinema,29/01/2019,1,358,107,358
 National and Kapodistrian University of Athens,2022-2023,Psychology,03/06/2013,492,1863,297,1337
-National and Kapodistrian University of Athens,2022-2023,Unknown,01/09/2019,141,2477,0,239
-National and Kapodistrian University of Athens,2022-2023,Unknown,01/09/2019,284,1777,0,361
-National and Kapodistrian University of Athens,2022-2023,Unknown,01/09/2019,18,1399,0,258
-National and Kapodistrian University of Athens,2022-2023,Unknown,01/09/2019,18,671,0,133
-National and Kapodistrian University of Athens,2022-2023,Unknown,01/09/2019,84,1357,0,243
-National Technical University of Athens,2022-2023,Unknown,30/10/1917,93,1404,74,724
+National and Kapodistrian University of Athens,2022-2023,Electrical Engineers,01/09/2019,141,2477,0,239
+National and Kapodistrian University of Athens,2022-2023,Accounting and Finance,01/09/2019,284,1777,0,361
+National and Kapodistrian University of Athens,2022-2023,Automation Engineering,01/09/2019,18,1399,0,258
+National and Kapodistrian University of Athens,2022-2023,Aircraft Technology Engineering,01/09/2019,18,671,0,133
+National and Kapodistrian University of Athens,2022-2023,Mechanical Engineers,01/09/2019,84,1357,0,243
+National Technical University of Athens,2022-2023,Agricultural and Surveying Engineers - Geoinformatics Engineers,30/10/1917,93,1404,74,724
 National Technical University of Athens,2022-2023,Architectural Engineers,30/10/1917,157,1761,158,1178
 National Technical University of Athens,2022-2023,Applied Mathematics and Physical Sciences,01/09/1999,106,1893,154,1068
 National Technical University of Athens,2022-2023,Electrical and Computer Engineers,30/10/1917,299,4941,420,2628
-National Technical University of Athens,2022-2023,Unknown,13/08/1975,79,976,105,562
+National Technical University of Athens,2022-2023,Mining - Metallurgical Engineers,13/08/1975,79,976,105,562
 National Technical University of Athens,2022-2023,Mechanical Engineers,30/10/1917,162,3884,215,1369
 National Technical University of Athens,2022-2023,Naval Architects and Mechanical Engineers,27/08/1982,108,1397,126,767
 National Technical University of Athens,2022-2023,Civil Engineers,20/06/1887,151,2558,205,1318
@@ -1447,20 +1447,20 @@ Hellenic Mediterranean University,2022-2023,Accounting and Finance,07/05/2019,1,
 Hellenic Mediterranean University,2022-2023,Mechanical Engineers,01/07/2019,1,323,113,323
 Hellenic Mediterranean University,2022-2023,Music Technology and Acoustics,06/09/1999,1,335,47,335
 Hellenic Mediterranean University,2022-2023,Nursing,07/05/2019,7,488,181,488
-Hellenic Mediterranean University,2022-2023,Unknown,06/09/1999,41,678,0,136
-Hellenic Mediterranean University,2022-2023,Unknown,05/06/2013,55,712,0,345
-Hellenic Mediterranean University,2022-2023,Unknown,05/06/2013,53,1032,0,217
-Hellenic Mediterranean University,2022-2023,Unknown,05/06/2013,59,960,0,255
-Hellenic Mediterranean University,2022-2023,Unknown,07/05/2019,49,971,0,204
-Hellenic Mediterranean University,2022-2023,Unknown,24/11/1983,96,1058,0,208
-Hellenic Mediterranean University,2022-2023,Unknown,05/06/2013,99,528,0,157
-Hellenic Mediterranean University,2022-2023,Unknown,05/06/2013,168,2836,0,349
-Hellenic Mediterranean University,2022-2023,Unknown,06/09/1999,31,1290,0,195
-Hellenic Mediterranean University,2022-2023,Unknown,05/06/2013,72,1503,0,319
-Hellenic Mediterranean University,2022-2023,Unknown,06/09/1999,95,552,0,149
-Hellenic Mediterranean University,2022-2023,Unknown,05/06/2013,107,1207,0,242
-Hellenic Mediterranean University,2022-2023,Unknown,24/11/1983,71,307,0,135
-Hellenic Mediterranean University,2022-2023,Unknown,05/06/2013,87,1234,0,293
+Hellenic Mediterranean University,2022-2023,Nutrition and Dietetics,06/09/1999,41,678,0,136
+Hellenic Mediterranean University,2022-2023,Business Management,05/06/2013,55,712,0,345
+Hellenic Mediterranean University,2022-2023,Business Management,05/06/2013,53,1032,0,217
+Hellenic Mediterranean University,2022-2023,Tourism Business and Hospitality Management,05/06/2013,59,960,0,255
+Hellenic Mediterranean University,2022-2023,Electrical Engineers,07/05/2019,49,971,0,204
+Hellenic Mediterranean University,2022-2023,Electronic Engineers,24/11/1983,96,1058,0,208
+Hellenic Mediterranean University,2022-2023,Social Work,05/06/2013,99,528,0,157
+Hellenic Mediterranean University,2022-2023,Accounting and Finance,05/06/2013,168,2836,0,349
+Hellenic Mediterranean University,2022-2023,Music Technology and Acoustics Engineering,06/09/1999,31,1290,0,195
+Hellenic Mediterranean University,2022-2023,Informatics Engineering,05/06/2013,72,1503,0,319
+Hellenic Mediterranean University,2022-2023,Natural Resources and Environment Engineering,06/09/1999,95,552,0,149
+Hellenic Mediterranean University,2022-2023,Mechanical Engineers,05/06/2013,107,1207,0,242
+Hellenic Mediterranean University,2022-2023,Nursing,24/11/1983,71,307,0,135
+Hellenic Mediterranean University,2022-2023,Agricultural Technologists,05/06/2013,87,1234,0,293
 Ionian University,2022-2023,"Archival Science, Library Science and Museology",20/03/1984,51,737,16,292
 Ionian University,2022-2023,Food Science and Technology,01/10/2018,5,371,75,371
 Ionian University,2022-2023,History,20/03/1984,60,1013,14,435
@@ -1471,13 +1471,13 @@ Ionian University,2022-2023,Informatics,22/07/2004,60,1157,166,759
 Ionian University,2022-2023,Sound and Image Arts,22/07/2004,36,1098,115,753
 Ionian University,2022-2023,Tourism,01/10/2018,0,392,164,392
 Ionian University,2022-2023,Digital Media and Communication,01/10/2018,36,780,236,779
-Ionian University,2022-2023,Unknown,05/06/2013,52,650,0,202
-Ionian University,2022-2023,Unknown,05/06/2013,23,444,0,224
-Ionian University,2022-2023,Unknown,05/06/2013,1,331,0,19
-Ionian University,2022-2023,Unknown,20/06/2003,25,526,0,175
-Ionian University,2022-2023,Unknown,05/06/2013,54,453,0,163
-Ionian University,2022-2023,Unknown,05/06/2013,14,562,0,109
-Ionian University,2022-2023,Unknown,05/05/2014,44,462,0,212
+Ionian University,2022-2023,Business Management,05/06/2013,52,650,0,202
+Ionian University,2022-2023,Tourism Business and Hospitality Management,05/06/2013,23,444,0,224
+Ionian University,2022-2023,Conservation of Antiquities and Works of Art,05/06/2013,1,331,0,19
+Ionian University,2022-2023,Sound Technology and Musical Instruments,20/06/2003,25,526,0,175
+Ionian University,2022-2023,Food Technology,05/06/2013,54,453,0,163
+Ionian University,2022-2023,Natural Environment Technologies,05/06/2013,14,562,0,109
+Ionian University,2022-2023,Digital Media and Communication,05/05/2014,44,462,0,212
 Athens University of Economics and Business,2022-2023,International and European Economic Studies,01/09/1989,97,1550,158,828
 Athens University of Economics and Business,2022-2023,Administrative Science and Technology,01/09/2000,122,1388,199,953
 Athens University of Economics and Business,2022-2023,Accounting and Finance,06/09/1999,170,1743,228,1131
@@ -1503,7 +1503,7 @@ University of the Aegean,2022-2023,Primary Education Pedagogy,20/03/1984,112,126
 University of the Aegean,2022-2023,Environment,20/03/1984,16,437,39,265
 University of the Aegean,2022-2023,Cultural Technology and Communication,10/03/2000,75,1188,148,675
 University of the Aegean,2022-2023,Statistics and Actuarial - Financial Mathematics,01/09/2018,74,948,157,584
-University of the Aegean,2022-2023,Unknown,04/11/1997,66,939,46,375
+University of the Aegean,2022-2023,Oceanography and Marine Biosciences,04/11/1997,66,939,46,375
 University of West Attica,2022-2023,Early Childhood Care and Education,02/03/2018,140,746,187,661
 University of West Attica,2022-2023,"Archival Science, Library Science and Information Systems",02/03/2018,125,791,104,612
 University of West Attica,2022-2023,Biomedical Sciences,02/03/2018,290,2237,383,1781
@@ -1530,54 +1530,54 @@ University of West Attica,2022-2023,Civil Engineers,02/03/2018,59,1781,201,1512
 University of West Attica,2022-2023,Conservation of Antiquities and Works of Art,02/03/2018,43,516,39,385
 University of West Attica,2022-2023,Physiotherapy,02/03/2018,98,998,188,860
 University of West Attica,2022-2023,Photography and Audiovisual Arts,01/09/2018,52,889,130,650
-University of West Attica,2022-2023,Unknown,03/02/2018,4,92,0,2
-University of West Attica,2022-2023,Unknown,24/11/1983,3,53,0,0
-University of West Attica,2022-2023,Unknown,24/11/1983,8,123,0,1
-University of West Attica,2022-2023,Unknown,27/11/1985,32,1162,0,2
-University of West Attica,2022-2023,Unknown,24/11/1983,20,239,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,3,174,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,21,637,0,0
-University of West Attica,2022-2023,Unknown,28/05/2013,23,1170,0,5
-University of West Attica,2022-2023,Unknown,24/11/1983,2,342,0,0
-University of West Attica,2022-2023,Unknown,24/11/1983,1,373,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,12,380,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,4,86,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,12,211,0,2
-University of West Attica,2022-2023,Unknown,24/11/1983,23,1707,0,25
-University of West Attica,2022-2023,Unknown,24/11/1983,20,645,0,4
-University of West Attica,2022-2023,Unknown,24/11/1973,19,1377,0,3
-University of West Attica,2022-2023,Unknown,24/11/1983,6,107,0,0
-University of West Attica,2022-2023,Unknown,24/11/1983,14,789,0,9
-University of West Attica,2022-2023,Unknown,24/11/1983,5,112,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,38,2003,0,3
-University of West Attica,2022-2023,Unknown,24/11/1983,4,69,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,16,253,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,5,331,0,2
-University of West Attica,2022-2023,Unknown,24/11/1983,3,23,0,2
-University of West Attica,2022-2023,Unknown,24/11/2018,16,900,0,2
-University of West Attica,2022-2023,Unknown,24/11/1983,12,550,0,7
-University of West Attica,2022-2023,Unknown,24/11/1983,21,209,0,2
-University of West Attica,2022-2023,Unknown,24/11/1983,19,1745,0,5
-University of West Attica,2022-2023,Unknown,24/11/1973,10,299,0,5
-University of West Attica,2022-2023,Unknown,24/11/1983,7,171,0,1
-University of West Attica,2022-2023,Unknown,27/11/1983,5,141,0,4
-University of West Attica,2022-2023,Unknown,24/11/1983,8,218,0,0
-University of West Attica,2022-2023,Unknown,24/11/1983,5,93,0,2
-University of West Attica,2022-2023,Unknown,24/11/1983,8,252,0,2
-University of West Attica,2022-2023,Unknown,14/09/2009,12,944,0,3
-University of West Attica,2022-2023,Unknown,24/11/1983,5,57,0,0
-University of West Attica,2022-2023,Unknown,24/11/1983,3,74,0,0
-University of West Attica,2022-2023,Unknown,24/11/1983,7,150,0,0
-University of West Attica,2022-2023,Unknown,07/03/1983,14,393,0,1
-University of West Attica,2022-2023,Unknown,24/11/1983,3,115,0,1
-University of West Attica,2022-2023,Unknown,01/10/1985,8,257,0,2
+University of West Attica,2022-2023,Aesthetics and Cosmetology,03/02/2018,4,92,0,2
+University of West Attica,2022-2023,Radiology and Radiotherapy,24/11/1983,3,53,0,0
+University of West Attica,2022-2023,"Archival Science, Library Science and Information Systems",24/11/1983,8,123,0,1
+University of West Attica,2022-2023,Automation,27/11/1985,32,1162,0,2
+University of West Attica,2022-2023,Graphic Design,24/11/1983,20,239,0,1
+University of West Attica,2022-2023,Public and Community Health,24/11/1983,3,174,0,1
+University of West Attica,2022-2023,Business Management,24/11/1983,21,637,0,0
+University of West Attica,2022-2023,Business Management,28/05/2013,23,1170,0,5
+University of West Attica,2022-2023,Tourism Management,24/11/1983,2,342,0,0
+University of West Attica,2022-2023,Tourism Business and Hospitality Management,24/11/1983,1,373,0,1
+University of West Attica,2022-2023,Commerce and Advertising,24/11/1983,12,380,0,1
+University of West Attica,2022-2023,Occupational Therapy,24/11/1983,4,86,0,1
+University of West Attica,2022-2023,"Interior Architecture, Decoration and Object Design",24/11/1983,12,211,0,2
+University of West Attica,2022-2023,Electrical Engineers,24/11/1983,23,1707,0,25
+University of West Attica,2022-2023,Electronic Engineers,24/11/1983,20,645,0,4
+University of West Attica,2022-2023,Electronic Engineers,24/11/1973,19,1377,0,3
+University of West Attica,2022-2023,Medical Laboratories,24/11/1983,6,107,0,0
+University of West Attica,2022-2023,Textile Engineering,24/11/1983,14,789,0,9
+University of West Attica,2022-2023,Social Work,24/11/1983,5,112,0,1
+University of West Attica,2022-2023,Accounting and Finance,24/11/1983,38,2003,0,3
+University of West Attica,2022-2023,Midwifery,24/11/1983,4,69,0,1
+University of West Attica,2022-2023,Biomedical Technology Engineering,24/11/1983,16,253,0,1
+University of West Attica,2022-2023,Energy Technology Engineering,24/11/1983,5,331,0,2
+University of West Attica,2022-2023,Energy Technology Engineering,24/11/1983,3,23,0,2
+University of West Attica,2022-2023,Electronic Computing Systems Engineering,24/11/2018,16,900,0,2
+University of West Attica,2022-2023,Informatics Engineering,24/11/1983,12,550,0,7
+University of West Attica,2022-2023,Surveying and Geoinformatics Engineering,24/11/1983,21,209,0,2
+University of West Attica,2022-2023,Mechanical Engineers,24/11/1983,19,1745,0,5
+University of West Attica,2022-2023,Naval Architects,24/11/1973,10,299,0,5
+University of West Attica,2022-2023,Nursing,24/11/1983,7,171,0,1
+University of West Attica,2022-2023,Dental Technology,27/11/1983,5,141,0,4
+University of West Attica,2022-2023,Oenology and Beverage Technology,24/11/1983,8,218,0,0
+University of West Attica,2022-2023,Optics and Optometry,24/11/1983,5,93,0,2
+University of West Attica,2022-2023,Civil Engineers,24/11/1983,8,252,0,2
+University of West Attica,2022-2023,Civil Engineers,14/09/2009,12,944,0,3
+University of West Attica,2022-2023,Preschool Education,24/11/1983,5,57,0,0
+University of West Attica,2022-2023,Conservation of Antiquities and Works of Art,24/11/1983,3,74,0,0
+University of West Attica,2022-2023,Graphic Arts Technology,24/11/1983,7,150,0,0
+University of West Attica,2022-2023,Food Technology,07/03/1983,14,393,0,1
+University of West Attica,2022-2023,Physiotherapy,24/11/1983,3,115,0,1
+University of West Attica,2022-2023,Photography and Audiovisual Arts,01/10/1985,8,257,0,2
 University of Western Macedonia,2022-2023,Agriculture,07/05/2019,0,513,78,513
 University of Western Macedonia,2022-2023,International and European Economic Studies,07/05/2019,12,694,148,694
 University of Western Macedonia,2022-2023,Administrative Science and Technology,07/05/2019,5,823,124,823
 University of Western Macedonia,2022-2023,Fine and Applied Arts,31/08/2006,67,556,89,470
 University of Western Macedonia,2022-2023,Communication and Digital Media,07/05/2019,15,755,214,753
 University of Western Macedonia,2022-2023,Occupational Therapy,07/05/2019,24,306,123,306
-University of Western Macedonia,2022-2023,Unknown,02/08/2005,92,804,58,556
+University of Western Macedonia,2022-2023,Electrical and Computer Engineers,02/08/2005,92,804,58,556
 University of Western Macedonia,2022-2023,Accounting and Finance,07/05/2019,25,703,109,703
 University of Western Macedonia,2022-2023,Mathematics,07/05/2019,2,163,36,163
 University of Western Macedonia,2022-2023,Midwifery,07/05/2019,156,468,277,465
@@ -1591,21 +1591,21 @@ University of Western Macedonia,2022-2023,Kindergarten Pedagogy,02/04/1993,119,6
 University of Western Macedonia,2022-2023,Regional and Cross-Border Development,07/05/2019,0,557,43,557
 University of Western Macedonia,2022-2023,Informatics,07/05/2019,17,626,236,626
 University of Western Macedonia,2022-2023,Statistics and Insurance Science,07/05/2019,40,488,69,488
-University of Western Macedonia,2022-2023,Unknown,07/05/2019,25,280,106,280
+University of Western Macedonia,2022-2023,Chemical Engineers,07/05/2019,25,280,106,280
 University of Western Macedonia,2022-2023,Psychology,07/05/2019,30,467,159,467
-University of Western Macedonia,2022-2023,Unknown,12/01/1996,88,1559,0,111
-University of Western Macedonia,2022-2023,Unknown,23/05/1995,18,1328,0,117
-University of Western Macedonia,2022-2023,Unknown,05/06/2013,82,2531,0,1540
-University of Western Macedonia,2022-2023,Unknown,05/06/2013,120,2725,0,1101
-University of Western Macedonia,2022-2023,Unknown,14/10/1976,75,2195,0,295
-University of Western Macedonia,2022-2023,Unknown,07/05/2019,244,3027,0,547
-University of Western Macedonia,2022-2023,Unknown,12/03/2009,28,162,0,75
-University of Western Macedonia,2022-2023,Unknown,06/09/1999,31,1814,0,401
-University of Western Macedonia,2022-2023,Unknown,05/06/2013,62,1220,0,190
-University of Western Macedonia,2022-2023,Unknown,07/05/2019,60,1177,0,205
-University of Western Macedonia,2022-2023,Unknown,24/11/1983,105,1349,0,382
-University of Western Macedonia,2022-2023,Unknown,05/06/2013,118,3348,0,409
-University of Western Macedonia,2022-2023,Unknown,06/09/1999,76,2230,0,280
+University of Western Macedonia,2022-2023,Industrial Design,12/01/1996,88,1559,0,111
+University of Western Macedonia,2022-2023,International Trade,23/05/1995,18,1328,0,117
+University of Western Macedonia,2022-2023,Business Management,05/06/2013,82,2531,0,1540
+University of Western Macedonia,2022-2023,Business Management,05/06/2013,120,2725,0,1101
+University of Western Macedonia,2022-2023,Electrical Engineers,14/10/1976,75,2195,0,295
+University of Western Macedonia,2022-2023,Accounting and Finance,07/05/2019,244,3027,0,547
+University of Western Macedonia,2022-2023,Midwifery,12/03/2009,28,162,0,75
+University of Western Macedonia,2022-2023,Anti-Pollution Engineering,06/09/1999,31,1814,0,401
+University of Western Macedonia,2022-2023,Geoenvironmental Technology Engineering,05/06/2013,62,1220,0,190
+University of Western Macedonia,2022-2023,Informatics Engineering,07/05/2019,60,1177,0,205
+University of Western Macedonia,2022-2023,Mechanical Engineers,24/11/1983,105,1349,0,382
+University of Western Macedonia,2022-2023,Agricultural Technologists,05/06/2013,118,3348,0,409
+University of Western Macedonia,2022-2023,Digital Media and Communication,06/09/1999,76,2230,0,280
 University of Thessaly,2022-2023,Architectural Engineers,06/09/1999,63,899,130,780
 University of Thessaly,2022-2023,Biochemistry and Biotechnology,10/03/2000,100,687,129,445
 University of Thessaly,2022-2023,Agriculture - Agricultural Technology,29/01/2019,17,475,109,475
@@ -1633,7 +1633,7 @@ University of Thessaly,2022-2023,Primary Education Pedagogy,31/05/1985,169,771,1
 University of Thessaly,2022-2023,Special Education Pedagogy,28/04/1993,113,582,149,473
 University of Thessaly,2022-2023,Preschool Education Pedagogy,20/03/1984,166,856,195,686
 University of Thessaly,2022-2023,Environment,29/01/2019,23,344,42,344
-University of Thessaly,2022-2023,Unknown,05/06/2013,55,985,159,748
+University of Thessaly,2022-2023,Informatics and Telecommunications,05/06/2013,55,985,159,748
 University of Thessaly,2022-2023,Informatics with Applications in Biomedicine,02/03/2004,68,1065,200,759
 University of Thessaly,2022-2023,Civil Engineers,28/04/1993,45,690,104,544
 University of Thessaly,2022-2023,Culture and Creative Media and Industries,29/01/2019,40,309,99,309
@@ -1641,29 +1641,29 @@ University of Thessaly,2022-2023,Energy Systems,29/01/2019,18,328,28,328
 University of Thessaly,2022-2023,Physics,29/01/2019,4,188,45,188
 University of Thessaly,2022-2023,Physiotherapy,29/01/2019,93,404,113,404
 University of Thessaly,2022-2023,Digital Systems,29/01/2019,15,1091,308,1091
-University of Thessaly,2022-2023,Unknown,23/06/2005,7,425,0,78
-University of Thessaly,2022-2023,Unknown,03/10/2009,42,222,0,44
-University of Thessaly,2022-2023,Unknown,03/06/2013,195,2203,0,378
-University of Thessaly,2022-2023,Unknown,24/11/1983,98,879,0,100
-University of Thessaly,2022-2023,Unknown,22/08/1994,50,1070,0,143
-University of Thessaly,2022-2023,Unknown,24/11/1983,54,452,0,54
-University of Thessaly,2022-2023,Unknown,01/09/2013,124,1038,0,203
-University of Thessaly,2022-2023,Unknown,01/09/2013,143,1739,0,381
-University of Thessaly,2022-2023,Unknown,01/09/2000,149,1444,0,169
-University of Thessaly,2022-2023,Unknown,24/11/1983,117,994,0,121
-University of Thessaly,2022-2023,Unknown,24/11/1983,31,360,0,60
-University of Thessaly,2022-2023,Unknown,22/10/1994,43,621,0,50
-University of Thessaly,2022-2023,Unknown,27/11/1985,64,1201,0,99
-University of Thessaly,2022-2023,Unknown,01/09/2013,20,236,0,53
-University of Thessaly,2022-2023,Unknown,06/09/1999,47,647,0,154
-University of Thessaly,2022-2023,Unknown,01/09/2005,98,438,0,107
-University of Thessaly,2022-2023,Unknown,03/06/2013,151,699,0,299
-University of Thessaly,2022-2023,Unknown,22/08/1994,41,490,0,77
+University of Thessaly,2022-2023,Forestry and Natural Environment Management,23/06/2005,7,425,0,78
+University of Thessaly,2022-2023,Nutrition and Dietetics,03/10/2009,42,222,0,44
+University of Thessaly,2022-2023,Business Management,03/06/2013,195,2203,0,378
+University of Thessaly,2022-2023,Electrical Engineers,24/11/1983,98,879,0,100
+University of Thessaly,2022-2023,Electronic Engineers,22/08/1994,50,1070,0,143
+University of Thessaly,2022-2023,Medical Laboratories,24/11/1983,54,452,0,54
+University of Thessaly,2022-2023,Accounting and Finance,01/09/2013,124,1038,0,203
+University of Thessaly,2022-2023,Informatics Engineering,01/09/2013,143,1739,0,381
+University of Thessaly,2022-2023,Informatics Engineering,01/09/2000,149,1444,0,169
+University of Thessaly,2022-2023,Mechanical Engineers,24/11/1983,117,994,0,121
+University of Thessaly,2022-2023,Nursing,24/11/1983,31,360,0,60
+University of Thessaly,2022-2023,Nursing,22/10/1994,43,621,0,50
+University of Thessaly,2022-2023,Civil Engineers,27/11/1985,64,1201,0,99
+University of Thessaly,2022-2023,Civil Engineers,01/09/2013,20,236,0,53
+University of Thessaly,2022-2023,Wood and Furniture Design and Technology,06/09/1999,47,647,0,154
+University of Thessaly,2022-2023,Food Technology,01/09/2005,98,438,0,107
+University of Thessaly,2022-2023,Agricultural Technologists,03/06/2013,151,699,0,299
+University of Thessaly,2022-2023,Physiotherapy,22/08/1994,41,490,0,77
 University of Ioannina,2022-2023,Early Childhood Care and Education,01/10/2018,57,97,116,97
 University of Ioannina,2022-2023,Architectural Engineers,02/10/2009,28,295,56,295
 University of Ioannina,2022-2023,Biological Applications and Technologies,06/09/1999,83,976,155,740
 University of Ioannina,2022-2023,Agriculture,01/10/2018,41,371,96,371
-University of Ioannina,2022-2023,Unknown,11/05/2016,55,828,66,417
+University of Ioannina,2022-2023,Fine Arts and Art Sciences,11/05/2016,55,828,66,417
 University of Ioannina,2022-2023,Medicine,22/07/1977,155,1211,159,879
 University of Ioannina,2022-2023,History and Archaeology,18/10/1984,182,1795,106,941
 University of Ioannina,2022-2023,Accounting and Finance,01/09/2018,38,490,100,490
@@ -1683,17 +1683,17 @@ University of Ioannina,2022-2023,"Philosophy, Pedagogy and Psychology",18/10/198
 University of Ioannina,2022-2023,Physics,12/12/1970,104,1609,48,650
 University of Ioannina,2022-2023,Chemistry,06/10/1976,79,1014,153,589
 University of Ioannina,2022-2023,Psychology,03/08/2018,284,296,111,275
-University of Ioannina,2022-2023,Unknown,06/09/1999,88,599,0,145
-University of Ioannina,2022-2023,Unknown,27/11/1996,20,227,0,79
-University of Ioannina,2022-2023,Unknown,06/09/1999,42,781,0,171
-University of Ioannina,2022-2023,Unknown,03/06/2013,59,1101,0,266
-University of Ioannina,2022-2023,Unknown,06/09/1999,33,222,0,78
-University of Ioannina,2022-2023,Unknown,26/05/1998,42,1434,0,222
-University of Ioannina,2022-2023,Unknown,24/10/1984,59,365,0,52
-University of Ioannina,2022-2023,Unknown,24/10/1984,36,63,0,27
-University of Ioannina,2022-2023,Unknown,25/07/2013,42,912,0,147
+University of Ioannina,2022-2023,Business Management,06/09/1999,88,599,0,145
+University of Ioannina,2022-2023,Tourism Business and Hospitality Management,27/11/1996,20,227,0,79
+University of Ioannina,2022-2023,Folk and Traditional Music,06/09/1999,42,781,0,171
+University of Ioannina,2022-2023,Accounting and Finance,03/06/2013,59,1101,0,266
+University of Ioannina,2022-2023,Speech Therapy,06/09/1999,33,222,0,78
+University of Ioannina,2022-2023,Informatics Engineering,26/05/1998,42,1434,0,222
+University of Ioannina,2022-2023,Nursing,24/10/1984,59,365,0,52
+University of Ioannina,2022-2023,Preschool Education,24/10/1984,36,63,0,27
+University of Ioannina,2022-2023,Agricultural Technologists,25/07/2013,42,912,0,147
 University of Crete,2022-2023,Biology,10/09/1976,102,703,125,547
-University of Crete,2022-2023,Unknown,01/09/2000,62,811,20,374
+University of Crete,2022-2023,Materials Science and Engineering,01/09/2000,62,811,20,374
 University of Crete,2022-2023,Computer Science,15/04/1983,112,1604,217,1037
 University of Crete,2022-2023,Applied Mathematics,06/09/1999,75,1056,53,551
 University of Crete,2022-2023,Medicine,10/09/1976,133,979,136,834
@@ -1723,17 +1723,17 @@ University of Patras,2022-2023,"Fisheries and Aquaculture (formerly Animal Produ
 University of Patras,2022-2023,Architectural Engineers,06/09/1999,113,788,77,643
 University of Patras,2022-2023,Biology,24/05/1967,58,1128,165,506
 University of Patras,2022-2023,Geology,20/09/1977,93,851,16,367
-University of Patras,2022-2023,Unknown,01/09/2022,20,272,22,272
-University of Patras,2022-2023,Unknown,07/07/2022,5,527,0,151
+University of Patras,2022-2023,Agriculture,01/09/2022,20,272,22,272
+University of Patras,2022-2023,Environment and Natural Resources Management,07/07/2022,5,527,0,151
 University of Patras,2022-2023,Cultural Environment and New Technologies Management,01/09/2018,44,384,0,139
 University of Patras,2022-2023,Business Management,06/09/1999,172,2037,397,1530
-University of Patras,2022-2023,Unknown,07/07/2022,120,952,0,609
+University of Patras,2022-2023,Agricultural Products and Food Business Management,07/07/2022,120,952,0,609
 University of Patras,2022-2023,Tourism Management,07/05/2019,8,611,231,609
 University of Patras,2022-2023,Administrative Science and Technology,07/05/2019,11,1128,278,1125
-University of Patras,2022-2023,Unknown,07/07/2022,0,245,0,245
+University of Patras,2022-2023,Biosystems Science and Agricultural Engineering,07/07/2022,0,245,0,245
 University of Patras,2022-2023,Food Science and Technology,07/05/2019,0,340,73,340
 University of Patras,2022-2023,Materials Science,06/09/1999,77,1189,60,510
-University of Patras,2022-2023,Unknown,07/07/2022,0,300,20,300
+University of Patras,2022-2023,Plant Production Science,07/07/2022,0,300,20,300
 University of Patras,2022-2023,Education Sciences and Social Work,07/05/2019,143,985,294,985
 University of Patras,2022-2023,Education Sciences and Preschool Training,07/09/1983,192,998,230,796
 University of Patras,2022-2023,Electrical Engineers and Computer Technology,07/05/1967,195,2914,368,1918
@@ -1743,9 +1743,9 @@ University of Patras,2022-2023,History - Archaeology,07/05/2019,0,442,110,442
 University of Patras,2022-2023,Speech Therapy,07/05/2019,68,416,123,414
 University of Patras,2022-2023,Mathematics,24/05/1967,189,3620,269,1362
 University of Patras,2022-2023,Electronic Computers and Informatics Engineering,03/10/1979,199,2781,207,1738
-University of Patras,2022-2023,Unknown,07/07/2022,59,407,0,378
+University of Patras,2022-2023,Environmental Engineering,07/07/2022,59,407,0,378
 University of Patras,2022-2023,Mechanical and Aeronautical Engineers,25/09/1967,137,1654,211,1149
-University of Patras,2022-2023,Unknown,07/07/2022,15,379,0,379
+University of Patras,2022-2023,Museology,07/07/2022,15,379,0,379
 University of Patras,2022-2023,Nursing,07/05/2019,232,818,375,812
 University of Patras,2022-2023,Economic Sciences,31/05/1985,217,2034,281,1292
 University of Patras,2022-2023,Primary Education Pedagogy,16/07/1982,138,179,0,83
@@ -1757,18 +1757,18 @@ University of Patras,2022-2023,Physics,24/05/1967,91,1480,149,784
 University of Patras,2022-2023,Physiotherapy,07/05/2019,105,671,259,662
 University of Patras,2022-2023,Chemistry,24/05/1967,157,1118,210,746
 University of Patras,2022-2023,Chemical Engineers,20/09/1977,83,1139,171,804
-University of Patras,2022-2023,Unknown,05/06/2013,72,1588,0,318
-University of Patras,2022-2023,Unknown,05/06/2013,151,3006,0,419
-University of Patras,2022-2023,Unknown,07/07/2022,79,1538,0,286
-University of Patras,2022-2023,Unknown,24/11/1983,64,227,0,35
-University of Patras,2022-2023,Unknown,05/06/2013,101,1356,0,196
-University of Patras,2022-2023,Unknown,24/11/1983,38,369,0,136
-University of Patras,2022-2023,Unknown,24/11/1983,38,568,0,120
-University of Patras,2022-2023,Unknown,19/10/2006,25,177,0,40
-University of Patras,2022-2023,Unknown,05/06/2013,19,948,0,161
-University of Patras,2022-2023,Unknown,07/07/2022,49,439,0,168
-University of Patras,2022-2023,Unknown,24/11/1983,28,653,0,191
-University of Patras,2022-2023,Unknown,05/06/2013,31,292,0,114
+University of Patras,2022-2023,Business Management,05/06/2013,72,1588,0,318
+University of Patras,2022-2023,Business Management,05/06/2013,151,3006,0,419
+University of Patras,2022-2023,"Management, Economy and Communication of Cultural and Tourist Units",07/07/2022,79,1538,0,286
+University of Patras,2022-2023,Social Work,24/11/1983,64,227,0,35
+University of Patras,2022-2023,Accounting and Finance,05/06/2013,101,1356,0,196
+University of Patras,2022-2023,Speech Therapy,24/11/1983,38,369,0,136
+University of Patras,2022-2023,Nursing,24/11/1983,38,568,0,120
+University of Patras,2022-2023,Optics and Optometry,19/10/2006,25,177,0,40
+University of Patras,2022-2023,Fisheries and Aquaculture Technology,05/06/2013,19,948,0,161
+University of Patras,2022-2023,Agricultural Technologists,07/07/2022,49,439,0,168
+University of Patras,2022-2023,Tourism Businesses,24/11/1983,28,653,0,191
+University of Patras,2022-2023,Physiotherapy,05/06/2013,31,292,0,114
 University of Piraeus,2022-2023,Industrial Management and Technology,01/09/1991,71,1317,211,747
 University of Piraeus,2022-2023,International and European Studies,01/09/2000,149,1198,149,662
 University of Piraeus,2022-2023,Shipping Studies,01/09/1990,217,1947,276,1213
@@ -1801,17 +1801,17 @@ University of Peloponnese,2022-2023,Civil Engineers,07/05/2019,5,393,144,393
 University of Peloponnese,2022-2023,Philology,05/05/2003,46,661,62,493
 University of Peloponnese,2022-2023,Physiotherapy,07/05/2019,8,277,75,277
 University of Peloponnese,2022-2023,Digital Systems,07/05/2019,2,487,146,487
-University of Peloponnese,2022-2023,Unknown,05/06/2013,63,800,0,182
-University of Peloponnese,2022-2023,Unknown,05/06/2013,82,1467,0,284
-University of Peloponnese,2022-2023,Unknown,05/06/2013,42,463,0,162
-University of Peloponnese,2022-2023,Unknown,12/03/2009,17,60,0,35
-University of Peloponnese,2022-2023,Unknown,05/06/2013,105,1113,0,286
-University of Peloponnese,2022-2023,Unknown,05/06/2013,57,839,0,171
-University of Peloponnese,2022-2023,Unknown,05/06/2013,90,1070,0,273
-University of Peloponnese,2022-2023,Unknown,05/06/2013,30,756,0,198
-University of Peloponnese,2022-2023,Unknown,09/02/2009,227,677,0,372
-University of Peloponnese,2022-2023,Unknown,05/06/2013,81,565,0,258
-University of Peloponnese,2022-2023,Unknown,30/04/2014,69,878,0,209
+University of Peloponnese,2022-2023,Health Units and Welfare Management,05/06/2013,63,800,0,182
+University of Peloponnese,2022-2023,Electrical Engineers,05/06/2013,82,1467,0,284
+University of Peloponnese,2022-2023,Accounting and Finance,05/06/2013,42,463,0,162
+University of Peloponnese,2022-2023,Speech Therapy,12/03/2009,17,60,0,35
+University of Peloponnese,2022-2023,Informatics Engineering,05/06/2013,105,1113,0,286
+University of Peloponnese,2022-2023,Informatics Engineering,05/06/2013,57,839,0,171
+University of Peloponnese,2022-2023,Mechanical Engineers,05/06/2013,90,1070,0,273
+University of Peloponnese,2022-2023,Civil Engineers,05/06/2013,30,756,0,198
+University of Peloponnese,2022-2023,Food Technology,09/02/2009,227,677,0,372
+University of Peloponnese,2022-2023,Agricultural Technologists,05/06/2013,81,565,0,258
+University of Peloponnese,2022-2023,Local Government,30/04/2014,69,878,0,209
 Panteion University of Social and Political Sciences,2022-2023,Public Administration,07/11/1963,218,3867,330,1607
 Panteion University of Social and Political Sciences,2022-2023,International and European Studies,23/06/1997,222,2338,178,863
 Panteion University of Social and Political Sciences,2022-2023,"Communication, Media and Culture",16/06/1989,166,1278,169,795
@@ -1825,7 +1825,7 @@ Technical University of Crete,2022-2023,Architectural Engineers,22/07/2004,76,11
 Technical University of Crete,2022-2023,Electrical and Computer Engineers,01/03/1983,75,1693,226,1088
 Technical University of Crete,2022-2023,Mineral Resources Engineering,01/03/1983,46,1006,43,557
 Technical University of Crete,2022-2023,Production and Management Engineering,01/03/1983,124,1603,143,994
-Technical University of Crete,2022-2023,Unknown,22/06/1995,56,1094,139,773
+Technical University of Crete,2022-2023,Chemical Engineers and Environmental Engineers,22/06/1995,56,1094,139,773
 Hellenic Army Academy,2022-2023,Military Sciences,21/12/1828,177,626,191,626
 Hellenic Air Force Academy,2022-2023,Aviation Sciences,07/10/2003,86,415,156,415
 Hellenic Naval Academy,2022-2023,Naval Sciences,07/10/2003,48,159,50,159
@@ -1849,7 +1849,7 @@ Aristotle University of Thessaloniki,2023-2024,Journalism and Mass Media,27/07/1
 Aristotle University of Thessaloniki,2023-2024,Fine and Applied Arts,03/05/1984,98,1181,123,752
 Aristotle University of Thessaloniki,2023-2024,Introductory Direction of Muslim Studies,19/04/2016,8,241,17,210
 Aristotle University of Thessaloniki,2023-2024,Physical Education and Sports Science,01/09/1983,239,2427,256,1092
-Aristotle University of Thessaloniki,2023-2024,Unknown,08/02/1985,98,904,122,508
+Aristotle University of Thessaloniki,2023-2024,Physical Education and Sports Science,08/02/1985,98,904,122,508
 Aristotle University of Thessaloniki,2023-2024,Preschool Education Sciences,09/07/1983,244,1490,263,932
 Aristotle University of Thessaloniki,2023-2024,Electrical and Computer Engineers,01/09/1976,245,2869,279,1711
 Aristotle University of Thessaloniki,2023-2024,Theater,03/05/1984,41,990,91,587
@@ -1858,7 +1858,7 @@ Aristotle University of Thessaloniki,2023-2024,Medicine,18/02/1942,326,2597,356,
 Aristotle University of Thessaloniki,2023-2024,History and Archaeology,12/03/2020,212,1739,124,773
 Aristotle University of Thessaloniki,2023-2024,Italian Language and Literature,01/09/1960,35,973,18,250
 Aristotle University of Thessaloniki,2023-2024,Cinema,22/07/2004,40,1022,106,648
-Aristotle University of Thessaloniki,2023-2024,Unknown,06/10/1994,97,1789,60,464
+Aristotle University of Thessaloniki,2023-2024,Social Theology and Christian Culture,06/10/1994,97,1789,60,464
 Aristotle University of Thessaloniki,2023-2024,Veterinary Medicine,17/10/1950,110,1108,146,755
 Aristotle University of Thessaloniki,2023-2024,Mathematics,18/10/1928,137,2761,104,917
 Aristotle University of Thessaloniki,2023-2024,Spatial Planning and Development Engineering,22/07/2004,62,817,109,605
@@ -1887,13 +1887,13 @@ Agricultural University of Athens,2023-2024,Natural Resources Utilization and Ag
 Agricultural University of Athens,2023-2024,Biotechnology,16/06/1989,98,1004,139,768
 Agricultural University of Athens,2023-2024,Forestry and Natural Environment Management,29/01/2019,10,354,35,354
 Agricultural University of Athens,2023-2024,Agricultural Business Management and Supply Systems,29/01/2019,0,802,114,802
-Agricultural University of Athens,2023-2024,Unknown,16/06/1989,87,1067,66,651
+Agricultural University of Athens,2023-2024,Animal Production Science,16/06/1989,87,1067,66,651
 Agricultural University of Athens,2023-2024,Food Science and Human Nutrition,16/06/1989,105,961,132,695
 Agricultural University of Athens,2023-2024,Plant Production Science,28/03/1985,131,2216,220,1287
 Agricultural University of Athens,2023-2024,Regional and Economic Development,29/01/2019,18,382,41,382
-Agricultural University of Athens,2023-2024,Unknown,22/08/1994,27,509,0,75
-Agricultural University of Athens,2023-2024,Unknown,23/06/2005,193,1385,0,160
-Agricultural University of Athens,2023-2024,Unknown,05/06/2013,77,1812,0,107
+Agricultural University of Athens,2023-2024,Forestry and Natural Environment Management,22/08/1994,27,509,0,75
+Agricultural University of Athens,2023-2024,Supply Systems Management,23/06/2005,193,1385,0,160
+Agricultural University of Athens,2023-2024,"Management, Economy and Communication of Cultural and Tourist Units",05/06/2013,77,1812,0,107
 Democritus University of Thrace,2023-2024,Agricultural Development,06/09/1999,82,1113,182,751
 Democritus University of Thrace,2023-2024,Agricultural Biotechnology and Oenology,01/09/2023,0,463,60,463
 Democritus University of Thrace,2023-2024,Architectural Engineers,06/09/1999,70,650,107,536
@@ -1914,7 +1914,7 @@ Democritus University of Thrace,2023-2024,Production and Management Engineering,
 Democritus University of Thrace,2023-2024,Environmental Engineering,13/09/1993,71,817,103,599
 Democritus University of Thrace,2023-2024,Molecular Biology and Genetics,06/09/1999,124,780,132,533
 Democritus University of Thrace,2023-2024,Law,25/05/1974,460,2939,407,1798
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,0,161,38,146
+Democritus University of Thrace,2023-2024,Nursing,01/09/2023,0,161,38,146
 Democritus University of Thrace,2023-2024,Economic Sciences,06/09/1999,71,1639,220,1071
 Democritus University of Thrace,2023-2024,Primary Education Pedagogy,16/07/1982,138,1288,233,904
 Democritus University of Thrace,2023-2024,Informatics,01/09/2023,8,945,220,945
@@ -1922,16 +1922,16 @@ Democritus University of Thrace,2023-2024,Political Science,01/09/2019,76,841,17
 Democritus University of Thrace,2023-2024,Civil Engineers,25/05/1974,93,1137,111,628
 Democritus University of Thrace,2023-2024,Physics,01/09/2023,28,287,27,287
 Democritus University of Thrace,2023-2024,Chemistry,01/09/2023,27,559,174,559
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,11,222,0,46
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,28,732,0,104
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,49,1954,0,218
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,90,1203,0,123
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,81,1608,0,186
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,59,1161,0,125
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,149,1099,0,98
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,136,774,0,69
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,0,257,0,61
-Democritus University of Thrace,2023-2024,Unknown,01/09/2023,4,315,0,80
+Democritus University of Thrace,2023-2024,Landscape Architecture,01/09/2023,11,222,0,46
+Democritus University of Thrace,2023-2024,Forestry and Natural Environment Management,01/09/2023,28,732,0,104
+Democritus University of Thrace,2023-2024,Business Management,01/09/2023,49,1954,0,218
+Democritus University of Thrace,2023-2024,Electrical Engineers,01/09/2023,90,1203,0,123
+Democritus University of Thrace,2023-2024,Accounting and Finance,01/09/2023,81,1608,0,186
+Democritus University of Thrace,2023-2024,Informatics Engineering,01/09/2023,59,1161,0,125
+Democritus University of Thrace,2023-2024,Oil and Natural Gas Technology Engineering,01/09/2023,149,1099,0,98
+Democritus University of Thrace,2023-2024,Mechanical Engineers,01/09/2023,136,774,0,69
+Democritus University of Thrace,2023-2024,Nursing,01/09/2023,0,257,0,61
+Democritus University of Thrace,2023-2024,Oenology and Beverage Technology,01/09/2023,4,315,0,80
 International Hellenic University,2023-2024,Early Childhood Care and Education,07/05/2019,138,565,182,565
 International Hellenic University,2023-2024,"Library Science, Archival Science and Information Systems",07/05/2019,37,402,87,402
 International Hellenic University,2023-2024,Biomedical Sciences,07/05/2019,147,952,248,943
@@ -1950,38 +1950,38 @@ International Hellenic University,2023-2024,Informatics and Electronic Systems E
 International Hellenic University,2023-2024,"Informatics, Computers and Telecommunications Engineering",07/05/2019,0,386,174,386
 International Hellenic University,2023-2024,Surveying and Geoinformatics Engineering,07/05/2019,4,203,16,203
 International Hellenic University,2023-2024,Mechanical Engineers,07/05/2019,1,452,54,452
-International Hellenic University,2023-2024,Unknown,07/05/2019,128,704,139,694
+International Hellenic University,2023-2024,Nursing,07/05/2019,128,704,139,694
 International Hellenic University,2023-2024,Economic Sciences,07/05/2019,77,1202,289,1193
 International Hellenic University,2023-2024,Business Organization and Management,07/05/2019,42,1162,332,1162
 International Hellenic University,2023-2024,Civil Engineers,07/05/2019,0,231,30,231
 International Hellenic University,2023-2024,Physiotherapy,07/05/2019,197,829,148,749
-International Hellenic University,2023-2024,Unknown,12/10/1984,45,334,0,49
-International Hellenic University,2023-2024,Unknown,27/03/1984,50,115,0,53
-International Hellenic University,2023-2024,Unknown,27/11/1985,52,548,0,71
-International Hellenic University,2023-2024,Unknown,03/06/2013,23,949,0,143
-International Hellenic University,2023-2024,Unknown,24/11/1983,75,2426,0,160
-International Hellenic University,2023-2024,Unknown,17/09/2003,46,984,0,122
-International Hellenic University,2023-2024,Unknown,03/06/2013,23,623,0,130
-International Hellenic University,2023-2024,Unknown,12/03/2009,18,168,0,55
-International Hellenic University,2023-2024,Unknown,24/11/1983,30,1085,0,166
-International Hellenic University,2023-2024,Unknown,12/11/1984,21,419,0,79
-International Hellenic University,2023-2024,Unknown,03/06/2013,68,1159,0,149
-International Hellenic University,2023-2024,Unknown,05/06/2013,96,2020,0,132
-International Hellenic University,2023-2024,Unknown,24/11/1983,55,684,0,374
-International Hellenic University,2023-2024,Unknown,09/03/1988,60,768,0,118
-International Hellenic University,2023-2024,Unknown,09/03/1988,64,1200,0,238
-International Hellenic University,2023-2024,Unknown,06/09/1999,78,1437,0,122
-International Hellenic University,2023-2024,Unknown,06/09/1999,27,1186,0,43
-International Hellenic University,2023-2024,Unknown,05/06/2013,30,1062,0,71
-International Hellenic University,2023-2024,Unknown,09/03/1988,45,664,0,87
-International Hellenic University,2023-2024,Unknown,28/09/1970,24,336,0,52
-International Hellenic University,2023-2024,Unknown,03/06/2013,48,445,0,75
-International Hellenic University,2023-2024,Unknown,05/06/2013,39,1171,0,58
-International Hellenic University,2023-2024,Unknown,27/11/1985,20,115,0,19
-International Hellenic University,2023-2024,Unknown,06/09/1999,23,887,0,98
-International Hellenic University,2023-2024,Unknown,24/11/1983,79,852,0,112
-International Hellenic University,2023-2024,Unknown,06/03/2013,120,1967,0,227
-International Hellenic University,2023-2024,Unknown,24/11/1983,33,425,0,16
+International Hellenic University,2023-2024,Aesthetics and Cosmetology,12/10/1984,45,334,0,49
+International Hellenic University,2023-2024,Library Science and Information Systems,27/03/1984,50,115,0,53
+International Hellenic University,2023-2024,Nutrition and Dietetics,27/11/1985,52,548,0,71
+International Hellenic University,2023-2024,Business Management,03/06/2013,23,949,0,143
+International Hellenic University,2023-2024,Business Management,24/11/1983,75,2426,0,160
+International Hellenic University,2023-2024,Supply Systems Management,17/09/2003,46,984,0,122
+International Hellenic University,2023-2024,Tourism Business and Hospitality Management,03/06/2013,23,623,0,130
+International Hellenic University,2023-2024,"Interior Architecture, Decoration and Object Design",12/03/2009,18,168,0,55
+International Hellenic University,2023-2024,Electronic Engineers,24/11/1983,30,1085,0,166
+International Hellenic University,2023-2024,Medical Laboratories,12/11/1984,21,419,0,79
+International Hellenic University,2023-2024,Accounting and Finance,03/06/2013,68,1159,0,149
+International Hellenic University,2023-2024,Accounting and Finance,05/06/2013,96,2020,0,132
+International Hellenic University,2023-2024,Midwifery,24/11/1983,55,684,0,374
+International Hellenic University,2023-2024,Automation Engineering,09/03/1988,60,768,0,118
+International Hellenic University,2023-2024,Informatics Engineering,09/03/1988,64,1200,0,238
+International Hellenic University,2023-2024,Informatics Engineering,06/09/1999,78,1437,0,122
+International Hellenic University,2023-2024,Surveying and Geoinformatics Engineering,06/09/1999,27,1186,0,43
+International Hellenic University,2023-2024,Mechanical Engineers,05/06/2013,30,1062,0,71
+International Hellenic University,2023-2024,Vehicle Mechanical Engineers,09/03/1988,45,664,0,87
+International Hellenic University,2023-2024,Nursing,28/09/1970,24,336,0,52
+International Hellenic University,2023-2024,Civil Engineers,03/06/2013,48,445,0,75
+International Hellenic University,2023-2024,Civil Engineers,05/06/2013,39,1171,0,58
+International Hellenic University,2023-2024,Preschool Education,27/11/1985,20,115,0,19
+International Hellenic University,2023-2024,Clothing Design and Technology,06/09/1999,23,887,0,98
+International Hellenic University,2023-2024,Food Technology,24/11/1983,79,852,0,112
+International Hellenic University,2023-2024,Agricultural Technologists,06/03/2013,120,1967,0,227
+International Hellenic University,2023-2024,Physiotherapy,24/11/1983,33,425,0,16
 National and Kapodistrian University of Athens,2023-2024,Unknown,19/07/2019,9,42,42,42
 National and Kapodistrian University of Athens,2023-2024,English Language and Literature,23/06/1951,221,4583,265,1015
 National and Kapodistrian University of Athens,2023-2024,"Agricultural Development, Agrifood and Natural Resources Management",29/01/2019,9,324,65,324
@@ -2001,9 +2001,9 @@ National and Kapodistrian University of Athens,2023-2024,Medicine,24/04/1837,333
 National and Kapodistrian University of Athens,2023-2024,Unknown,01/09/2022,0,69,34,69
 National and Kapodistrian University of Athens,2023-2024,Spanish Language and Literature,01/10/2009,64,829,35,333
 National and Kapodistrian University of Athens,2023-2024,History and Archaeology,24/04/1986,277,3793,283,1324
-National and Kapodistrian University of Athens,2023-2024,Unknown,05/03/1993,48,1467,127,601
+National and Kapodistrian University of Athens,2023-2024,History and Philosophy of Science,05/03/1993,48,1467,127,601
 National and Kapodistrian University of Athens,2023-2024,Italian Language and Literature,01/10/2009,37,813,32,305
-National and Kapodistrian University of Athens,2023-2024,Unknown,18/05/1977,145,3053,95,958
+National and Kapodistrian University of Athens,2023-2024,Social Theology and Religious Studies,18/05/1977,145,3053,95,958
 National and Kapodistrian University of Athens,2023-2024,Sociology,29/01/2019,79,488,116,488
 National and Kapodistrian University of Athens,2023-2024,Mathematics,04/06/1904,229,4751,166,1352
 National and Kapodistrian University of Athens,2023-2024,Music Studies,06/10/1989,39,1073,77,587
@@ -2026,16 +2026,16 @@ National and Kapodistrian University of Athens,2023-2024,Physics,23/03/1932,181,
 National and Kapodistrian University of Athens,2023-2024,Chemistry,27/04/1918,105,1811,145,667
 National and Kapodistrian University of Athens,2023-2024,Digital Arts and Cinema,29/01/2019,30,413,107,413
 National and Kapodistrian University of Athens,2023-2024,Psychology,03/06/2013,312,1735,287,1183
-National and Kapodistrian University of Athens,2023-2024,Unknown,01/09/2019,130,2144,0,93
-National and Kapodistrian University of Athens,2023-2024,Unknown,01/09/2019,154,1594,0,153
-National and Kapodistrian University of Athens,2023-2024,Unknown,01/09/2019,144,1197,0,122
-National and Kapodistrian University of Athens,2023-2024,Unknown,01/09/2019,79,601,0,66
-National and Kapodistrian University of Athens,2023-2024,Unknown,01/09/2019,89,1234,0,104
-National Technical University of Athens,2023-2024,Unknown,30/10/1917,92,1392,80,679
+National and Kapodistrian University of Athens,2023-2024,Electrical Engineers,01/09/2019,130,2144,0,93
+National and Kapodistrian University of Athens,2023-2024,Accounting and Finance,01/09/2019,154,1594,0,153
+National and Kapodistrian University of Athens,2023-2024,Automation Engineering,01/09/2019,144,1197,0,122
+National and Kapodistrian University of Athens,2023-2024,Aircraft Technology Engineering,01/09/2019,79,601,0,66
+National and Kapodistrian University of Athens,2023-2024,Mechanical Engineers,01/09/2019,89,1234,0,104
+National Technical University of Athens,2023-2024,Agricultural and Surveying Engineers - Geoinformatics Engineers,30/10/1917,92,1392,80,679
 National Technical University of Athens,2023-2024,Architectural Engineers,30/10/1917,137,1793,171,1184
 National Technical University of Athens,2023-2024,Applied Mathematics and Physical Sciences,01/09/1999,87,1990,164,1113
 National Technical University of Athens,2023-2024,Electrical and Computer Engineers,30/10/1917,344,5165,434,2785
-National Technical University of Athens,2023-2024,Unknown,13/08/1975,50,1011,99,573
+National Technical University of Athens,2023-2024,Mining - Metallurgical Engineers,13/08/1975,50,1011,99,573
 National Technical University of Athens,2023-2024,Mechanical Engineers,30/10/1917,159,4008,213,1451
 National Technical University of Athens,2023-2024,Naval Architects and Mechanical Engineers,27/08/1982,84,1441,117,780
 National Technical University of Athens,2023-2024,Civil Engineers,20/06/1887,131,2614,191,1342
@@ -2060,20 +2060,20 @@ Hellenic Mediterranean University,2023-2024,Accounting and Finance,07/05/2019,58
 Hellenic Mediterranean University,2023-2024,Mechanical Engineers,01/07/2019,12,403,80,402
 Hellenic Mediterranean University,2023-2024,Music Technology and Acoustics,06/09/1999,7,386,75,386
 Hellenic Mediterranean University,2023-2024,Nursing,07/05/2019,118,464,75,464
-Hellenic Mediterranean University,2023-2024,Unknown,06/09/1999,47,620,0,60
-Hellenic Mediterranean University,2023-2024,Unknown,05/06/2013,38,652,0,234
-Hellenic Mediterranean University,2023-2024,Unknown,05/06/2013,54,950,0,90
-Hellenic Mediterranean University,2023-2024,Unknown,05/06/2013,66,852,0,108
-Hellenic Mediterranean University,2023-2024,Unknown,07/05/2019,54,912,0,97
-Hellenic Mediterranean University,2023-2024,Unknown,24/11/1983,52,1003,0,110
-Hellenic Mediterranean University,2023-2024,Unknown,05/06/2013,32,423,0,46
-Hellenic Mediterranean University,2023-2024,Unknown,05/06/2013,87,2695,0,130
-Hellenic Mediterranean University,2023-2024,Unknown,06/09/1999,37,1249,0,109
-Hellenic Mediterranean University,2023-2024,Unknown,05/06/2013,73,1425,0,163
-Hellenic Mediterranean University,2023-2024,Unknown,06/09/1999,50,499,0,60
-Hellenic Mediterranean University,2023-2024,Unknown,05/06/2013,85,1079,0,90
-Hellenic Mediterranean University,2023-2024,Unknown,24/11/1983,22,228,0,38
-Hellenic Mediterranean University,2023-2024,Unknown,05/06/2013,54,1100,0,130
+Hellenic Mediterranean University,2023-2024,Nutrition and Dietetics,06/09/1999,47,620,0,60
+Hellenic Mediterranean University,2023-2024,Business Management,05/06/2013,38,652,0,234
+Hellenic Mediterranean University,2023-2024,Business Management,05/06/2013,54,950,0,90
+Hellenic Mediterranean University,2023-2024,Tourism Business and Hospitality Management,05/06/2013,66,852,0,108
+Hellenic Mediterranean University,2023-2024,Electrical Engineers,07/05/2019,54,912,0,97
+Hellenic Mediterranean University,2023-2024,Electronic Engineers,24/11/1983,52,1003,0,110
+Hellenic Mediterranean University,2023-2024,Social Work,05/06/2013,32,423,0,46
+Hellenic Mediterranean University,2023-2024,Accounting and Finance,05/06/2013,87,2695,0,130
+Hellenic Mediterranean University,2023-2024,Music Technology and Acoustics Engineering,06/09/1999,37,1249,0,109
+Hellenic Mediterranean University,2023-2024,Informatics Engineering,05/06/2013,73,1425,0,163
+Hellenic Mediterranean University,2023-2024,Natural Resources and Environment Engineering,06/09/1999,50,499,0,60
+Hellenic Mediterranean University,2023-2024,Mechanical Engineers,05/06/2013,85,1079,0,90
+Hellenic Mediterranean University,2023-2024,Nursing,24/11/1983,22,228,0,38
+Hellenic Mediterranean University,2023-2024,Agricultural Technologists,05/06/2013,54,1100,0,130
 Ionian University,2023-2024,"Archival Science, Library Science and Museology",20/03/1984,29,682,18,206
 Ionian University,2023-2024,Food Science and Technology,01/10/2018,35,394,93,394
 Ionian University,2023-2024,History,20/03/1984,54,991,26,379
@@ -2084,13 +2084,13 @@ Ionian University,2023-2024,Informatics,22/07/2004,73,1207,166,786
 Ionian University,2023-2024,Sound and Image Arts,22/07/2004,15,1070,105,677
 Ionian University,2023-2024,Tourism,01/10/2018,19,433,131,433
 Ionian University,2023-2024,Digital Media and Communication,01/10/2018,52,850,256,850
-Ionian University,2023-2024,Unknown,05/06/2013,34,607,0,97
-Ionian University,2023-2024,Unknown,05/06/2013,34,400,0,110
-Ionian University,2023-2024,Unknown,05/06/2013,12,330,0,16
-Ionian University,2023-2024,Unknown,20/06/2003,43,507,0,78
-Ionian University,2023-2024,Unknown,05/06/2013,46,390,0,76
-Ionian University,2023-2024,Unknown,05/06/2013,16,561,0,54
-Ionian University,2023-2024,Unknown,05/05/2014,21,431,0,147
+Ionian University,2023-2024,Business Management,05/06/2013,34,607,0,97
+Ionian University,2023-2024,Tourism Business and Hospitality Management,05/06/2013,34,400,0,110
+Ionian University,2023-2024,Conservation of Antiquities and Works of Art,05/06/2013,12,330,0,16
+Ionian University,2023-2024,Sound Technology and Musical Instruments,20/06/2003,43,507,0,78
+Ionian University,2023-2024,Food Technology,05/06/2013,46,390,0,76
+Ionian University,2023-2024,Natural Environment Technologies,05/06/2013,16,561,0,54
+Ionian University,2023-2024,Digital Media and Communication,05/05/2014,21,431,0,147
 Athens University of Economics and Business,2023-2024,International and European Economic Studies,01/09/1989,101,1596,163,837
 Athens University of Economics and Business,2023-2024,Administrative Science and Technology,01/09/2000,170,1402,203,941
 Athens University of Economics and Business,2023-2024,Accounting and Finance,06/09/1999,178,1769,225,1118
@@ -2116,7 +2116,7 @@ University of the Aegean,2023-2024,Primary Education Pedagogy,20/03/1984,174,128
 University of the Aegean,2023-2024,Environment,20/03/1984,39,769,142,324
 University of the Aegean,2023-2024,Cultural Technology and Communication,10/03/2000,91,1167,157,635
 University of the Aegean,2023-2024,Statistics and Actuarial - Financial Mathematics,01/09/2018,36,1019,152,629
-University of the Aegean,2023-2024,Unknown,04/11/1997,38,962,73,385
+University of the Aegean,2023-2024,Oceanography and Marine Biosciences,04/11/1997,38,962,73,385
 University of West Attica,2023-2024,Early Childhood Care and Education,02/03/2018,114,775,192,667
 University of West Attica,2023-2024,"Archival Science, Library Science and Information Systems",02/03/2018,120,754,96,555
 University of West Attica,2023-2024,Biomedical Sciences,02/03/2018,319,2025,396,1452
@@ -2143,54 +2143,54 @@ University of West Attica,2023-2024,Civil Engineers,02/03/2018,47,1898,180,1504
 University of West Attica,2023-2024,Conservation of Antiquities and Works of Art,02/03/2018,33,522,37,343
 University of West Attica,2023-2024,Physiotherapy,02/03/2018,161,1011,204,874
 University of West Attica,2023-2024,Photography and Audiovisual Arts,01/09/2018,39,970,129,669
-University of West Attica,2023-2024,Unknown,03/02/2018,2,91,0,2
-University of West Attica,2023-2024,Unknown,24/11/1983,1,52,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,3,121,0,1
-University of West Attica,2023-2024,Unknown,27/11/1985,29,1132,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,16,224,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,2,174,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,14,632,0,0
-University of West Attica,2023-2024,Unknown,28/05/2013,15,1155,0,4
-University of West Attica,2023-2024,Unknown,24/11/1983,7,335,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,9,366,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,10,372,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,4,82,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,13,200,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,23,1680,0,5
-University of West Attica,2023-2024,Unknown,24/11/1983,14,632,0,0
-University of West Attica,2023-2024,Unknown,24/11/1973,12,1363,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,3,101,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,7,783,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,3,109,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,46,1951,0,2
-University of West Attica,2023-2024,Unknown,24/11/1983,3,65,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,5,243,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,5,330,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,5,0,0,0
-University of West Attica,2023-2024,Unknown,24/11/2018,17,878,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,27,520,0,2
-University of West Attica,2023-2024,Unknown,24/11/1983,4,203,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,23,1720,0,0
-University of West Attica,2023-2024,Unknown,24/11/1973,10,285,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,2,167,0,1
-University of West Attica,2023-2024,Unknown,27/11/1983,4,137,0,3
-University of West Attica,2023-2024,Unknown,24/11/1983,8,209,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,2,89,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,1,253,0,1
-University of West Attica,2023-2024,Unknown,14/09/2009,14,930,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,1,55,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,4,70,0,0
-University of West Attica,2023-2024,Unknown,24/11/1983,6,148,0,0
-University of West Attica,2023-2024,Unknown,07/03/1983,6,384,0,1
-University of West Attica,2023-2024,Unknown,24/11/1983,4,110,0,0
-University of West Attica,2023-2024,Unknown,01/10/1985,12,246,0,1
+University of West Attica,2023-2024,Aesthetics and Cosmetology,03/02/2018,2,91,0,2
+University of West Attica,2023-2024,Radiology and Radiotherapy,24/11/1983,1,52,0,0
+University of West Attica,2023-2024,"Archival Science, Library Science and Information Systems",24/11/1983,3,121,0,1
+University of West Attica,2023-2024,Automation,27/11/1985,29,1132,0,0
+University of West Attica,2023-2024,Graphic Design,24/11/1983,16,224,0,0
+University of West Attica,2023-2024,Public and Community Health,24/11/1983,2,174,0,1
+University of West Attica,2023-2024,Business Management,24/11/1983,14,632,0,0
+University of West Attica,2023-2024,Business Management,28/05/2013,15,1155,0,4
+University of West Attica,2023-2024,Tourism Management,24/11/1983,7,335,0,0
+University of West Attica,2023-2024,Tourism Business and Hospitality Management,24/11/1983,9,366,0,0
+University of West Attica,2023-2024,Commerce and Advertising,24/11/1983,10,372,0,1
+University of West Attica,2023-2024,Occupational Therapy,24/11/1983,4,82,0,1
+University of West Attica,2023-2024,"Interior Architecture, Decoration and Object Design",24/11/1983,13,200,0,1
+University of West Attica,2023-2024,Electrical Engineers,24/11/1983,23,1680,0,5
+University of West Attica,2023-2024,Electronic Engineers,24/11/1983,14,632,0,0
+University of West Attica,2023-2024,Electronic Engineers,24/11/1973,12,1363,0,1
+University of West Attica,2023-2024,Medical Laboratories,24/11/1983,3,101,0,0
+University of West Attica,2023-2024,Textile Engineering,24/11/1983,7,783,0,0
+University of West Attica,2023-2024,Social Work,24/11/1983,3,109,0,1
+University of West Attica,2023-2024,Accounting and Finance,24/11/1983,46,1951,0,2
+University of West Attica,2023-2024,Midwifery,24/11/1983,3,65,0,0
+University of West Attica,2023-2024,Biomedical Technology Engineering,24/11/1983,5,243,0,0
+University of West Attica,2023-2024,Energy Technology Engineering,24/11/1983,5,330,0,0
+University of West Attica,2023-2024,Energy Technology Engineering,24/11/1983,5,0,0,0
+University of West Attica,2023-2024,Electronic Computing Systems Engineering,24/11/2018,17,878,0,0
+University of West Attica,2023-2024,Informatics Engineering,24/11/1983,27,520,0,2
+University of West Attica,2023-2024,Surveying and Geoinformatics Engineering,24/11/1983,4,203,0,1
+University of West Attica,2023-2024,Mechanical Engineers,24/11/1983,23,1720,0,0
+University of West Attica,2023-2024,Naval Architects,24/11/1973,10,285,0,0
+University of West Attica,2023-2024,Nursing,24/11/1983,2,167,0,1
+University of West Attica,2023-2024,Dental Technology,27/11/1983,4,137,0,3
+University of West Attica,2023-2024,Oenology and Beverage Technology,24/11/1983,8,209,0,0
+University of West Attica,2023-2024,Optics and Optometry,24/11/1983,2,89,0,1
+University of West Attica,2023-2024,Civil Engineers,24/11/1983,1,253,0,1
+University of West Attica,2023-2024,Civil Engineers,14/09/2009,14,930,0,1
+University of West Attica,2023-2024,Preschool Education,24/11/1983,1,55,0,0
+University of West Attica,2023-2024,Conservation of Antiquities and Works of Art,24/11/1983,4,70,0,0
+University of West Attica,2023-2024,Graphic Arts Technology,24/11/1983,6,148,0,0
+University of West Attica,2023-2024,Food Technology,07/03/1983,6,384,0,1
+University of West Attica,2023-2024,Physiotherapy,24/11/1983,4,110,0,0
+University of West Attica,2023-2024,Photography and Audiovisual Arts,01/10/1985,12,246,0,1
 University of Western Macedonia,2023-2024,Agriculture,07/05/2019,2,565,74,564
 University of Western Macedonia,2023-2024,International and European Economic Studies,07/05/2019,156,942,193,942
 University of Western Macedonia,2023-2024,Administrative Science and Technology,07/05/2019,125,2700,298,1006
 University of Western Macedonia,2023-2024,Fine and Applied Arts,31/08/2006,65,540,73,422
 University of Western Macedonia,2023-2024,Communication and Digital Media,07/05/2019,63,805,222,804
 University of Western Macedonia,2023-2024,Occupational Therapy,07/05/2019,49,326,92,326
-University of Western Macedonia,2023-2024,Unknown,02/08/2005,82,748,193,535
+University of Western Macedonia,2023-2024,Electrical and Computer Engineers,02/08/2005,82,748,193,535
 University of Western Macedonia,2023-2024,Accounting and Finance,07/05/2019,59,1955,182,979
 University of Western Macedonia,2023-2024,Mathematics,07/05/2019,8,157,20,157
 University of Western Macedonia,2023-2024,Midwifery,07/05/2019,156,471,203,468
@@ -2204,21 +2204,21 @@ University of Western Macedonia,2023-2024,Kindergarten Pedagogy,02/04/1993,128,7
 University of Western Macedonia,2023-2024,Regional and Cross-Border Development,07/05/2019,37,439,43,439
 University of Western Macedonia,2023-2024,Informatics,07/05/2019,11,803,231,803
 University of Western Macedonia,2023-2024,Statistics and Insurance Science,07/05/2019,39,546,142,546
-University of Western Macedonia,2023-2024,Unknown,07/05/2019,41,223,36,209
+University of Western Macedonia,2023-2024,Chemical Engineers,07/05/2019,41,223,36,209
 University of Western Macedonia,2023-2024,Psychology,07/05/2019,89,537,175,537
-University of Western Macedonia,2023-2024,Unknown,12/01/1996,88,1559,0,111
-University of Western Macedonia,2023-2024,Unknown,23/05/1995,18,1314,0,51
-University of Western Macedonia,2023-2024,Unknown,05/06/2013,98,1580,0,116
-University of Western Macedonia,2023-2024,Unknown,05/06/2013,120,2725,0,1101
-University of Western Macedonia,2023-2024,Unknown,14/10/1976,75,2195,0,295
-University of Western Macedonia,2023-2024,Unknown,07/05/2019,244,3027,0,547
-University of Western Macedonia,2023-2024,Unknown,12/03/2009,13,59,0,32
-University of Western Macedonia,2023-2024,Unknown,06/09/1999,31,1814,0,401
-University of Western Macedonia,2023-2024,Unknown,05/06/2013,43,1297,0,84
-University of Western Macedonia,2023-2024,Unknown,07/05/2019,65,1051,0,106
-University of Western Macedonia,2023-2024,Unknown,24/11/1983,113,1370,0,253
-University of Western Macedonia,2023-2024,Unknown,05/06/2013,118,3125,0,108
-University of Western Macedonia,2023-2024,Unknown,06/09/1999,109,2074,0,108
+University of Western Macedonia,2023-2024,Industrial Design,12/01/1996,88,1559,0,111
+University of Western Macedonia,2023-2024,International Trade,23/05/1995,18,1314,0,51
+University of Western Macedonia,2023-2024,Business Management,05/06/2013,98,1580,0,116
+University of Western Macedonia,2023-2024,Business Management,05/06/2013,120,2725,0,1101
+University of Western Macedonia,2023-2024,Electrical Engineers,14/10/1976,75,2195,0,295
+University of Western Macedonia,2023-2024,Accounting and Finance,07/05/2019,244,3027,0,547
+University of Western Macedonia,2023-2024,Midwifery,12/03/2009,13,59,0,32
+University of Western Macedonia,2023-2024,Anti-Pollution Engineering,06/09/1999,31,1814,0,401
+University of Western Macedonia,2023-2024,Geoenvironmental Technology Engineering,05/06/2013,43,1297,0,84
+University of Western Macedonia,2023-2024,Informatics Engineering,07/05/2019,65,1051,0,106
+University of Western Macedonia,2023-2024,Mechanical Engineers,24/11/1983,113,1370,0,253
+University of Western Macedonia,2023-2024,Agricultural Technologists,05/06/2013,118,3125,0,108
+University of Western Macedonia,2023-2024,Digital Media and Communication,06/09/1999,109,2074,0,108
 University of Thessaly,2023-2024,Architectural Engineers,06/09/1999,77,943,125,807
 University of Thessaly,2023-2024,Biochemistry and Biotechnology,10/03/2000,67,720,133,461
 University of Thessaly,2023-2024,Agriculture - Agricultural Technology,29/01/2019,44,509,112,509
@@ -2246,7 +2246,7 @@ University of Thessaly,2023-2024,Primary Education Pedagogy,31/05/1985,206,767,1
 University of Thessaly,2023-2024,Special Education Pedagogy,28/04/1993,136,597,147,464
 University of Thessaly,2023-2024,Preschool Education Pedagogy,20/03/1984,179,857,199,678
 University of Thessaly,2023-2024,Environment,29/01/2019,45,396,105,396
-University of Thessaly,2023-2024,Unknown,05/06/2013,74,1051,167,790
+University of Thessaly,2023-2024,Informatics and Telecommunications,05/06/2013,74,1051,167,790
 University of Thessaly,2023-2024,Informatics with Applications in Biomedicine,02/03/2004,84,1123,177,785
 University of Thessaly,2023-2024,Civil Engineers,28/04/1993,93,689,106,526
 University of Thessaly,2023-2024,Culture and Creative Media and Industries,29/01/2019,22,374,106,374
@@ -2254,29 +2254,29 @@ University of Thessaly,2023-2024,Energy Systems,29/01/2019,21,325,25,324
 University of Thessaly,2023-2024,Physics,29/01/2019,12,204,39,204
 University of Thessaly,2023-2024,Physiotherapy,29/01/2019,93,406,113,406
 University of Thessaly,2023-2024,Digital Systems,29/01/2019,59,1332,328,1332
-University of Thessaly,2023-2024,Unknown,23/06/2005,15,409,0,49
-University of Thessaly,2023-2024,Unknown,03/10/2009,18,202,0,16
-University of Thessaly,2023-2024,Unknown,03/06/2013,75,1505,0,83
-University of Thessaly,2023-2024,Unknown,24/11/1983,46,831,0,42
-University of Thessaly,2023-2024,Unknown,22/08/1994,55,1014,0,75
-University of Thessaly,2023-2024,Unknown,24/11/1983,15,436,0,27
-University of Thessaly,2023-2024,Unknown,01/09/2013,54,970,0,83
-University of Thessaly,2023-2024,Unknown,01/09/2013,120,1612,0,178
-University of Thessaly,2023-2024,Unknown,01/09/2000,81,1363,0,72
-University of Thessaly,2023-2024,Unknown,24/11/1983,48,944,0,51
-University of Thessaly,2023-2024,Unknown,24/11/1983,11,346,0,28
-University of Thessaly,2023-2024,Unknown,22/10/1994,10,610,0,32
-University of Thessaly,2023-2024,Unknown,27/11/1985,39,1161,0,35
-University of Thessaly,2023-2024,Unknown,01/09/2013,15,219,0,22
-University of Thessaly,2023-2024,Unknown,06/09/1999,59,587,0,59
-University of Thessaly,2023-2024,Unknown,01/09/2005,50,385,0,35
-University of Thessaly,2023-2024,Unknown,03/06/2013,117,572,0,132
-University of Thessaly,2023-2024,Unknown,22/08/1994,36,449,0,28
+University of Thessaly,2023-2024,Forestry and Natural Environment Management,23/06/2005,15,409,0,49
+University of Thessaly,2023-2024,Nutrition and Dietetics,03/10/2009,18,202,0,16
+University of Thessaly,2023-2024,Business Management,03/06/2013,75,1505,0,83
+University of Thessaly,2023-2024,Electrical Engineers,24/11/1983,46,831,0,42
+University of Thessaly,2023-2024,Electronic Engineers,22/08/1994,55,1014,0,75
+University of Thessaly,2023-2024,Medical Laboratories,24/11/1983,15,436,0,27
+University of Thessaly,2023-2024,Accounting and Finance,01/09/2013,54,970,0,83
+University of Thessaly,2023-2024,Informatics Engineering,01/09/2013,120,1612,0,178
+University of Thessaly,2023-2024,Informatics Engineering,01/09/2000,81,1363,0,72
+University of Thessaly,2023-2024,Mechanical Engineers,24/11/1983,48,944,0,51
+University of Thessaly,2023-2024,Nursing,24/11/1983,11,346,0,28
+University of Thessaly,2023-2024,Nursing,22/10/1994,10,610,0,32
+University of Thessaly,2023-2024,Civil Engineers,27/11/1985,39,1161,0,35
+University of Thessaly,2023-2024,Civil Engineers,01/09/2013,15,219,0,22
+University of Thessaly,2023-2024,Wood and Furniture Design and Technology,06/09/1999,59,587,0,59
+University of Thessaly,2023-2024,Food Technology,01/09/2005,50,385,0,35
+University of Thessaly,2023-2024,Agricultural Technologists,03/06/2013,117,572,0,132
+University of Thessaly,2023-2024,Physiotherapy,22/08/1994,36,449,0,28
 University of Ioannina,2023-2024,Early Childhood Care and Education,01/10/2018,123,442,123,442
 University of Ioannina,2023-2024,Architectural Engineers,02/10/2009,30,349,58,344
 University of Ioannina,2023-2024,Biological Applications and Technologies,06/09/1999,99,983,136,721
 University of Ioannina,2023-2024,Agriculture,01/10/2018,42,438,56,438
-University of Ioannina,2023-2024,Unknown,11/05/2016,55,831,71,398
+University of Ioannina,2023-2024,Fine Arts and Art Sciences,11/05/2016,55,831,71,398
 University of Ioannina,2023-2024,Medicine,22/07/1977,143,1231,174,898
 University of Ioannina,2023-2024,History and Archaeology,18/10/1984,179,1714,95,836
 University of Ioannina,2023-2024,Accounting and Finance,01/09/2018,55,563,68,563
@@ -2296,18 +2296,18 @@ University of Ioannina,2023-2024,"Philosophy, Pedagogy and Psychology",18/10/198
 University of Ioannina,2023-2024,Physics,12/12/1970,69,1554,35,564
 University of Ioannina,2023-2024,Chemistry,06/10/1976,90,1070,166,619
 University of Ioannina,2023-2024,Psychology,03/08/2018,118,410,113,375
-University of Ioannina,2023-2024,Unknown,06/09/1999,25,688,0,77
-University of Ioannina,2023-2024,Unknown,27/11/1996,10,217,0,42
-University of Ioannina,2023-2024,Unknown,06/09/1999,22,763,0,11
-University of Ioannina,2023-2024,Unknown,03/06/2013,69,1011,0,117
-University of Ioannina,2023-2024,Unknown,06/09/1999,25,195,0,39
-University of Ioannina,2023-2024,Unknown,26/05/1998,32,1405,0,118
-University of Ioannina,2023-2024,Unknown,24/10/1984,25,351,0,48
-University of Ioannina,2023-2024,Unknown,24/10/1984,18,130,0,21
-University of Ioannina,2023-2024,Unknown,25/07/2013,20,891,0,86
+University of Ioannina,2023-2024,Business Management,06/09/1999,25,688,0,77
+University of Ioannina,2023-2024,Tourism Business and Hospitality Management,27/11/1996,10,217,0,42
+University of Ioannina,2023-2024,Folk and Traditional Music,06/09/1999,22,763,0,11
+University of Ioannina,2023-2024,Accounting and Finance,03/06/2013,69,1011,0,117
+University of Ioannina,2023-2024,Speech Therapy,06/09/1999,25,195,0,39
+University of Ioannina,2023-2024,Informatics Engineering,26/05/1998,32,1405,0,118
+University of Ioannina,2023-2024,Nursing,24/10/1984,25,351,0,48
+University of Ioannina,2023-2024,Preschool Education,24/10/1984,18,130,0,21
+University of Ioannina,2023-2024,Agricultural Technologists,25/07/2013,20,891,0,86
 University of Crete,2023-2024,Biology,10/09/1976,109,698,126,514
 University of Crete,2023-2024,Unknown,01/09/2023,0,31,31,31
-University of Crete,2023-2024,Unknown,01/09/2000,53,752,17,292
+University of Crete,2023-2024,Materials Science and Engineering,01/09/2000,53,752,17,292
 University of Crete,2023-2024,Computer Science,15/04/1983,108,1667,195,1048
 University of Crete,2023-2024,Applied Mathematics,06/09/1999,89,1016,44,478
 University of Crete,2023-2024,Medicine,10/09/1976,108,968,127,818
@@ -2339,18 +2339,18 @@ University of Patras,2023-2024,"Fisheries and Aquaculture (formerly Animal Produ
 University of Patras,2023-2024,Architectural Engineers,06/09/1999,96,732,72,587
 University of Patras,2023-2024,Biology,24/05/1967,70,1144,140,525
 University of Patras,2023-2024,Geology,20/09/1977,56,942,22,292
-University of Patras,2023-2024,Unknown,01/09/2023,0,31,31,31
-University of Patras,2023-2024,Unknown,01/09/2022,15,253,8,253
-University of Patras,2023-2024,Unknown,07/07/2022,7,522,0,125
+University of Patras,2023-2024,Agriculture - new,01/09/2023,0,31,31,31
+University of Patras,2023-2024,Agriculture,01/09/2022,15,253,8,253
+University of Patras,2023-2024,Environment and Natural Resources Management,07/07/2022,7,522,0,125
 University of Patras,2023-2024,Cultural Environment and New Technologies Management,01/09/2018,42,448,0,62
 University of Patras,2023-2024,Business Management,06/09/1999,163,2157,354,1607
-University of Patras,2023-2024,Unknown,07/07/2022,96,848,0,469
+University of Patras,2023-2024,Agricultural Products and Food Business Management,07/07/2022,96,848,0,469
 University of Patras,2023-2024,Tourism Management,07/05/2019,76,698,186,698
 University of Patras,2023-2024,Administrative Science and Technology,07/05/2019,110,1193,198,1187
-University of Patras,2023-2024,Unknown,07/07/2022,1,238,0,238
+University of Patras,2023-2024,Biosystems Science and Agricultural Engineering,07/07/2022,1,238,0,238
 University of Patras,2023-2024,Food Science and Technology,07/05/2019,18,385,87,385
 University of Patras,2023-2024,Materials Science,06/09/1999,62,1129,52,452
-University of Patras,2023-2024,Unknown,07/07/2022,0,292,0,292
+University of Patras,2023-2024,Plant Production Science,07/07/2022,0,292,0,292
 University of Patras,2023-2024,Education Sciences and Social Work,07/05/2019,169,1087,291,1087
 University of Patras,2023-2024,Education Sciences and Preschool Training,07/09/1983,182,1115,203,774
 University of Patras,2023-2024,Electrical Engineers and Computer Technology,07/05/1967,207,2952,331,1934
@@ -2360,9 +2360,9 @@ University of Patras,2023-2024,History - Archaeology,07/05/2019,19,516,119,516
 University of Patras,2023-2024,Speech Therapy,07/05/2019,128,423,135,422
 University of Patras,2023-2024,Mathematics,24/05/1967,150,3647,235,1326
 University of Patras,2023-2024,Electronic Computers and Informatics Engineering,03/10/1979,165,2694,158,1629
-University of Patras,2023-2024,Unknown,07/07/2022,32,360,0,316
+University of Patras,2023-2024,Environmental Engineering,07/07/2022,32,360,0,316
 University of Patras,2023-2024,Mechanical and Aeronautical Engineers,25/09/1967,111,1920,187,1123
-University of Patras,2023-2024,Unknown,07/07/2022,78,294,0,294
+University of Patras,2023-2024,Museology,07/07/2022,78,294,0,294
 University of Patras,2023-2024,Nursing,07/05/2019,271,698,188,694
 University of Patras,2023-2024,Economic Sciences,31/05/1985,235,2008,261,1250
 University of Patras,2023-2024,Primary Education Pedagogy,16/07/1982,33,223,0,26
@@ -2374,18 +2374,18 @@ University of Patras,2023-2024,Physics,24/05/1967,84,1865,76,700
 University of Patras,2023-2024,Physiotherapy,07/05/2019,162,680,202,673
 University of Patras,2023-2024,Chemistry,24/05/1967,137,1348,183,736
 University of Patras,2023-2024,Chemical Engineers,20/09/1977,69,1172,126,821
-University of Patras,2023-2024,Unknown,05/06/2013,72,1495,0,151
-University of Patras,2023-2024,Unknown,05/06/2013,138,2943,0,169
-University of Patras,2023-2024,Unknown,07/07/2022,36,1493,0,264
-University of Patras,2023-2024,Unknown,24/11/1983,10,234,0,11
-University of Patras,2023-2024,Unknown,05/06/2013,82,1309,0,182
-University of Patras,2023-2024,Unknown,24/11/1983,39,300,0,57
-University of Patras,2023-2024,Unknown,24/11/1983,32,497,0,39
-University of Patras,2023-2024,Unknown,19/10/2006,8,162,0,23
-University of Patras,2023-2024,Unknown,05/06/2013,19,924,0,149
-University of Patras,2023-2024,Unknown,07/07/2022,30,398,0,143
-University of Patras,2023-2024,Unknown,24/11/1983,41,607,0,146
-University of Patras,2023-2024,Unknown,05/06/2013,30,235,0,69
+University of Patras,2023-2024,Business Management,05/06/2013,72,1495,0,151
+University of Patras,2023-2024,Business Management,05/06/2013,138,2943,0,169
+University of Patras,2023-2024,"Management, Economy and Communication of Cultural and Tourist Units",07/07/2022,36,1493,0,264
+University of Patras,2023-2024,Social Work,24/11/1983,10,234,0,11
+University of Patras,2023-2024,Accounting and Finance,05/06/2013,82,1309,0,182
+University of Patras,2023-2024,Speech Therapy,24/11/1983,39,300,0,57
+University of Patras,2023-2024,Nursing,24/11/1983,32,497,0,39
+University of Patras,2023-2024,Optics and Optometry,19/10/2006,8,162,0,23
+University of Patras,2023-2024,Fisheries and Aquaculture Technology,05/06/2013,19,924,0,149
+University of Patras,2023-2024,Agricultural Technologists,07/07/2022,30,398,0,143
+University of Patras,2023-2024,Tourism Businesses,24/11/1983,41,607,0,146
+University of Patras,2023-2024,Physiotherapy,05/06/2013,30,235,0,69
 University of Piraeus,2023-2024,Industrial Management and Technology,01/09/1991,99,1354,189,779
 University of Piraeus,2023-2024,International and European Studies,01/09/2000,264,1158,150,606
 University of Piraeus,2023-2024,Shipping Studies,01/09/1990,351,1832,282,1095
@@ -2418,17 +2418,17 @@ University of Peloponnese,2023-2024,Civil Engineers,07/05/2019,4,491,145,489
 University of Peloponnese,2023-2024,Philology,05/05/2003,75,673,88,485
 University of Peloponnese,2023-2024,Physiotherapy,07/05/2019,40,299,94,299
 University of Peloponnese,2023-2024,Digital Systems,07/05/2019,17,572,138,572
-University of Peloponnese,2023-2024,Unknown,05/06/2013,52,954,0,97
-University of Peloponnese,2023-2024,Unknown,05/06/2013,68,1392,0,250
-University of Peloponnese,2023-2024,Unknown,05/06/2013,17,506,0,89
-University of Peloponnese,2023-2024,Unknown,12/03/2009,6,79,0,25
-University of Peloponnese,2023-2024,Unknown,05/06/2013,82,1025,0,258
-University of Peloponnese,2023-2024,Unknown,05/06/2013,34,800,0,95
-University of Peloponnese,2023-2024,Unknown,05/06/2013,78,973,0,235
-University of Peloponnese,2023-2024,Unknown,05/06/2013,48,702,0,169
-University of Peloponnese,2023-2024,Unknown,09/02/2009,58,390,0,77
-University of Peloponnese,2023-2024,Unknown,05/06/2013,48,459,0,8
-University of Peloponnese,2023-2024,Unknown,30/04/2014,48,861,0,99
+University of Peloponnese,2023-2024,Health Units and Welfare Management,05/06/2013,52,954,0,97
+University of Peloponnese,2023-2024,Electrical Engineers,05/06/2013,68,1392,0,250
+University of Peloponnese,2023-2024,Accounting and Finance,05/06/2013,17,506,0,89
+University of Peloponnese,2023-2024,Speech Therapy,12/03/2009,6,79,0,25
+University of Peloponnese,2023-2024,Informatics Engineering,05/06/2013,82,1025,0,258
+University of Peloponnese,2023-2024,Informatics Engineering,05/06/2013,34,800,0,95
+University of Peloponnese,2023-2024,Mechanical Engineers,05/06/2013,78,973,0,235
+University of Peloponnese,2023-2024,Civil Engineers,05/06/2013,48,702,0,169
+University of Peloponnese,2023-2024,Food Technology,09/02/2009,58,390,0,77
+University of Peloponnese,2023-2024,Agricultural Technologists,05/06/2013,48,459,0,8
+University of Peloponnese,2023-2024,Local Government,30/04/2014,48,861,0,99
 Panteion University of Social and Political Sciences,2023-2024,Public Administration,07/11/1963,227,3783,347,1477
 Panteion University of Social and Political Sciences,2023-2024,International and European Studies,23/06/1997,276,2254,176,761
 Panteion University of Social and Political Sciences,2023-2024,"Communication, Media and Culture",16/06/1989,236,1224,177,724
@@ -2442,7 +2442,7 @@ Technical University of Crete,2023-2024,Architectural Engineers,22/07/2004,96,11
 Technical University of Crete,2023-2024,Electrical and Computer Engineers,01/03/1983,126,1694,173,1023
 Technical University of Crete,2023-2024,Mineral Resources Engineering,01/03/1983,54,973,33,481
 Technical University of Crete,2023-2024,Production and Management Engineering,01/03/1983,124,1555,108,911
-Technical University of Crete,2023-2024,Unknown,22/06/1995,59,1143,129,774
+Technical University of Crete,2023-2024,Chemical Engineers and Environmental Engineers,22/06/1995,59,1143,129,774
 Hellenic Army Academy,2023-2024,Military Sciences,21/12/1828,181,685,144,685
 Hellenic Air Force Academy,2023-2024,Aviation Sciences,07/10/2003,73,487,162,487
 Hellenic Naval Academy,2023-2024,Naval Sciences,07/10/2003,43,188,84,188
