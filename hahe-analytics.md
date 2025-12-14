@@ -14,12 +14,7 @@ from pypalettes import load_cmap
 ```
 
     /kaggle/input/hahe-statistics-all-programmes/hahe_all_21_24.csv
-    Collecting pypalettes
-      Downloading pypalettes-0.2.1-py3-none-any.whl.metadata (5.4 kB)
-    Downloading pypalettes-0.2.1-py3-none-any.whl (367 kB)
-    [2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m367.3/367.3 kB[0m [31m17.3 MB/s[0m eta [36m0:00:00[0m
-    [?25hInstalling collected packages: pypalettes
-    Successfully installed pypalettes-0.2.1
+    Requirement already satisfied: pypalettes in /usr/local/lib/python3.11/dist-packages (0.2.1)
 
 
 
@@ -800,65 +795,90 @@ df_grouped_rates
 
 ```python
 def plot_graduation_rate(df):
-    for year in YEARS:
-        df_filtered = df[df["academic_year"] == year].sort_values(by="graduate_rate", ascending=False)
-        y_pos = np.arange(len(df_filtered))
-        fig_height = max(6, len(df_filtered) * 0.5)
-        fig, ax = plt.subplots(figsize=(15, fig_height))
+    fig, axes = plt.subplots(2, 2, figsize=(18, 14))
+    axes = axes.flatten()
 
-        bars = ax.barh(y_pos, df_filtered["graduate_rate"], align="center", color=cmap.colors[0])
+    for ax, year in zip(axes, YEARS):
+        df_filtered = (
+            df[df["academic_year"] == year]
+            .sort_values(by="graduate_rate", ascending=False)
+        )
+
+        y_pos = np.arange(len(df_filtered))
+
+        bars = ax.barh(
+            y_pos,
+            df_filtered["graduate_rate"],
+            align="center",
+            color=cmap.colors[1]
+        )
+
         ax.set_yticks(y_pos)
         ax.set_yticklabels(df_filtered["institution"])
         ax.invert_yaxis()
         ax.set_xlabel("Percentage")
-        ax.set_title(f"Graduation rate per institution in academic year {year}")
+        ax.set_title(f"Graduation rate – {year}")
         ax.grid(axis="x", linestyle="--", alpha=0.4)
 
         # Add values next to bars
         for bar in bars:
             width = bar.get_width()
             ax.text(
-                width + 0.5,           # small offset to the right
-                bar.get_y() + bar.get_height()/2,
-                f'{width:.1f}%',       # formatted value
-                va='center',           # vertical alignment
+                width + 0.5,
+                bar.get_y() + bar.get_height() / 2,
+                f"{width:.1f}%",
+                va="center",
                 fontsize=9
             )
+        max_value = df_filtered["graduate_rate"].max()
+        ax.set_xlim(0, max_value * 1.15)
 
-        plt.tight_layout()
+    plt.tight_layout()
     plt.show()
 
 
 def plot_active_rate(df):
-    prcs = []
-    for year in YEARS:
-        df_filtered = df[df["academic_year"] == year].sort_values(by="active_rate", ascending=False)
-        prcs.append(df_filtered["active_rate"])
-        y_pos = np.arange(len(df_filtered))
-        fig_height = max(6, len(df_filtered) * 0.5)
-        fig, ax = plt.subplots(figsize=(15, fig_height))
+    fig, axes = plt.subplots(2, 2, figsize=(18, 14))
+    axes = axes.flatten()
 
-        bars = ax.barh(y_pos, df_filtered["active_rate"], align="center", color=cmap.colors[1])
+    for ax, year in zip(axes, YEARS):
+        df_filtered = (
+            df[df["academic_year"] == year]
+            .sort_values(by="active_rate", ascending=False)
+        )
+
+        y_pos = np.arange(len(df_filtered))
+
+        bars = ax.barh(
+            y_pos,
+            df_filtered["active_rate"],
+            align="center",
+            color=cmap.colors[2]
+        )
+
         ax.set_yticks(y_pos)
         ax.set_yticklabels(df_filtered["institution"])
         ax.invert_yaxis()
         ax.set_xlabel("Percentage")
-        ax.set_title(f"Student active rate per institution in academic year {year}")
+        ax.set_title(f"Active rate – {year}")
         ax.grid(axis="x", linestyle="--", alpha=0.4)
 
         # Add values next to bars
         for bar in bars:
             width = bar.get_width()
             ax.text(
-                width + 0.5,           # small offset to the right
-                bar.get_y() + bar.get_height()/2,
-                f'{width:.1f}%',       # formatted value
-                va='center',           # vertical alignment
+                width + 0.5,
+                bar.get_y() + bar.get_height() / 2,
+                f"{width:.1f}%",
+                va="center",
                 fontsize=9
             )
+        max_value = df_filtered["active_rate"].max()
+        ax.set_xlim(0, max_value * 1.15)
 
-        plt.tight_layout()
+    plt.tight_layout()
     plt.show()
+
 
 plot_graduation_rate(df_grouped_rates)
 plot_active_rate(df_grouped_rates)
@@ -877,103 +897,79 @@ plot_active_rate(df_grouped_rates)
 
 
 
-    
-![png](hahe-analytics_files/hahe-analytics_11_2.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_11_3.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_11_4.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_11_5.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_11_6.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_11_7.png)
-    
-
-
-
 ```python
+from scipy.stats import pearsonr
+
 def plot_scatter_plot(df):
-    for year in YEARS:
-        df_filtered = df[df["academic_year"] == year]
+    markers = ["o", "^", "s", "*", "D", "v", "p", "H"]
+    colors = plt.colormaps.get_cmap("tab20")
+    rate = 'graduate_rate'  # Only this rate
+
+    fig, axes = plt.subplots(2, 2, figsize=(14, 10))
+    axes = axes.flatten()
+
+    for i, year in enumerate(YEARS):
+        ax = axes[i]
+        df_filtered = df[df["academic_year"] == year].copy()
+
+        # Compute program age
         df_filtered['age'] = (
             pd.to_datetime(df_filtered['academic_year'].str.split('-').str[0], format="%Y")
             - pd.to_datetime(df_filtered['established'], format="%d/%m/%Y")
         ) / pd.Timedelta(days=365.25)
-        fig, axes = plt.subplots(1,2 ,figsize=(12, 7))
-    
-        markers = ['o', 's', '^', 'D', 'P', 'X', 'v', '<', '>']  # cycle through shapes
-        colors = plt.colormaps.get_cmap("tab20")
-        rates = ['active_rate', 'graduate_rate']
-        for i, r in enumerate(rates):
-            for j, (inst, group) in enumerate(df_filtered.groupby('institution')):
-                ax = axes[i]
-                ax.scatter(
-                    group['age'],
-                    group[r],
-                    alpha=0.7,
-                    label=inst,
-                    color=colors(j),
-                    marker=markers[j % len(markers)],
-                    s=70
-                )
-            ax.set_title(f"Age vs {r.replace('_', ' ').title()} by Institution")
-            ax.set_xlabel("Program Age (years)")
-            ax.set_ylabel(r.replace('_', ' ').capitalize())
-            ax.grid(axis="x", linestyle="--", alpha=0.4)
-            
-        plt.legend(title="Institution", bbox_to_anchor=(1.05, 1), loc='upper left')
-        fig.suptitle(f"Program Age vs Rate Comparison - {year}", fontsize=16)
-    plt.show()
 
+        for j, (inst, group) in enumerate(df_filtered.groupby('institution')):
+            ax.scatter(
+                group['age'],
+                group[rate],
+                alpha=0.7,
+                label=inst if i == 0 else "",  # Only label once for legend
+                color=colors(j),
+                marker=markers[j % len(markers)],
+                s=70
+            )
+
+        ax.set_title(f"{year}")
+        ax.set_xlabel("Program Age (years)")
+        ax.set_ylabel(rate.replace('_', ' ').capitalize())
+        ax.grid(axis="x", linestyle="--", alpha=0.4)
+
+        # Calculate Pearson correlation
+        x = df_filtered['age'].to_numpy()
+        y = df_filtered[rate].to_numpy()
+        mask = ~np.isnan(x) & ~np.isnan(y)
+        if mask.sum() > 1:  # Need at least 2 points
+            corr, _ = pearsonr(x[mask], y[mask])
+            print(f"Pearson correlation (age vs {rate}) for {year}: {corr:.3f}")
+            # Print message about correlation strength
+            if abs(corr) >= 0.7:
+                print("  Strong correlation detected!")
+            elif abs(corr) >= 0.3:
+                print("  Moderate correlation detected.")
+            else:
+                print("  Weak or no correlation detected.")
+        else:
+            print(f"Not enough data to compute Pearson correlation for {year}")
+
+    # Combine legend outside the plots
+    handles, labels = axes[0].get_legend_handles_labels()
+    fig.legend(handles, labels, title="Institution", bbox_to_anchor=(1.05, 0.5), loc='center left')
+    fig.suptitle(f"Program Age vs {rate.replace('_', ' ').title()}", fontsize=16)
+    plt.tight_layout(rect=[0, 0, 0.85, 0.95])
+    plt.show()
+# Call the function
 plot_scatter_plot(df_grouped_rates)
+
 ```
 
-    /tmp/ipykernel_47/632292643.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df_filtered['age'] = (
-    /tmp/ipykernel_47/632292643.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df_filtered['age'] = (
-    /tmp/ipykernel_47/632292643.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df_filtered['age'] = (
-    /tmp/ipykernel_47/632292643.py:4: SettingWithCopyWarning: 
-    A value is trying to be set on a copy of a slice from a DataFrame.
-    Try using .loc[row_indexer,col_indexer] = value instead
-    
-    See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
-      df_filtered['age'] = (
+    Pearson correlation (age vs graduate_rate) for 2020-2021: 0.363
+      Moderate correlation detected.
+    Pearson correlation (age vs graduate_rate) for 2021-2022: 0.254
+      Weak or no correlation detected.
+    Pearson correlation (age vs graduate_rate) for 2022-2023: 0.315
+      Moderate correlation detected.
+    Pearson correlation (age vs graduate_rate) for 2023-2024: 0.388
+      Moderate correlation detected.
 
 
 
@@ -982,22 +978,8 @@ plot_scatter_plot(df_grouped_rates)
     
 
 
-
-    
-![png](hahe-analytics_files/hahe-analytics_12_2.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_12_3.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_12_4.png)
-    
+    sys:1: ResourceWarning: Unclosed socket <zmq.Socket(zmq.PUSH) at 0x7b5ca39032a0>
+    ResourceWarning: Enable tracemalloc to get the object allocation traceback
 
 
 
@@ -1007,83 +989,6 @@ df_overall["gradaute_rate"] = (df_overall["graduate"] / df_overall["active"]) * 
 df_overall["active_rate"] = (df_overall["active"] / df_overall["registered"]) * 100
 df_overall
 ```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>academic_year</th>
-      <th>graduate</th>
-      <th>registered</th>
-      <th>enrolled</th>
-      <th>active</th>
-      <th>gradaute_rate</th>
-      <th>active_rate</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>2020-2021</td>
-      <td>56728</td>
-      <td>707197</td>
-      <td>91541</td>
-      <td>400242</td>
-      <td>14.173425</td>
-      <td>56.595546</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2021-2022</td>
-      <td>57377</td>
-      <td>705318</td>
-      <td>81012</td>
-      <td>380830</td>
-      <td>15.066303</td>
-      <td>53.994085</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>2022-2023</td>
-      <td>54289</td>
-      <td>696779</td>
-      <td>69877</td>
-      <td>363209</td>
-      <td>14.947042</td>
-      <td>52.126858</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>2023-2024</td>
-      <td>55095</td>
-      <td>703857</td>
-      <td>68759</td>
-      <td>352099</td>
-      <td>15.647588</td>
-      <td>50.024224</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
 
 
 ```python
@@ -1140,30 +1045,6 @@ plot_sorted_bar_chart(df_grouped, "registered")
 ```
 
 
-    
-![png](hahe-analytics_files/hahe-analytics_15_0.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_15_1.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_15_2.png)
-    
-
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_15_3.png)
-    
-
-
-
 ```python
 df["graduation_rate"] = (df["graduate"] / df["active"]) * 100
 
@@ -1174,182 +1055,6 @@ df["graduation_rate"] = df.apply(
 df["graduation_rate"] = np.where(df["graduation_rate"] > 100, 100, df["graduation_rate"])
 df
 ```
-
-    /usr/local/lib/python3.11/dist-packages/pandas/core/computation/expressions.py:73: RuntimeWarning: invalid value encountered in greater
-      return op(a, b)
-
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>institution</th>
-      <th>academic_year</th>
-      <th>program</th>
-      <th>established</th>
-      <th>graduate</th>
-      <th>registered</th>
-      <th>enrolled</th>
-      <th>active</th>
-      <th>graduation_rate</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Athens School of Fine Arts</td>
-      <td>2020-2021</td>
-      <td>Fine Arts</td>
-      <td>1990-07-03</td>
-      <td>99</td>
-      <td>1570</td>
-      <td>140</td>
-      <td>983</td>
-      <td>10.071211</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>Athens School of Fine Arts</td>
-      <td>2020-2021</td>
-      <td>Art Theory and History</td>
-      <td>2009-09-07</td>
-      <td>116</td>
-      <td>577</td>
-      <td>83</td>
-      <td>443</td>
-      <td>26.185102</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Aristotle University of Thessaloniki</td>
-      <td>2020-2021</td>
-      <td>English Language and Literature</td>
-      <td>1983-05-03</td>
-      <td>223</td>
-      <td>1557</td>
-      <td>227</td>
-      <td>806</td>
-      <td>27.667494</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Aristotle University of Thessaloniki</td>
-      <td>2020-2021</td>
-      <td>Agricultural and Surveying Engineering</td>
-      <td>1962-10-24</td>
-      <td>75</td>
-      <td>937</td>
-      <td>125</td>
-      <td>593</td>
-      <td>12.647555</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Aristotle University of Thessaloniki</td>
-      <td>2020-2021</td>
-      <td>Architectural Engineering</td>
-      <td>1983-05-03</td>
-      <td>142</td>
-      <td>1297</td>
-      <td>161</td>
-      <td>973</td>
-      <td>14.594039</td>
-    </tr>
-    <tr>
-      <th>...</th>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <th>2446</th>
-      <td>Hellenic Naval Academy</td>
-      <td>2023-2024</td>
-      <td>Naval Sciences</td>
-      <td>2003-10-07</td>
-      <td>43</td>
-      <td>188</td>
-      <td>84</td>
-      <td>188</td>
-      <td>22.872340</td>
-    </tr>
-    <tr>
-      <th>2447</th>
-      <td>Harokopio University</td>
-      <td>2023-2024</td>
-      <td>Geography</td>
-      <td>1999-09-06</td>
-      <td>79</td>
-      <td>1012</td>
-      <td>108</td>
-      <td>511</td>
-      <td>15.459883</td>
-    </tr>
-    <tr>
-      <th>2448</th>
-      <td>Harokopio University</td>
-      <td>2023-2024</td>
-      <td>Dietology - Nutrition Science</td>
-      <td>1992-06-12</td>
-      <td>89</td>
-      <td>713</td>
-      <td>89</td>
-      <td>467</td>
-      <td>19.057816</td>
-    </tr>
-    <tr>
-      <th>2449</th>
-      <td>Harokopio University</td>
-      <td>2023-2024</td>
-      <td>Economy and Sustainable Development (formerly ...</td>
-      <td>1992-06-12</td>
-      <td>75</td>
-      <td>716</td>
-      <td>104</td>
-      <td>466</td>
-      <td>16.094421</td>
-    </tr>
-    <tr>
-      <th>2450</th>
-      <td>Harokopio University</td>
-      <td>2023-2024</td>
-      <td>Informatics and Telematics</td>
-      <td>2006-07-07</td>
-      <td>81</td>
-      <td>1069</td>
-      <td>145</td>
-      <td>754</td>
-      <td>10.742706</td>
-    </tr>
-  </tbody>
-</table>
-<p>2451 rows × 9 columns</p>
-</div>
-
-
 
 ### Graduation rate per programme (per academic year)
 
@@ -1371,38 +1076,6 @@ summary = df.groupby("institution")["graduation_rate"].agg(
 )
 print(summary)
 ```
-
-                                                             mean        std
-    institution                                                             
-    Agricultural University of Athens                   12.880433  13.400406
-    Aristotle University of Thessaloniki                16.354373   6.290368
-    Athens School of Fine Arts                          12.833360   8.965714
-    Athens University of Economics and Business         15.324744   3.619137
-    Democritus University of Thrace                     18.060092  11.627691
-    Harokopio University                                12.888758   2.693929
-    Hellenic Air Force Academy                          18.903448   2.656036
-    Hellenic Army Academy                               26.384451   3.698705
-    Hellenic Mediterranean University                   19.821477  22.974356
-    Hellenic Naval Academy                              27.086813   4.321788
-    Hellenic Open University                            15.682648   9.106454
-    International Hellenic University                   16.868358  18.363767
-    Ionian University                                   13.327973  14.151178
-    National Technical University of Athens             12.708939   2.820536
-    National and Kapodistrian University of Athens      15.580563  12.205951
-    Panteion University of Social and Political Sci...  19.997472   5.095508
-    School of Pedagogical and Technological Educati...   7.749843   2.932085
-    Technical University of Crete                        8.956661   2.425052
-    University of Crete                                 14.423891   3.856913
-    University of Ioannina                              20.192230  16.140017
-    University of Macedonia                             21.054060  16.725694
-    University of Patras                                16.525183  15.039686
-    University of Peloponnese                           13.634321  13.485863
-    University of Piraeus                               18.399148   8.209151
-    University of Thessaly                              23.280228  24.279949
-    University of West Attica                           19.308367  24.234936
-    University of Western Macedonia                     13.204452  15.892921
-    University of the Aegean                            13.715516   8.288182
-
 
 ### Efficient Frontier
 
@@ -1432,12 +1105,6 @@ plt.grid(True)
 plt.legend(title="Institution", bbox_to_anchor=(1.05, 1), loc='upper left')   
 plt.show()
 ```
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_21_0.png)
-    
-
 
 
 ```python
@@ -1503,9 +1170,3 @@ plt.show()
 
 
 ```
-
-
-    
-![png](hahe-analytics_files/hahe-analytics_22_0.png)
-    
-
