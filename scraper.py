@@ -145,22 +145,11 @@ def scrape_data(soup: BeautifulSoup) -> List[Dict[str, Any]]:
 
 URL = "https://www.ethaae.gr/el/dedomena-aei/foitites-aei"
 
-HEADERS = {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-    "Origin": "https://www.ethaae.gr",
-    "Referer": "https://www.ethaae.gr/el/dedomena-aei/foitites-aei",
-}
 
 data = {
     "filter[collectionyear]": "2025",
     "filter[instituteid]": "4",
     "list[limit]": "0",
-    "task": "",
-    "boxchecked": "0",
-    "filter_order": "",
-    "filter_order_Dir": "",
-    "limitstart": "",
-    "4703fa291a36682ac6cea0d1cd8f4da8": "1",
     "list[fullordering]": "null ASC",
 }
 
@@ -172,7 +161,7 @@ for year in range(2022, 2026):
         data["filter[collectionyear]"] = str(year)
         data["filter[instituteid]"] = str(inst_id)
 
-        response = requests.post(URL, headers=HEADERS, data=data)
+        response = requests.post(URL, data=data)
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "html.parser")
