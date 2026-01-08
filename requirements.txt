@@ -2,5 +2,3 @@ pandas
 beautifulsoup4
 requests
 dotenv
-googlesearch-python
-nbconvert
