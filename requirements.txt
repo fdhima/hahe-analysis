@@ -7,3 +7,4 @@ notebook
 scipy
 scikit-learn
 tensorflow
+ruff

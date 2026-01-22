@@ -31,7 +31,7 @@ universities = [
     "Hellenic Army Academy",
     "Hellenic Air Force Academy",
     "Hellenic Naval Academy",
-    "Harokopio University of Athens"
+    "Harokopio University of Athens",
 ]
 
 os.makedirs("logos", exist_ok=True)
@@ -39,10 +39,8 @@ os.makedirs("logos", exist_ok=True)
 # ✅ Add a proper User-Agent string
 USER_AGENT = "UniversityLogoFetcher/1.0 (https://github.com/floriandima; contact: florian@example.com)"
 
-wiki = wikipediaapi.Wikipedia(
-    user_agent=USER_AGENT,
-    language="en"
-)
+wiki = wikipediaapi.Wikipedia(user_agent=USER_AGENT, language="en")
+
 
 def get_logo_url(page_title):
     page = wiki.page(page_title)
@@ -58,6 +56,7 @@ def get_logo_url(page_title):
         return "https:" + img["src"]
     return None
 
+
 def download_logo(uni):
     print(f"Searching logo for: {uni}")
     logo_url = get_logo_url(uni)
@@ -69,6 +68,7 @@ def download_logo(uni):
         print(f"Downloaded: {filename}")
     else:
         print(f"No logo found for {uni}")
+
 
 for u in universities:
     download_logo(u)
