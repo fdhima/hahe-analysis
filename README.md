@@ -26,9 +26,11 @@ This project aims to:
 | Folder / File | Description |
 |---------------|-------------|
 | `datasets/` | Raw and processed HAHE dataset for each academic year |
+| `figures/` | Figures for the final report. |
 | `hahe_all_21_24.csv` | Final HAHE dataset (all academic years) |
 | `charts/` | Visualizations created during analysis |
 | `hahe-analytics.ipynb` | Core Jupyter Notebook with analysis steps |
+| `hahe-forecast.ipynb` | Comparison of forecasting models; forecasting the number of graduates |
 | `requirements.txt` | Python dependencies used in the collecting and analysis of the data |
 
 ---
