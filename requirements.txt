@@ -8,4 +8,5 @@ scipy
 scikit-learn
 tensorflow
 xgboost
+seaborn
 ruff
