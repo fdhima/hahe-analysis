@@ -7,4 +7,5 @@ notebook
 scipy
 scikit-learn
 tensorflow
+xgboost
 ruff
